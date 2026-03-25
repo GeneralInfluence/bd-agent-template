@@ -3,6 +3,10 @@
 **Event:** ETH Prague Conference & Hackathon
 **Dates:** May 8-10, 2026
 **Venue:** Municipal House, Prague
+**Organized by:** Duct Tape Events + PWN DAO
+**Sponsor contact:** sponsor@ethprague.com
+**General contact:** contact@ethprague.com
+**Sponsorship deck:** https://sponsor.ethprague.com
 **Campaign Goal:** Identify people for Sean to meet and set up meetings pre-conference
 
 ---
@@ -174,4 +178,143 @@
 
 ---
 
-*Last updated: 2026-03-24*
+## Sponsor Leads (with Contact Info)
+
+### 🔆 Beam Tier (Top Sponsors)
+
+**Ackee Blockchain Security** — Smart contract auditing, security tooling, education (Prague-based)
+- Website: https://ackee.xyz
+- Josef Gattermayer, PhD — CEO & Co-Founder | Speaks at DevCon, teaches at CTU Prague
+- Tomas Bayer — COO, business development
+- Stepan Sonsky — Ethereum Team Lead
+- Jan Kalivoda — Ethereum Tech Lead
+- Contact: https://ackee.xyz/contact
+- Notes: Also built Wake (https://getwake.io). Audits for Lido, Safe, Aave, Axelar, 1inch, Trezor. $180B+ TVL protected. Strong Prague presence.
+
+**Gnosis Chain** — EVM L1, DeFi infrastructure
+- Website: https://gnosis.io
+- Martin Köppelmann — Co-Founder & CEO | Twitter: @koaboreppelman
+- Stefan George — Co-Founder & CTO
+- Friederike Ernst — Co-Founder & COO
+- Notes: Also a backer of PWN DAO. Major ecosystem player with grants programs.
+
+**Trezor / SatoshiLabs** — Crypto hardware wallets (pioneer since 2013)
+- Website: https://trezor.io | Parent: https://satoshilabs.com
+- Pavol Rusnák ("Stick") — Co-Founder
+- Marek Palatinus ("Slush") — Co-Founder
+- Tomas Susanka — CTO
+- Notes: 110+ employees, Prague-based, 100% self-owned. Already an Ackee audit client.
+
+**Ethswarm / Swarm Foundation** — Decentralized storage on Ethereum
+- Website: https://ethswarm.org
+- Viktor Tron — President | info@swarm.foundation
+- Edina Lovas — Vice-President
+- Gregor Žavcer — Council Member
+- Alexis Roussel — Council Member
+- Vero Estrada-Galiñanes — Council Member
+- Address: Swarm Foundation, Place Numa-Droz 2, 2000 Neuchâtel, Switzerland
+- Notes: Non-profit, Switzerland-based. Open-source focused.
+
+**Grego AI** — AI-powered smart contract vulnerability detection
+- Website: https://grego.ai
+- Riptide — Co-Founder / Security Researcher | Twitter: @0xriptide | Top 30 bug bounty hunter globally
+- Greg — Co-Founder / AI & Security | Twitter: @0xitsgreg
+- Contact: https://grego.ai/contact
+- Notes: Found high vuln in Lido ($33B TVL). 10+ confirmed bug bounties. Small team, likely approachable.
+
+### ⚡ Photon Tier
+
+**ENS (Ethereum Name Service)** — Human-readable blockchain addresses
+- Website: https://ens.domains | https://enslabs.org
+- Nick Johnson — Founder & Lead Developer | Twitter: @nicksdjohnson
+- Khori Whittaker — Executive Director
+- Twitter: @ensdomains
+- Notes: Non-profit (ENS Labs, founded 2018). ENS DAO governs protocol. Foundational Ethereum infra.
+
+### 🤝 Community Partners
+
+**Space Computer** — Satellite-based confidential compute ("Orbital Root of Trust")
+- Website: https://spacecomputer.io
+- ⚠️ No team names found — very stealth/minimal site
+- Notes: Early stage. Building space-native censorship-resistant compute. Needs deeper research.
+
+**Argot Collective** — Non-profit R&D maintaining Solidity & Ethereum core infra
+- Website: https://argot.org
+- ~25 former Ethereum Foundation employees (no individual names published — flat structure)
+- Twitter: @argotorg | Farcaster: @argotorg
+- Notes: Maintains Solidity, Hevm, Fe, Sourcify. Funded by EF grant (5-10yr runway). Very values-aligned with RaidGuild.
+
+**ODTÜ Blockchain** — University blockchain club (METU, Turkey)
+- Website: https://odtublockchain.vercel.app
+- Notes: Academic partner, not a commercial lead.
+
+### 🏢 Partners (mostly academic/ecosystem)
+- **FEL (CTU Prague)** — Czech Technical University
+- **Devfolio** — Hackathon platform (India-based)
+- **TUM Blockchain** — Technical University of Munich
+- **VSE** — Prague University of Economics
+- **CZM** — Czech Metrology center at CTU
+- **Rekola** — Prague bike-sharing
+- **ITU Blockchain** — Istanbul Technical University
+- **SheFi** — Women-focused DeFi education (https://shefi.org)
+
+*Most are academic/community — not primary BD targets.*
+
+### 🎪 Event Organizers
+
+**Duct Tape Events** — https://ducttape.events
+- Dan Ligocky — Creative Producer | [LinkedIn](https://www.linkedin.com/in/ligocky)
+- Vojta Loskot — Tech Director | [LinkedIn](https://www.linkedin.com/in/vojta-loskot)
+- Camilla — Head of Conference Program | [LinkedIn](https://www.linkedin.com/in/camilla-t-8884491b5/)
+- Ceci — Cat Herder (hackathon ops)
+- Alexandra Krejcikova — Event Coordinator | [LinkedIn](https://www.linkedin.com/in/alexandra-krejcikova-2012a717a/)
+
+**PWN DAO** — Permissionless DeFi lending (co-organizer)
+- Website: https://pwn.xyz
+- Josef Jelacic — Lead | Twitter: @josefje (also a speaker)
+- Twitter: @PWNFinance
+- Notes: $10M+ transacted. Backers: Gnosis, StarkWare, Safe, DFG.
+
+---
+
+## Contact Info Gaps
+- **Space Computer** — No team identified. Check Twitter, Farcaster, LinkedIn.
+- **Gnosis** — Team page is Framer SPA (didn't render). Founders listed from public knowledge.
+- **Argot** — Intentionally non-hierarchical, no names published. Try @argotorg on Twitter/Farcaster.
+- **Grego AI** — Only pseudonyms. Real names may be in Twitter bios.
+
+---
+
+## BD Priority Summary (Sponsors)
+
+**Tier 1 — High fit, likely need dev services:**
+1. Grego AI (small team, AI + security, likely needs frontend/fullstack)
+2. Space Computer (early stage, likely needs everything built)
+3. PWN DAO (DeFi protocol, community-driven, ongoing dev needs)
+4. ENS Labs (large ecosystem, grants program, potential funded work)
+
+**Tier 2 — Worth exploring:**
+5. Ethswarm (grants-oriented, may fund ecosystem tooling)
+6. Gnosis (large ecosystem with grants programs)
+7. Argot Collective (deeply values-aligned but focused on compiler/PL work)
+
+**Tier 3 — Lower priority:**
+8. Ackee/Wake (potential collaboration, not a client)
+9. Trezor/SatoshiLabs (large company, likely builds in-house)
+
+---
+
+## Campaign Timeline
+
+| Date | Action |
+|------|--------|
+| Mar 24 - Apr 4 | Research high-priority leads (roadmaps, governance, open needs) |
+| Apr 7 - Apr 11 | Draft outreach messages for top 10 leads |
+| Apr 14 - Apr 25 | Send outreach, request meetings |
+| Apr 28 - May 5 | Confirm meetings, prep talking points |
+| May 8-10 | ETH Prague — execute meetings |
+| May 12+ | Follow up, convert theoretical → warm leads |
+
+---
+
+*Last updated: 2026-03-25*
