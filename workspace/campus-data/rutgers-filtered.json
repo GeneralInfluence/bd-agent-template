@@ -1,0 +1,2990 @@
+[
+  {
+    "school": "rutgers",
+    "name": "Rutgers University Student Assembly (RUSA)",
+    "slug": "rusa",
+    "email": "RUSA.Assembly@gmail.com",
+    "summary": "The Rutgers University Student Assembly (RUSA) is the official governing body for undergraduate students at Rutgers, New Brunswick/Piscataway and allocates student fee funding to over 400 student organizations.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rusa"
+  },
+  {
+    "school": "rutgers",
+    "name": "90.3 The Core",
+    "slug": "thecore",
+    "email": "generalmanager@thecore.fm",
+    "summary": "90.3 The Core is the student run radio station on Livingston Campus. We work to deliver outstanding alternative radio programming with PHS, to embrace local music, and to engage with our community.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/thecore"
+  },
+  {
+    "school": "rutgers",
+    "name": "American Choral Directors Association",
+    "slug": "acda",
+    "email": "ruacda@gmail.com",
+    "summary": "The ACDA Chapter at Rutgers University aims to promote education and community in the Rutgers Choirs through professional developments, events, and exciting opportunities.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/acda"
+  },
+  {
+    "school": "rutgers",
+    "name": "Anime and Japanese Environmental Society",
+    "slug": "ajes",
+    "email": "ajes.ru@gmail.com",
+    "summary": "The purpose of our organization is to provide the students with a connection between Japanese animation, Japanese culture, and general entertainment.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ajes"
+  },
+  {
+    "school": "rutgers",
+    "name": "SCREAM Theater",
+    "slug": "scream",
+    "email": "screamtheater@gmail.com",
+    "summary": "SCREAM Theater is a peer educational, interactive theater program that provides information about interpersonal violence including sexual assault, dating violence, same-sex violence, stalking, bullying, and peer harassment.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/scream"
+  },
+  {
+    "school": "rutgers",
+    "name": "Asian A cappella Group (Rutgers)",
+    "slug": "raag",
+    "email": "ruraag@gmail.com",
+    "summary": "Rutgers RAAG is an award-winning, co-ed South Asian fusion a cappella group based out of Rutgers University in New Brunswick, New Jersey.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/raag"
+  },
+  {
+    "school": "rutgers",
+    "name": "Asian Student Council",
+    "slug": "ruasc",
+    "email": "rutgersasc@gmail.com",
+    "summary": "The ASC's vision is to excel as a dynamic presence in the Rutgers community, shaping and enriching the college experience of all Rutgers students. All are welcome, and encouraged, to participate as members.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruasc"
+  },
+  {
+    "school": "rutgers",
+    "name": "Business Information Technology Society",
+    "slug": "bits",
+    "email": "bits.rutgers@gmail.com",
+    "summary": "The purpose of the organization is to provide a network for Rutgers students with an interest in the Business Analytics and Information Technology major to increase opportunities and experiences in the field.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/bits"
+  },
+  {
+    "school": "rutgers",
+    "name": "Cabaret Theatre",
+    "slug": "cabarettheatre",
+    "email": "producer.cabarettheatre@gmail.com",
+    "summary": "Cabaret Theatre is a forum for students to learn about acting, directing, writing, business management, design, and construction through various workshops and hands-on experience.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/cabarettheatre"
+  },
+  {
+    "school": "rutgers",
+    "name": "Art History Student Association (Rutgers)",
+    "slug": "rahsa",
+    "email": "rutgersrahsa@gmail.com",
+    "summary": "The purpose of the association is to provide a network for students who are interested in art history or art, and to create a forum for students to discuss, debate and socialize over their love for the field.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rahsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Chi Alpha Epsilon",
+    "slug": "xae",
+    "email": "rutgersxae.epsilonmu@gmail.com",
+    "summary": "The Epsilon Mu Chapter within the Rutgers University School of Arts and Science Educational Opportunity Fund (EOF) Program strives to enhance the academic achievements of all its present future members.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/xae"
+  },
+  {
+    "school": "rutgers",
+    "name": "Cognitive Science Club",
+    "slug": "cognitivescienceclub",
+    "email": "rutgerscognitivescienceclub@gmail.com",
+    "summary": "Our organization is dedicated to creating an incredible Cognitive Science community here at Rutgers. We bring in top-tier speakers, thought-provoking debates, and mentorship opportunities!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/cognitivescienceclub"
+  },
+  {
+    "school": "rutgers",
+    "name": "American Cancer Society on RU Campus",
+    "slug": "americancancersocietyonrucampus",
+    "email": "acsrutgersnb@gmail.com",
+    "summary": "American Cancer Society on RU Campus is a nationwide collaboration of college students, faculty, and staff dedicated to eliminating cancer by initiating and supporting programs of the American Cancer Society in college communities.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/americancancersocietyonrucampus"
+  },
+  {
+    "school": "rutgers",
+    "name": "Diabetes Link (Rutgers)",
+    "slug": "rutgersdiabeteslink",
+    "email": "rutgers@thediabeteslink.org",
+    "summary": "The purpose of the organization Rutgers Diabetes Link was founded for the\r\npurpose of connecting college students with and affected by diabetes in the hopes that these\r\nconnections will create a support network.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgersdiabeteslink"
+  },
+  {
+    "school": "rutgers",
+    "name": "College Avenue Players",
+    "slug": "collegeaveplayers",
+    "email": "collegeavenueplayers@gmail.com",
+    "summary": "The College Avenue Players is an active performing arts organization based on the College Avenue campus of Rutgers University – New Brunswick.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/collegeaveplayers"
+  },
+  {
+    "school": "rutgers",
+    "name": "Criminal Justice Organization",
+    "slug": "criminaljusticeorganization",
+    "email": "CJOrganizationRU@gmail.com",
+    "summary": "We intend to inform and engage students, of relating majors, who are interested in the field Criminal Justice. To develop our members both academically as well as professionally, provide networking opportunities and engage them in community service.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/criminaljusticeorganization"
+  },
+  {
+    "school": "rutgers",
+    "name": "Designer Genes: Rutgers Biotechnology Club",
+    "slug": "designergenes",
+    "email": "designer.genes.ru@gmail.com",
+    "summary": "Designer Genes is THE biotechnology club at Rutgers, dedicated to aiding in the professional development of students in the field, serving and educating the community, and encouraging discussion about biotechnology!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/designergenes"
+  },
+  {
+    "school": "rutgers",
+    "name": "Dhol Effect (Rutgers University)",
+    "slug": "rude",
+    "email": "rudholeffect@gmail.com",
+    "summary": "Rutgers University Dhol Effect, also known as R.U.D.E., is the institution's only South-Asian fusion band composed of dynamic vocalists and instrumentalists.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rude"
+  },
+  {
+    "school": "rutgers",
+    "name": "Douglass Black Students' Congress",
+    "slug": "dbsc",
+    "email": "douglassblackstudentscongress@gmail.com",
+    "summary": "\"Our goal is to instill black consciousness into the college community\"",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/dbsc"
+  },
+  {
+    "school": "rutgers",
+    "name": "Douglass D.I.V.A.S.",
+    "slug": "douglassdivas",
+    "email": "douglassdivas14@gmail.com",
+    "summary": "This organization shall provide a network for students with a strong interest in women's issues, by providing a forum for students to discuss, debate, socialize and create lasting bonds.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/douglassdivas"
+  },
+  {
+    "school": "rutgers",
+    "name": "Fashion Organization of Retail and Marketing",
+    "slug": "form",
+    "email": "form.ru@gmail.com",
+    "summary": "FORM's goal is to unite Rutgers students with a passion for fashion, and provide them with opportunities to help them gain prospective careers in the business of fashion.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/form"
+  },
+  {
+    "school": "rutgers",
+    "name": "Fusion: The Rutgers Union of Mixed People",
+    "slug": "fusion",
+    "email": "fusion.rutgers@gmail.com",
+    "summary": "Fusion: The Rutgers Union of Mixed People aims to unite people who identify with or are interested in the multiracial experience (multiracial, multiethnic, interracial relationships, transracial adoption, etc.).",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/fusion"
+  },
+  {
+    "school": "rutgers",
+    "name": "Future Healthcare Administrators",
+    "slug": "fha",
+    "email": "fharutgers@gmail.com",
+    "summary": "Student-led organization dedicated to developing future healthcare leaders.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/fha"
+  },
+  {
+    "school": "rutgers",
+    "name": "Future Teachers Association",
+    "slug": "futureteachers",
+    "email": "ftacontact@gmail.com",
+    "summary": "The purpose of Future Teachers Association is to provide a network for students with a strong interest in teaching and/or education. This club provides helpful resources regarding graduate school applications, job opportunities, and scheduling.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/futureteachers"
+  },
+  {
+    "school": "rutgers",
+    "name": "Entrepreneurial Society (Rutgers)",
+    "slug": "res",
+    "email": "ruentrepreneurs@gmail.com",
+    "summary": "We are a community of innovators, creators and founders cultivating entrepreneurship and top talent at Rutgers University. Please check out our Instagram/discord page to keep up to date on upcoming events and opportunities!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/res"
+  },
+  {
+    "school": "rutgers",
+    "name": "Educational Opportunity Program Student Association",
+    "slug": "eopsa",
+    "email": "ru.eopsa@gmail.com",
+    "summary": "The purpose of EOPSA shall be to serve as a liaison between the student body of the Educational Opportunity Fund Program and the staff.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/eopsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "GlobeMed at Rutgers University",
+    "slug": "globemed",
+    "email": "rutgers@globemed.org",
+    "summary": "The mission of GlobeMed is to connect the assets of a student-led network to grassroots health organizations working in communities around the world.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/globemed"
+  },
+  {
+    "school": "rutgers",
+    "name": "Habitat for Humanity",
+    "slug": "habitatforhumanity",
+    "email": "ruhabitat@gmail.com",
+    "summary": "Rutgers Habitat for Humanity aims to advocate for our organization's vision to provide affordable and decent housing for families and individuals in need. We aim to promote the vision through fundraising and helping families through build sites.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/habitatforhumanity"
+  },
+  {
+    "school": "rutgers",
+    "name": "Busch Student Center - Student Staff",
+    "slug": "bscstaff",
+    "email": "cv193@scarletmail.rutgers.edu",
+    "summary": "We provide services, activities, programs and facilities that complement the academic mission of the University.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/bscstaff"
+  },
+  {
+    "school": "rutgers",
+    "name": "Hindu Students Council (Rutgers)",
+    "slug": "hsc",
+    "email": "rutgershsc@gmail.com",
+    "summary": "Rutgers HSC is a non-sectarian international forum for the education and promotion of the Hindu cultural and spiritual heritage.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/hsc"
+  },
+  {
+    "school": "rutgers",
+    "name": "Institute for Domestic and International Affairs (IDIA - Rutgers)",
+    "slug": "idia",
+    "email": "idia-eboard@idia.net",
+    "summary": "IDIA-RU provides a forum for Rutgers students who wish to help high schoolers understand their role in global and domestic civil society. We organize 4 annual Model United Nations and Congress conferences to educate, engage, and empower these students.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/idia"
+  },
+  {
+    "school": "rutgers",
+    "name": "Japanese Visual Culture Association",
+    "slug": "jvca",
+    "email": "rujvca@gmail.com",
+    "summary": "The Japanese Visual Culture Association aims to spread and partake in Japanese visual culture by promoting appreciation and involvement in relevant activities.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/jvca"
+  },
+  {
+    "school": "rutgers",
+    "name": "Korean-American Scientists and Engineers Association",
+    "slug": "ksea",
+    "email": "ksearutgers@gmail.com",
+    "summary": "KSEA-Rutgers serves as a university-based chapter for the nationally-established organization KSEA. We seek to provide members with networking opportunities as well as growth as scientists and engineers.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ksea"
+  },
+  {
+    "school": "rutgers",
+    "name": "Film Productions (Rutgers University)",
+    "slug": "rufp",
+    "email": "rufilmpro@gmail.com",
+    "summary": "Rutgers University Film Productions (RUFP) is a student-run organization that gives students of Rutgers University the opportunity to utilize and enhance their creative talents through the multi-faceted and exciting world of film production!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rufp"
+  },
+  {
+    "school": "rutgers",
+    "name": "Little Investment Bankers of Rutgers",
+    "slug": "libor",
+    "email": "rulibor@gmail.com",
+    "summary": "LIBOR is Rutgers University’s student-run finance organization. Our purpose is to prepare students for careers in financial services. We focus on placing students in \"front-office\" positions at leading firms on Wall Street.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/libor"
+  },
+  {
+    "school": "rutgers",
+    "name": "Latin American Womyn's Organization",
+    "slug": "lawo69",
+    "email": "lawo.rutgers@gmail.com",
+    "summary": "The Latin American Womxn’s Organization (LAWO) is a student-led cultural and advocacy group at Rutgers University dedicated to uplifting and empowering Latin American womxn.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/lawo69"
+  },
+  {
+    "school": "rutgers",
+    "name": "LLEGO: The LGBTQQIA People of Color Organization at Rutgers",
+    "slug": "llego",
+    "email": "llego.general@gmail.com",
+    "summary": "LLEGO examines social, economic, political and educational issues based on ethnicity, sexual orientation and gender identity which affect the lives and well being of lesbian, gay, bisexual, transgender, queer, questioning, and intersex  people of color.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/llego"
+  },
+  {
+    "school": "rutgers",
+    "name": "Meditation Club",
+    "slug": "meditationclub",
+    "email": "rutgersmeditation@gmail.com",
+    "summary": "We aim to cultivate a community centered on learning and practicing various forms of meditation to achieve a fuller understanding of oneself. Together in conversation, we hold space for exploring all areas of life which the practice of meditation touches",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/meditationclub"
+  },
+  {
+    "school": "rutgers",
+    "name": "National Association for the Advancement of Colored People",
+    "slug": "runaacp",
+    "email": "scarletnaacp@gmail.com",
+    "summary": "The purpose of this organization: to uplift and fight for the sole purpose of the minority, and to advance the social, political, economical, educational, and cultural status of the minority.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/runaacp"
+  },
+  {
+    "school": "rutgers",
+    "name": "Mounted Patrol",
+    "slug": "mountedpatrol",
+    "email": "rumounted@gmail.com",
+    "summary": "The purpose of this organization is to organize the Mounted Patrol division of the Community Service Officer program.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/mountedpatrol"
+  },
+  {
+    "school": "rutgers",
+    "name": "Muggle Mayhem",
+    "slug": "mugglemayhem",
+    "email": "rumugglemayhem@gmail.com",
+    "summary": "The Rutgers Chapter of the Harry Potter Alliance hopes to utilize the zeal and interest regarding the Harry Potter universe to bring about change in the real world, while also connecting through games and activities at general meetings",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/mugglemayhem"
+  },
+  {
+    "school": "rutgers",
+    "name": "oSTEM at Rutgers",
+    "slug": "ostem",
+    "email": "ostemrusje@gmail.com",
+    "summary": "To provide services and support for LGBTQ students in Science, Technology, Engineering, and Mathematics at Rutgers",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ostem"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Review (The)",
+    "slug": "rutgersreview",
+    "email": "therutgersreview@gmail.com",
+    "summary": "The Rutgers Review is an arts & culture magazine.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgersreview"
+  },
+  {
+    "school": "rutgers",
+    "name": "Venture Partners",
+    "slug": "venturecapitalclub",
+    "email": "ruventurecc@gmail.com",
+    "summary": "The Rutgers Venture Partner's mission is to equip the next generation of venture capitalists and entrepreneurs with the knowledge and network to shape the future of startups.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/venturecapitalclub"
+  },
+  {
+    "school": "rutgers",
+    "name": "Pre-Optometry Professions Society",
+    "slug": "pops",
+    "email": "rutgerspreoptometry@gmail.com",
+    "summary": "RU-POPS is an organization that is dedicated to helping educate and inform its members about the field and profession of optometry. We help each and every student find their full potential and guide the way to becoming an eye doctor.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/pops"
+  },
+  {
+    "school": "rutgers",
+    "name": "Oceanography Club",
+    "slug": "oceanographyclub",
+    "email": "sal339@scarletmail.rutgers.edu",
+    "summary": "The oceanography club provides a platform for students who are interested in oceanography, marine science, or just the ocean in general. It offers students a space to discuss and get involved with DMCS and learn about ocean science.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/oceanographyclub"
+  },
+  {
+    "school": "rutgers",
+    "name": "O Beta Alpha Kappa Omicron Nu",
+    "slug": "kon",
+    "email": "rutgerskon@gmail.com",
+    "summary": "Kappa Omicron Nu is a national honor society dedicated to recognizing and encouraging excellence in scholarship, research, and leadership in family and consumer sciences. The mission is to promote empowered leaders.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/kon"
+  },
+  {
+    "school": "rutgers",
+    "name": "Q&A: Queer and Asian",
+    "slug": "queer",
+    "email": "ruqueerandasian@gmail.com",
+    "summary": "Q&A: Queer and Asian aims to be an open forum, safer space, and a place of community for Asian Pacific Islander and Desi American LGBTQA+ students through discussion and programming that promotes community building and social education.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/queer"
+  },
+  {
+    "school": "rutgers",
+    "name": "Center for Youth Political Participation",
+    "slug": "ruvoting",
+    "email": "cypp@eagleton.rutgers.edu",
+    "summary": "RU Voting is a nonpartisan effort to register, educate, and mobilize Rutgers students for elections; a project of the Darien Civic Engagement Project in conjunction with the Center for Youth Political Participation at Eagleton Institute of Politics.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruvoting"
+  },
+  {
+    "school": "rutgers",
+    "name": "Business Governing Association (Rutgers)",
+    "slug": "rbga",
+    "email": "rgba.rbs@gmail.com",
+    "summary": "The Rutgers Business Governing Association (RBGA) is the student governing body of the Rutgers Business School (RBS).",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rbga"
+  },
+  {
+    "school": "rutgers",
+    "name": "United Black Council",
+    "slug": "unitedblackcouncil",
+    "email": "ubcrutgers@gmail.com",
+    "summary": "The purpose of this umbrella organization of all African, African-American and Afro-Caribbean student organizations of the Rutgers, New Brunswick campus is to strengthen and unite the student organizations that represent the aforementioned communities.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/unitedblackcouncil"
+  },
+  {
+    "school": "rutgers",
+    "name": "Psychological Society",
+    "slug": "psychsociety",
+    "email": "rupsychalliance@gmail.com",
+    "summary": "The mission of Psychological Society is to provide an open forum where members have the opportunity to learn about psychology.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/psychsociety"
+  },
+  {
+    "school": "rutgers",
+    "name": "RU Makers",
+    "slug": "rumakersclub",
+    "email": "rumakerspaceclub@gmail.com",
+    "summary": "In order to foster a community of people interested in DIY (Do It Yourself) projects including, but not limited to, electronics, 3D printing, laser cutting, and machine embroidery.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rumakersclub"
+  },
+  {
+    "school": "rutgers",
+    "name": "UNICEF (Rutgers)",
+    "slug": "rutgersunicef",
+    "email": "rutgersunicef@gmail.com",
+    "summary": "Join Rutgers UNICEF and work with people committed to making a difference through various interactive, philanthropic service events. We believe in putting children first around the world!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgersunicef"
+  },
+  {
+    "school": "rutgers",
+    "name": "United Mission for Relief and Development",
+    "slug": "ruumr",
+    "email": "rutgers@umrelief.org",
+    "summary": "The purpose of this club is to fulfill, on campus, the UMR purpose of striving “on a daily basis to implement targeted, cost-effective relief and development programs that improve lives&quot;.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruumr"
+  },
+  {
+    "school": "rutgers",
+    "name": "Thaakat Foundation",
+    "slug": "thaakat",
+    "email": "thaakatrunb@gmail.com",
+    "summary": "Our goal is to promote community service at Rutgers by participating in local projects while providing for our global projects. We aspire to bring hope to those outcasted in society and progress communities through education and healthcare development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/thaakat"
+  },
+  {
+    "school": "rutgers",
+    "name": "Unión Estudiantil Puertorriqueña (Rutgers)",
+    "slug": "ruep",
+    "email": "ruep.info@gmail.com",
+    "summary": "Rutgers Unión Estudantil Puertorriqueña [RUEP] is the ONLY Puerto Rican based organization at the collegiate level in New Jersey! RUEP was established in 1969 and we later helped co-establish the Department of Latino and Caribbean Studies.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruep"
+  },
+  {
+    "school": "rutgers",
+    "name": "TWESE, The Organization for African Students and Friends of Africa",
+    "slug": "twese",
+    "email": "rutwese@gmail.com",
+    "summary": "\"The purpose of this student organization is to provide academic and cultural integration assistance of African students, friends of Africa and also to provide a medium for social and intellectual interaction\"",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/twese"
+  },
+  {
+    "school": "rutgers",
+    "name": "Wanawake (Rutgers University)",
+    "slug": "wanawake",
+    "email": "ruwanawake2008@gmail.com",
+    "summary": "To serve as a breed of excellent men and women and leaders of integrity, vision, mission, and love, in lieu of the African history and experience. To unite college women for the interests of Africa and the promotion of its cultures.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/wanawake"
+  },
+  {
+    "school": "rutgers",
+    "name": "Pilot Me (RU)",
+    "slug": "pilotme",
+    "email": "rupilotme@gmail.com",
+    "summary": "Pilot Me Mentoring is a community service oriented organization that actively enriches the youth of the surrounding community of Rutgers University in New Brunswick.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/pilotme"
+  },
+  {
+    "school": "rutgers",
+    "name": "Reach Out And Read",
+    "slug": "roar",
+    "email": "ruroar@gmail.com",
+    "summary": "Rutgers Reach Out and Read is a nonprofit organization that gives young children in New Brunswick a foundation for success by incorporating books into pediatric care and encouraging families to read aloud together.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/roar"
+  },
+  {
+    "school": "rutgers",
+    "name": "Scarlet Cross - The Rutgers Medieval History and Reenactment Club",
+    "slug": "scarletcross",
+    "email": "RutgersScarletCross@gmail.com",
+    "summary": "Scarlet Cross Medieval Reenactment is an undergraduate student organization at Rutgers University in New Brunswick, New Jersey. Our group's purpose is to study and re-enact some of the more interesting parts of Medieval history.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/scarletcross"
+  },
+  {
+    "school": "rutgers",
+    "name": "Verbal Mayhem Poetry Collective",
+    "slug": "verbalmayhem",
+    "email": "rutgersverbalmayhem@gmail.com",
+    "summary": "Verbal Mayhem’s mission is to provide local and national opportunities for poetic performance, artistic growth and competition. Please join our Facebook group for updates https://www.facebook.com/groups/VerbalMayhem/",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/verbalmayhem"
+  },
+  {
+    "school": "rutgers",
+    "name": "Speech and Hearing Club, a NSSLHA Chapter (Rutgers University)",
+    "slug": "speechandhearingclub",
+    "email": "sek167@scarletmail.rutgers.edu",
+    "summary": "For a full description of our club, click on our page here!\r\n\r\nPlease join our Facebook group: https://www.facebook.com/groups/ruspeechandhearing\r\nand our Instagram Page @ rutgersnsslha",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/speechandhearingclub"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Commuter Student Association",
+    "slug": "rucommuter",
+    "email": "information.rcsa@gmail.com",
+    "summary": "The Rutgers Commuter Student Association is an inclusive volunteer student organization whose primary role is to serve commuter students’ needs and interests while building a community on campus.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rucommuter"
+  },
+  {
+    "school": "rutgers",
+    "name": "Roll for Initiative: the Rutgers Dungeons & Dragons Club",
+    "slug": "ru-dnd",
+    "email": "rutgersrollforinitiative@gmail.com",
+    "summary": "This club’s purpose is to grant students who play Dungeons & Dragons and other tabletop roleplaying games a place to meet one another, to share resources such as maps, rulebooks, and figurines, and to organize games with fellow club members.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ru-dnd"
+  },
+  {
+    "school": "rutgers",
+    "name": "Pakistani Student Association",
+    "slug": "psa",
+    "email": "Pakistanistudentassociationrut@gmail.com",
+    "summary": "To inform all interested persons of the culture and traditions of Pakistani culture.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/psa"
+  },
+  {
+    "school": "rutgers",
+    "name": "SEBS Governing Council",
+    "slug": "sebsgoverningcouncil",
+    "email": "president.sgc.council@gmail.com",
+    "summary": "The SEBS Governing Council (SGC) serves the student body of the Rutgers School of Environmental and Biological Sciences (SEBS).",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/sebsgoverningcouncil"
+  },
+  {
+    "school": "rutgers",
+    "name": "Unplugged - The Board Gaming Club",
+    "slug": "ruubgc",
+    "email": "rutgersboardgames@gmail.com",
+    "summary": "Do you like board games? If so, consider joining us to play some board games and make new friends! Whether you’re new to the hobby or are a seasoned board gamer, everyone is welcome!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruubgc"
+  },
+  {
+    "school": "rutgers",
+    "name": "Supply Chain Association (Rutgers University)",
+    "slug": "rusca",
+    "email": "rusca.rbs@gmail.com",
+    "summary": "RUSCA is the premier supply chain management club on the New Brunswick campus. Our organization focuses on connecting supply chain students with corporate and academic experiences to promote their growth as future Supply Chain professionals.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rusca"
+  },
+  {
+    "school": "rutgers",
+    "name": "Undergraduate Mathematics Association",
+    "slug": "ruma",
+    "email": "math.ruma@gmail.com",
+    "summary": "The purpose of the organization will be to support and encourage the study of undergraduate mathematics by fostering professional growth, development and interest in the mathematical sciences among the students of Rutgers University.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruma"
+  },
+  {
+    "school": "rutgers",
+    "name": "Undergraduate Student Alliance of Computer Scientists",
+    "slug": "usacs",
+    "email": "rutgersusacs@gmail.com",
+    "summary": "USACS is Rutgers' main Computer Science student org! Our mission is to support CS students academically, socially, and professionally. We accomplish this via our 4 committees: Technology, Education, Community, and Outreach.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/usacs"
+  },
+  {
+    "school": "rutgers",
+    "name": "Landscape Architecture Club (Rutgers Student Chapter of the ASLA)",
+    "slug": "ruasla",
+    "email": "ru.njasla@gmail.com",
+    "summary": "Join us on an exploration of the many facets of Landscape Architecture. This club expands our education with professional events, collaborations with other clubs, and community involvement. All are welcome, for LA only benefits from diverse disciplines!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruasla"
+  },
+  {
+    "school": "rutgers",
+    "name": "Public Relations Student Society of America",
+    "slug": "prssa",
+    "email": "rutgersuprssa@gmail.com",
+    "summary": "To educate its members about the field of public relations through workshops, panels and speakers. The chapter's mission is to enhance members' knowledge of public relations by providing access to professional development opportunities.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/prssa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Black Mens Collective (The)",
+    "slug": "bmcru",
+    "email": "rublackmenscollective@gmail.com",
+    "summary": "To aid in the development of male leaders of color, strive for academic excellence, and provide mentorship opportunities.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/bmcru"
+  },
+  {
+    "school": "rutgers",
+    "name": "Chinese Student Organization",
+    "slug": "rucso",
+    "email": "rutgerscso@gmail.com",
+    "summary": "To raise awareness and help establish identity by providing students with the opportunity to learn and socialize with others through common grounds in Chinese and Asian American culture.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rucso"
+  },
+  {
+    "school": "rutgers",
+    "name": "Desi Intercultural Youth Association",
+    "slug": "diya",
+    "email": "diya.rutgers@gmail.com",
+    "summary": "To celebrate various South Asian Cultures within our student body and to spread awareness of both South Asian Cultural norms and activities, as well as awareness of issues affecting the South Asian community within Rutgers University.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/diya"
+  },
+  {
+    "school": "rutgers",
+    "name": "Douglass Student Recruitment Network",
+    "slug": "dsrnru",
+    "email": "dsrnchairwoman@gmail.com",
+    "summary": "The purpose of DSRN is to provide prospective and enrolled students with the opportunity to explore and understand Douglass Residential College through the Douglass experience.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/dsrnru"
+  },
+  {
+    "school": "rutgers",
+    "name": "Kidney Disease Screening and Awareness Program (Rutgers)",
+    "slug": "kdsapru",
+    "email": "RUKDSAP@gmail.com",
+    "summary": "The Kidney Disease Screening and Awareness Program is a student-run organization that provides free kidney health screenings and health education to underserved communities.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/kdsapru"
+  },
+  {
+    "school": "rutgers",
+    "name": "Building Research, Advocacy, and Innovation in Neuroscience",
+    "slug": "brain",
+    "email": "rutgersbrain@gmail.com",
+    "summary": "BRAIN strives to inform its members and the Rutgers community, of global developments and interests in the fields of Neuroscience and Psychology through biweekly meetings, museum trips, volunteer work, hosting guest speakers, charity events, and more!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/brain"
+  },
+  {
+    "school": "rutgers",
+    "name": "Mason Gross Student Governing Association",
+    "slug": "mgsga",
+    "email": "mgstudentgov@gmail.com",
+    "summary": "Our mission is to enhance education and opportunity for Mason Gross students; to promote the arts, including an open forum for interdisciplinary collaboration and communication; and to create a strong voice for the student body internally and externally.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/mgsga"
+  },
+  {
+    "school": "rutgers",
+    "name": "Alpha Delta Phi",
+    "slug": "ru_alphadeltaphi",
+    "email": "ruadphi@gmail.com",
+    "summary": "Since its creation in 1832 at Hamilton College, Alpha Delta Phi has held itself to the highest standard of excellence.  Our 50,000+ alumni include former Presidents and Senators of the United States, as well as leaders in business and the sciences.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ru_alphadeltaphi"
+  },
+  {
+    "school": "rutgers",
+    "name": "Zeta Tau Alpha",
+    "slug": "zetataualpha",
+    "email": "ztarutgerspresident@gmail.com",
+    "summary": "Consistent with our Founders' thoughts in 1898, our primary purpose at Rutgers is to create an environment for sisters in which lasting friendships and our vows of sisterhood emanate all aspects of our Fraternity.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/zetataualpha"
+  },
+  {
+    "school": "rutgers",
+    "name": "Chi Psi",
+    "slug": "chipsi",
+    "email": "chipsisecretary@gmail.com",
+    "summary": "Chi Psi at Rutgers University is one of 32 Alphas (or Chapters) of the first social Fraternity, founded on May 20th, 1841. Our history, and devotion to brotherhood, defines our experience as Chi Psis.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/chipsi"
+  },
+  {
+    "school": "rutgers",
+    "name": "Delta Gamma",
+    "slug": "deltagamma",
+    "email": "president.epsilonpsi@gmail.com",
+    "summary": "Consistent with our Founders' thoughts in 1873, our primary purpose is to create an environment for our members in which lasting friendships and our vows of sisterhood emanate all aspects of our Fraternity.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/deltagamma"
+  },
+  {
+    "school": "rutgers",
+    "name": "Delta Sigma Pi",
+    "slug": "deltasigmapi",
+    "email": "rutgersdeltasig@gmail.com",
+    "summary": "America's Foremost Co-Ed Business Fraternity",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/deltasigmapi"
+  },
+  {
+    "school": "rutgers",
+    "name": "Sigma Phi Delta",
+    "slug": "spdomega",
+    "email": null,
+    "summary": "the organization is the only fraternity of its kind that draws its membership exclusively from male engineering students at ABET-accredited colleges and universities",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/spdomega"
+  },
+  {
+    "school": "rutgers",
+    "name": "Sigma Phi Epsilon",
+    "slug": "sigmaphiepsilon",
+    "email": null,
+    "summary": "SigEp is redefining fraternity on college campuses across the country.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/sigmaphiepsilon"
+  },
+  {
+    "school": "rutgers",
+    "name": "RUSA Allocations Board",
+    "slug": "rusaallocations",
+    "email": "rusa.allocations@gmail.com",
+    "summary": "The RUSA Allocations Board is an affiliated committee of RUSA and is responsible for the allocation of funds to registered Rutgers University Student Organizations as well as various registered events on an as needed basis.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rusaallocations"
+  },
+  {
+    "school": "rutgers",
+    "name": "Iota Phi Theta",
+    "slug": "iotaphitheta",
+    "email": "Alphapsi@iotaphitheta.org",
+    "summary": "As Iota Phi Theta continues to grow and strengthen, so will its commitment to make meaningful contributions to society in general, with particular emphasis in the African-American community",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/iotaphitheta"
+  },
+  {
+    "school": "rutgers",
+    "name": "Kappa Sigma Fraternity",
+    "slug": "rutgerskappasigma",
+    "email": null,
+    "summary": "Kappa Sigma is focused upon the Four Pillars of Fellowship, Leadership, Scholarship and Service.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgerskappasigma"
+  },
+  {
+    "school": "rutgers",
+    "name": "Nu Alpha Phi",
+    "slug": "nualphaphi",
+    "email": "wrath.naphi@gmail.com",
+    "summary": "Asian-Interest social fraternity that seeks to build a bond of brotherhood passed down from generation to generation that focuses on self-development, as well as creating a positive impact in the community through service and outreach.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/nualphaphi"
+  },
+  {
+    "school": "rutgers",
+    "name": "Alpha Phi Alpha",
+    "slug": "dialphaphialpha",
+    "email": "deltaiota1906@gmail.com",
+    "summary": "Alpha Phi Alpha Fraternity, Inc., develops leaders, promotes brotherhood and academic excellence, while providing service and advocacy for our communities.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/dialphaphialpha"
+  },
+  {
+    "school": "rutgers",
+    "name": "Pi Kappa Phi",
+    "slug": "pikappaphi",
+    "email": "rupkpexec@gmail.com ",
+    "summary": "Pi Kappa Phi: Iota Tau Chapter at Rutgers University",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/pikappaphi"
+  },
+  {
+    "school": "rutgers",
+    "name": "Professional Development Committee (Student Affairs)",
+    "slug": "saprofessionaldevelopment",
+    "email": "amnewma@echo.rutgers.edu",
+    "summary": "Professional Development Committee for Division of Student Affairs.  This committee provides professional development for professional full time staff members employed in the Division of Student Affairs.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/saprofessionaldevelopment"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers University Programming Association",
+    "slug": "rupa",
+    "email": "rupainformation@gmail.com",
+    "summary": "The Rutgers University Programming Association (RUPA) is the university-wide student programming council that serves the entire Rutgers community.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rupa"
+  },
+  {
+    "school": "rutgers",
+    "name": "RU-TV Broadcast Communication Living-Learning Community: Busch Campus",
+    "slug": "rutvbroadcastcommunicationlivinglearningcommunity",
+    "email": null,
+    "summary": "This community offers students the opportunity to work and learn in the field of broadcast communication while living with students who share common interests.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutvbroadcastcommunicationlivinglearningcommunity"
+  },
+  {
+    "school": "rutgers",
+    "name": "Livingston Social Justice and Service Learning Community (IMPACT): Livingston Campus",
+    "slug": "livingstonsocialjusticeandservice",
+    "email": "gendick@rci.rutgers.edu",
+    "summary": "The overarching goal of IMPACT is to produce the next generation of social justice advocates, activists, and educators through credit-bearing, co-curricular, and community service programs.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/livingstonsocialjusticeandservice"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Hall Association (RHA)",
+    "slug": "residenthallassociation",
+    "email": "ru.rha.directoroftech@gmail.com",
+    "summary": "The Rutgers Residence Hall Association (RHA) is a student government organization which represents all students living in the residence halls across all five campuses.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/residenthallassociation"
+  },
+  {
+    "school": "rutgers",
+    "name": "Demarest Residential Community: College Ave Campus",
+    "slug": "demarestresidentialcommunity",
+    "email": null,
+    "summary": "The Demarest community offers students the ability to participate in at least one of ten special interest sections.  Sections are small groups of students that come together based on a common interest e.g. Performing Arts, Music Appreciation, etc.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/demarestresidentialcommunity"
+  },
+  {
+    "school": "rutgers",
+    "name": "Latin Images: College Ave Campus",
+    "slug": "latinimages",
+    "email": "gendick@rci.rutgers.edu",
+    "summary": "The Latin Images Special Interest Section was founded in 1977 as a result of efforts by the Latino community at Rutgers College in an effort to provide a place for students to call their “Home away from Home.”",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/latinimages"
+  },
+  {
+    "school": "rutgers",
+    "name": "Alpha Pi Mu",
+    "slug": "alphapimu",
+    "email": "alphapimu@rutgers.edu",
+    "summary": "The Mission of Alpha Pi Mu\r\n •To confer recognition upon the industrial engineering student who has shown exceptional academic interests and abilities in his field.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/alphapimu"
+  },
+  {
+    "school": "rutgers",
+    "name": "American Institute of Chemical Engineers",
+    "slug": "aiche",
+    "email": "aiche.rutgers@gmail.com",
+    "summary": "AIChE is the world's leading organization for chemical engineering professionals, with over 45,000 members from over 100 countries.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/aiche"
+  },
+  {
+    "school": "rutgers",
+    "name": "Engineering Governing Council",
+    "slug": "engineeringgoverningcouncil",
+    "email": "egc.rutgersengineering@gmail.com",
+    "summary": "The Engineering Governing Council (EGC) is the governing body of the Rutgers University School of Engineering on the New Brunswick/Piscataway Campus.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/engineeringgoverningcouncil"
+  },
+  {
+    "school": "rutgers",
+    "name": "Chi Epsilon",
+    "slug": "chiepsilon",
+    "email": "rutgersxe@gmail.com",
+    "summary": "We are members of the Rutgers University chapter of Chi Epsilon - the national civil engineering honor society.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/chiepsilon"
+  },
+  {
+    "school": "rutgers",
+    "name": "Institute of Industrial and Systems Engineers",
+    "slug": "iise",
+    "email": "Rutgers.iise@gmail.com",
+    "summary": "IISE is the world's largest professional society dedicated solely to the support of the industrial engineering profession and individuals involved with improving quality and productivity.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/iise"
+  },
+  {
+    "school": "rutgers",
+    "name": "Minority Engineering Educational Task",
+    "slug": "meet",
+    "email": "meet.president@gmail.com",
+    "summary": "MEET is a premier organization on campus that promotes the increase of the minority retention within engineering. The organization works to increase the professionalism of members while also insuring that they are academically sound.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/meet"
+  },
+  {
+    "school": "rutgers",
+    "name": "Omega Chi Epsilon",
+    "slug": "omegachiepsilon",
+    "email": "oxe.rutgers@gmail.com",
+    "summary": "Omega Chi Epsilon is the National Honor Society for Chemical Engineering undergraduate and graduate students.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/omegachiepsilon"
+  },
+  {
+    "school": "rutgers",
+    "name": "Pi Tau Sigma",
+    "slug": "pitausigma",
+    "email": "ptsrutgersnb@gmail.com",
+    "summary": "The official Rutgers - New Brunswick Iota chapter of Pi Tau Sigma, the International Mechanical Engineering Honor Society. Eligible members will have the chance to be inducted their junior or senior year.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/pitausigma"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers International Society for Optics and Photonics Student Chapter",
+    "slug": "spie",
+    "email": "spierutgers@gmail.com",
+    "summary": "SPIE is the International Society for Optics and Photonics, a highly renowned society with more than 17,000 members worldwide.\r\nThe society is related to the field of photonics, which is the science of light and a field with contributions and applications",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/spie"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Solar Car Team",
+    "slug": "solarcarteam",
+    "email": "rusolarcarclub+recruiting@gmail.com",
+    "summary": "Rutgers Solar Car Team strives to provide ambitious students of all majors an opportunity to gain hands-on experience working on a project that requires dedication, teamwork, and ingenuity, in order to produce a competitive and roadworthy solar vehicle",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/solarcarteam"
+  },
+  {
+    "school": "rutgers",
+    "name": "Society of Women Engineers",
+    "slug": "societyofwomenengineers",
+    "email": "ru.swe.pres@gmail.com",
+    "summary": "The Rutgers SWE Section consists of student of all genders whose cause is to support and promote women in engineering. SWE provides a platform for women to achieve full potential in careers as engineers and leaders and demonstrates the value of diversity",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/societyofwomenengineers"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Residence Life",
+    "slug": "reslife",
+    "email": "mukul.acharya@rutgers.edu",
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/reslife"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: Busch - Davidson",
+    "slug": "davidson",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/davidson"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: College Avenue - Sojourner Truth Apartments",
+    "slug": "cac_apats-ucenter",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/cac_apats-ucenter"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: Busch - Thomas, Crosby, Judson and Morrow Suites",
+    "slug": "echopoint",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/echopoint"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: Busch - McCormick and Winkler Suites",
+    "slug": "mccwink",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/mccwink"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: College Avenue - Honors College",
+    "slug": "honors",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/honors"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: Livingston - Lynton Towers",
+    "slug": "southtowers",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/southtowers"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: College Avenue - Demarest Hall",
+    "slug": "demarest",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/demarest"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: Livingston - Livingston Apartments",
+    "slug": "liviapts",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/liviapts"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: College Avenue - Bishop Quad",
+    "slug": "bishop",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/bishop"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: College Avenue - Stonier Hall",
+    "slug": "stonier",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/stonier"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: Livingston - Quad I",
+    "slug": "quad-i",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/quad-i"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: Livingston - Quad II",
+    "slug": "quad-ii",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/quad-ii"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: College Avenue - Tinsley Hall",
+    "slug": "tinsley",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/tinsley"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: College Avenue - Brett Hall",
+    "slug": "brett",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/brett"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: Livingston - Quad III",
+    "slug": "quad-iii",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/quad-iii"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: College Avenue - Mettler Hall",
+    "slug": "mettler",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/mettler"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: College Avenue - Clothier Hall",
+    "slug": "clothier",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/clothier"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: College Avenue - Hardenbergh Hall",
+    "slug": "hardenbergh",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/hardenbergh"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: College Avenue - Frelinghuysen",
+    "slug": "frelinghuysen",
+    "email": null,
+    "summary": "Rutgers Residence Life supports the mission of the University by fostering the creation of safe, comfortable, and inclusive residential communities which are conducive to student development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/frelinghuysen"
+  },
+  {
+    "school": "rutgers",
+    "name": "Living-Learning Community Peer Mentors",
+    "slug": "llcpeermentor",
+    "email": "ariel.leget@rutgers.edu",
+    "summary": "The Peer Mentors for Living Learning Communities will be primarily responsible for the academic and professional development of their respective residents.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/llcpeermentor"
+  },
+  {
+    "school": "rutgers",
+    "name": "Scarlet Honor Council",
+    "slug": "scarlethonorcouncil",
+    "email": null,
+    "summary": "The Scarlet Honor Council is a team of students committed to upholding Rutgers' community standards and promoting a safe and civil campus environment.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/scarlethonorcouncil"
+  },
+  {
+    "school": "rutgers",
+    "name": "Society of Plastics Engineers",
+    "slug": "spe",
+    "email": "sperutgers@gmail.com",
+    "summary": "The Rutgers Student Chapter of SPE focuses on introducing students to the world of plastics and connecting them with professionals in the industry. Students from any major with an interest in plastics and their applications are welcome to join.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/spe"
+  },
+  {
+    "school": "rutgers",
+    "name": "American Society of Civil Engineers",
+    "slug": "asce",
+    "email": "rutgersasce@gmail.com",
+    "summary": "With a full suite of programs and resources to help you thrive, ASCE membership will help provide you with the knowledge and opportunities you’ll need to jump into the industry, get on the right career path, and have fun doing it.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/asce"
+  },
+  {
+    "school": "rutgers",
+    "name": "MEDLIFE - Rutgers University",
+    "slug": "medliferutgers",
+    "email": "medliferutgersnb@gmail.com",
+    "summary": "MEDLIFE Rutgers supports the mission to provide healthcare, education, and safe housing to low-income families globally. It raises awareness, fundraises, and engages students in service, promoting a collaborative, inclusive, and responsible culture.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/medliferutgers"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Personal Finance Club",
+    "slug": "rutgerspersonalfinanceclub",
+    "email": "pfcrutgers@gmail.com",
+    "summary": "To empower undergraduate students toward achieving financial independence, flexibility, and stability and provide them with opportunities to develop a career in portfolio and investment management.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgerspersonalfinanceclub"
+  },
+  {
+    "school": "rutgers",
+    "name": "Chemistry Society (Rutgers)",
+    "slug": "rutgerschemistrysociety",
+    "email": "ruchemsociety@gmail.com",
+    "summary": "The Rutgers Chemistry Club aims to foster a passion for chemistry across all majors by organizing interactive hands-on events, accessible science seminars, social gatherings, and volunteering opportunities, welcoming students from any discipline.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgerschemistrysociety"
+  },
+  {
+    "school": "rutgers",
+    "name": "Douglass Friends of UNFPA",
+    "slug": "douglassfriendsofunfpa",
+    "email": "rutgers.rhut@gmail.com",
+    "summary": "The Reproductive Health Universal TaskForce (formerly The Douglass Friends of UNFPA) is for students who are interested in population and development issues, reproductive and maternal health, and infant mortality.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/douglassfriendsofunfpa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Phi Sigma Tau, National Honor Society in Philosophy",
+    "slug": "pst",
+    "email": null,
+    "summary": "The purpose of Phi Sigma Tau is to encourage interest and activity among students and to promote ties between philosophy departments in accredited institutions.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/pst"
+  },
+  {
+    "school": "rutgers",
+    "name": "Engineers in Action",
+    "slug": "rutgersb2p",
+    "email": "eia.rutgers@gmail.com",
+    "summary": "Engineers in Action's Rutgers Chapter aims to engage students in order to help provide resources and opportunities to use their academic training to provide essential infrastructure for villagers suffering from rural isolation.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgersb2p"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers New Brunswick SACNAS (Advancing Chicanos/Hispanics & Native Americans in Science)",
+    "slug": "rusacnas",
+    "email": "RUSACNAS@gmail.com",
+    "summary": "The Society for the Advancement of Chicanos and Native Americans in Science is an organization meant to foster the success of underrepresented minorities in science. SACNAS serves as a support group that provides all members with the tools to succeed.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rusacnas"
+  },
+  {
+    "school": "rutgers",
+    "name": "Center for Latino Arts and Culture",
+    "slug": "clac",
+    "email": "clac.info@rutgers.edu",
+    "summary": "The Center for Latino Arts and Culture is a student-centered, inclusive community where students can better integrate experiential, academic, and service-learning about Latine/x arts and culture at Rutgers.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/clac"
+  },
+  {
+    "school": "rutgers",
+    "name": "Her Campus Rutgers",
+    "slug": "hercampusrutgers",
+    "email": "hercampusrutgers@gmail.com",
+    "summary": "Want to join a community of empowered and creative women? Join Her Campus for the ideal place to share your voice through article writing and digital content creation! Our fun-filled social events are the perfect opportunity to find a family at Rutgers.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/hercampusrutgers"
+  },
+  {
+    "school": "rutgers",
+    "name": "Hindi-Urdu Language and Culture Club",
+    "slug": "hindi_urdu_language_and_culture_club",
+    "email": "rutgers.hulca@gmail.com",
+    "summary": "The Hindi-Urdu Language and Culture Association is a space for students interested in the Hindi and Urdu languages in which they can explore the Hindi-Urdu language, its literature, and the culture of its speakers.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/hindi_urdu_language_and_culture_club"
+  },
+  {
+    "school": "rutgers",
+    "name": "International Friendship Program",
+    "slug": "ifp",
+    "email": "rutgers.ifp@gmail.com",
+    "summary": "The International Friendship Program (IFP) is about bringing Rutgers international students together with Rutgers and local community members in a comfortable environment that is conducive to cross-cultural friendship and learning.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ifp"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Geek Week",
+    "slug": "geekweek",
+    "email": null,
+    "summary": "Geek Week is an nationally recognized annual week of events celebrating all things “geeky” at Rutgers University.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/geekweek"
+  },
+  {
+    "school": "rutgers",
+    "name": "Sigma Tau Delta",
+    "slug": "sigmataudelta",
+    "email": "sigmataudeltaru@gmail.com",
+    "summary": "Our local chapter of Sigma Tau Delta, the International English Honor Society, aims to promote exemplary scholarship and literary engagement at Rutgers University.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/sigmataudelta"
+  },
+  {
+    "school": "rutgers",
+    "name": "Art and Design Club (Rutgers)",
+    "slug": "rad",
+    "email": "rutgersartdesign@gmail.com",
+    "summary": "Join and pursue all forms of art and design including drawing, painting, crafts, and more! We meet Fridays 5:30-7PM at Murray Hall.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rad"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Packaging Engineering Club",
+    "slug": "packagingclub",
+    "email": "rutgerspackagingclub@gmail.com",
+    "summary": "Rutgers Packaging Engineering Club allows for students majoring in packaging engineering or completing a packaging certificate to connect and network with fellow students, company representatives, and alumni.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/packagingclub"
+  },
+  {
+    "school": "rutgers",
+    "name": "Gift of Life - Rutgers Chapter",
+    "slug": "golrutgers",
+    "email": null,
+    "summary": "Gift of Life – Rutgers Chapter raises awareness for the bone marrow donation process. Gift of Life - Rutgers Chapter collaborates with the Gift of Life national organization to help raise awareness and get everyone swabbed into the bone marrow registry.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/golrutgers"
+  },
+  {
+    "school": "rutgers",
+    "name": "RU Origami Club",
+    "slug": "origamiclub",
+    "email": "ruorigamiclub@gmail.com",
+    "summary": "Join our club to learn new origami folds every week, make new friends, and participate in service events to give back to the community! Snacks, drinks, and paper is always provided. New members and beginners are always welcome!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/origamiclub"
+  },
+  {
+    "school": "rutgers",
+    "name": "Accounting Association (Rutgers University)",
+    "slug": "ruaa",
+    "email": "rutgersacct@gmail.com",
+    "summary": "The RUAA, Rutgers University Accounting Association, strives to provide current, new, and prospective accounting students with the resources they need to improve themselves and succeed both at Rutgers and in the professional world.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruaa"
+  },
+  {
+    "school": "rutgers",
+    "name": "RU Progressive",
+    "slug": "ruprogressive",
+    "email": "rutgersprogressives@gmail.com",
+    "summary": "RU Progressive organizes to bring about progressive change in all spheres of our community through civic education, political action, voter registration, etc.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruprogressive"
+  },
+  {
+    "school": "rutgers",
+    "name": "SGC Allocations Board",
+    "slug": "sebsallocations",
+    "email": "allocations.sgc.council@gmail.com",
+    "summary": "The SEBS Governing Council Allocations Committee allocates funding from SEBS student fees to student organizations within the School of Environmental and Biological Sciences.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/sebsallocations"
+  },
+  {
+    "school": "rutgers",
+    "name": "National Residence Hall Honorary",
+    "slug": "nrhh",
+    "email": "rutgersnrhh@gmail.com",
+    "summary": "NRHH is the leadership based honorary comprised of exemplary residential students who value service and recognition.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/nrhh"
+  },
+  {
+    "school": "rutgers",
+    "name": "First Generation Student Union",
+    "slug": "firstgen",
+    "email": "rufgsu@gmail.com",
+    "summary": "FGSU provides a community of support and resources for academic and professional success. Students will discuss key issues affecting first generation students, attend workshops, meet speakers and scholars, and volunteer for community service trips.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/firstgen"
+  },
+  {
+    "school": "rutgers",
+    "name": "Barbara Voorhees Mentors",
+    "slug": "barbaravoorheesmentors",
+    "email": null,
+    "summary": "The Barbara Voorhees Mentor Program, located at the heart of the Douglass mission, serves to connect incoming students with the Douglass Residential College. Mentors are assigned to individual sections of the first-year course \"Issues in Women’s Leadersh",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/barbaravoorheesmentors"
+  },
+  {
+    "school": "rutgers",
+    "name": "Douglass Global Ambassadors",
+    "slug": "douglassglobalambassadors",
+    "email": null,
+    "summary": "please fill in",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/douglassglobalambassadors"
+  },
+  {
+    "school": "rutgers",
+    "name": "Red Pine Ambassadors",
+    "slug": "redpineambassadors",
+    "email": "rpachairwoman@gmail.com",
+    "summary": "This Organization is sponsored by the Douglass Residential College Program and is advised by Kimberly Apadula, kapadula@echo.rutgers.edu",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/redpineambassadors"
+  },
+  {
+    "school": "rutgers",
+    "name": "Douglass Social Media Team",
+    "slug": "douglasssocialmediateam",
+    "email": null,
+    "summary": "please fill in",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/douglasssocialmediateam"
+  },
+  {
+    "school": "rutgers",
+    "name": "STEM Ambassadors",
+    "slug": "stemambassadors",
+    "email": null,
+    "summary": "please fill in",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/stemambassadors"
+  },
+  {
+    "school": "rutgers",
+    "name": "STEM Research Advisory Board",
+    "slug": "stemresearchadvisoryboard",
+    "email": null,
+    "summary": "please fill in",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/stemresearchadvisoryboard"
+  },
+  {
+    "school": "rutgers",
+    "name": "The Daily Targum",
+    "slug": "thedailytargum",
+    "email": "managed@dailytargum.com",
+    "summary": "Founded in 1869, the Daily Targum is the second oldest collegiate newspaper in the country. Student-written, student managed, and independent since 1980; the Daily Targum is dedicated to providing news coverage to the Rutgers community.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/thedailytargum"
+  },
+  {
+    "school": "rutgers",
+    "name": "Chem-E-Car",
+    "slug": "chem-e-car",
+    "email": "rutgerschemecar2018@gmail.com",
+    "summary": "Sponsored by the American Institute of Chemical Engineers, or AIChE, the Chem-E-Car competition is a bi-annual event which tests the rigor, teamwork and creativity of individual AIChE chapters.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/chem-e-car"
+  },
+  {
+    "school": "rutgers",
+    "name": "F.A.C.E Modeling Team",
+    "slug": "facemodelingteam",
+    "email": "facemodelingteam@gmail.com",
+    "summary": "A unique modeling team that promotes fashion, art, confidence and entertainment. Our purpose is to combine the love of fashion and modeling techniques to exude and build confidence.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/facemodelingteam"
+  },
+  {
+    "school": "rutgers",
+    "name": "National Black Law Students Association-Pre Law Division",
+    "slug": "nbplsa",
+    "email": "ru.nblsa@gmail.com",
+    "summary": "The mission of NBLSA is to increase the number of culturally responsible Black and minority attorneys who excel academically, succeed professionally, and positively impact the community.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/nbplsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Pre PA Club (Rutgers)",
+    "slug": "ruppa",
+    "email": "rutgersprepa@gmail.com",
+    "summary": "This club is meant to guide students that are interested in the physician assistant profession, touching on everything from how to be a competitive applicant to the daily life of a PA!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruppa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Petey Greene (Rutgers)",
+    "slug": "rutgerspeteygreene",
+    "email": "rutgerspeteygreene@gmail.com",
+    "summary": "Petey Greene is a national program that enables college students to volunteer in free, high-quality tutoring to incarcerated and formerly incarcerated people while educating volunteers on the injustice in our carceral system. Feel free to contact us!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgerspeteygreene"
+  },
+  {
+    "school": "rutgers",
+    "name": "The Space Technology Association of Rutgers",
+    "slug": "star",
+    "email": "ruspacetech@gmail.com",
+    "summary": "A SEDS chapter uniting space enthusiast of all majors! Our projects include a CubeSatellite, High Altitude Ballooning, and Lunabotics team.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/star"
+  },
+  {
+    "school": "rutgers",
+    "name": "Afro - Latinx Student Organization",
+    "slug": "afrolatinx",
+    "email": "also.rutgers@gmail.com",
+    "summary": "This Student Organization provides a voice to those who identify with the Afro-Latinx Community at Rutgers University. This organization's goal is to educate and promote awareness of the Afro-Latinx Community through events, programs, and meetings.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/afrolatinx"
+  },
+  {
+    "school": "rutgers",
+    "name": "Office for Violence Prevention and Victim Assistance (Rutgers University)",
+    "slug": "vpva",
+    "email": null,
+    "summary": "VPVA is committed to creating a community free from violence through direct service, education, training & policy development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/vpva"
+  },
+  {
+    "school": "rutgers",
+    "name": "Asian American Cultural Center",
+    "slug": "aacc",
+    "email": "aacc@echo.rutgers.edu",
+    "summary": "The Asian American Cultural Center offers a myriad of social, cultural, and educational opportunities designed to promote, respect and embrace the unique histories and cultural identities within the Asian Pacific Islander Desi Arab (APIDA) diaspora.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/aacc"
+  },
+  {
+    "school": "rutgers",
+    "name": "Paul Robeson Cultural Center",
+    "slug": "prcc",
+    "email": "prccrutgers@echo.rutgers.edu",
+    "summary": "The Paul Robeson Cultural Center offers programs, initiatives, and services that reflect the robust history, heritage, and diversity of the African diaspora.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/prcc"
+  },
+  {
+    "school": "rutgers",
+    "name": "Center for Social Justice Education and LGBT Communities (Rutgers University)",
+    "slug": "sjelgbt",
+    "email": "sje@echo.rutgers.edu",
+    "summary": "The Center for Social Justice Education and LGBT Communities (SJE) provides educational and social programs, leadership development, and policy consultation for LGBTQIA and ally students, faculty, staff, and community members.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/sjelgbt"
+  },
+  {
+    "school": "rutgers",
+    "name": "Student Affairs Marketing, Communications, and Innovative Technology (Rutgers University)",
+    "slug": "marketing",
+    "email": "rudesign@echo.rutgers.edu",
+    "summary": "the Division of Student Affairs creates innovative learning opportunities, programs, and services that prepare students to lead, serve, and become engaged members of a global society.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/marketing"
+  },
+  {
+    "school": "rutgers",
+    "name": "Off-Campus Living and Community Initiatives",
+    "slug": "oclcp",
+    "email": "RUoffcampus@echo.rutgers.edus.edu",
+    "summary": "Rutgers University Off-Campus Living and Community Initiatives is here to help students interested in living off campus by providing online resources and educational programming.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/oclcp"
+  },
+  {
+    "school": "rutgers",
+    "name": "Security Club (Rutgers)",
+    "slug": "rusecurity",
+    "email": "rs2069@rutgers.edu",
+    "summary": "We are an organization dedicated to training Rutgers students to become ethical hackers and cybersecurity analysts. We compete against other universities in cybersecurity competitions such as CCDC, HackTheBox, and other international CTFs.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rusecurity"
+  },
+  {
+    "school": "rutgers",
+    "name": "Institute for Women's Leadership (Rutgers University)",
+    "slug": "iwl",
+    "email": "info@iwl.rutgers.edu",
+    "summary": "The Institute for Women's Leadership is a consortium of teaching, research, and public service units of Rutgers -New Brunswick.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/iwl"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rhythm Games Club",
+    "slug": "rgc",
+    "email": "rutgersrgc@gmail.com",
+    "summary": "The Rhythm Games Club exists to unite fans of rhythm games together and provide an opportunity to discuss rhythm games, go out to arcades, watch high-level gameplay, or hang out with friends.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rgc"
+  },
+  {
+    "school": "rutgers",
+    "name": "Entomology Club (Rutgers)",
+    "slug": "entomologyclub",
+    "email": "ruentomologyclub@gmail.com",
+    "summary": "Entomology Club is a place for insect enthusiasts and undergraduate students studying entomology to meet and form a vibrant community around a love of terrestrial arthropods.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/entomologyclub"
+  },
+  {
+    "school": "rutgers",
+    "name": "Alzheimer's Buddies (Rutgers)",
+    "slug": "rualzbuddies",
+    "email": "rutgers@alzbuddies.org",
+    "summary": "Our mission is to improve the lives of dementia patients by pairing Rutgers students with dementia patients for weekly 1-on-1 visits. Volunteers will develop a strong friendship with their buddy and learn about the person underneath the disease.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rualzbuddies"
+  },
+  {
+    "school": "rutgers",
+    "name": "Amnesty International (Rutgers)",
+    "slug": "ruamnesty",
+    "email": "rutgersamnesty@gmail.com",
+    "summary": "The purpose of this organization shall be the promotion of human rights by providing a forum for activism and for students.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruamnesty"
+  },
+  {
+    "school": "rutgers",
+    "name": "Business School Blockchain Hub (Rutgers)",
+    "slug": "rutgersbusinessschoolblockchainhub",
+    "email": "blockchain@business.rutgers.edu",
+    "summary": "RBS Blockchain Hub is the Official Cryptocurrency and Blockchain Organization of Rutgers. Our mission is to educate the Rutgers community on the emerging technology blockchain and its cryptocurrency applications.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgersbusinessschoolblockchainhub"
+  },
+  {
+    "school": "rutgers",
+    "name": "RUcketlist",
+    "slug": "rucketlist",
+    "email": "programs@echo.rutgers.edu",
+    "summary": "The RUcketlist is a number of experiences or achievements that a person hopes to have or accomplish during their time at Rutgers. Start your journey at Rutgers and check off the items on your RUcketlist!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rucketlist"
+  },
+  {
+    "school": "rutgers",
+    "name": "Residence Life: College Ave Campus",
+    "slug": "reslifecac",
+    "email": "acupello@echo.rutgers.edu",
+    "summary": "Group used to facilitate communication throughout the college ave campus.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/reslifecac"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers University Jains",
+    "slug": "rujain",
+    "email": "rutgersjains@gmail.com",
+    "summary": "“RU Jain” is an organization that seeks to connect Jains across campus and other like-minded individuals through the shared values and ideals Jains from all walks of life hold. Membership is open to all students!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rujain"
+  },
+  {
+    "school": "rutgers",
+    "name": "Mind and Media",
+    "slug": "mindandmedia",
+    "email": "RUmindandmedia@gmail.com",
+    "summary": "Mind in Media is an organization that helps students learn about film in a psychiatry lens. Members of the club are encouraged to contribute to a weekly blog and as well as participate in creating their own collaborative film.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/mindandmedia"
+  },
+  {
+    "school": "rutgers",
+    "name": "Nu Rho Psi",
+    "slug": "nurhopsi",
+    "email": "nrp.rutgers@gmail.com",
+    "summary": "Nu Rho Psi was formed to encourage careers in brain science and prepare students for induction into the Nu Rho Psi national honor society. This club is directly affiliated with the Nu Rho Psi national honor society chapter at Rutgers University",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/nurhopsi"
+  },
+  {
+    "school": "rutgers",
+    "name": "SAS Honors Program (Rutgers University Department)",
+    "slug": "sashp",
+    "email": "honors@sas.rutgers.edu",
+    "summary": "The SAS Honors Program encourages selected creative, talented, and motivated students in SAS and RBS to take advantage of all that Rutgers, a major public research university, has to offer, while fostering a strong sense of community and leadership.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/sashp"
+  },
+  {
+    "school": "rutgers",
+    "name": "SAS Transfer Center",
+    "slug": "sastransfercenter",
+    "email": "transfers@sas.rutgers.edu",
+    "summary": "The Transfer Center assists transfer students new to Rutgers University and current students interested in taking courses at other institutions.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/sastransfercenter"
+  },
+  {
+    "school": "rutgers",
+    "name": "Academic Programs at Douglass Residential College - DRC",
+    "slug": "drcacademicprograms",
+    "email": "drccommunity@gmail.com",
+    "summary": "Academic Programs provides innovative programming for Douglass women through the Douglass Course, Global Village, Gender and Arts, and more.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/drcacademicprograms"
+  },
+  {
+    "school": "rutgers",
+    "name": "Communications Department at Douglass Residential College - DRC",
+    "slug": "drccommunications",
+    "email": "drccommunity@gmail.com",
+    "summary": "We are an office of professional staff, graduate assistants and undergraduate students with a focus on providing seamless communications processes, consistent updates through multiple media platforms and maintaining a cohesive brand.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/drccommunications"
+  },
+  {
+    "school": "rutgers",
+    "name": "Douglass Residential College Community Engagement",
+    "slug": "drcdiversityandinclusion",
+    "email": "melamin@rutgers.edu",
+    "summary": "Douglass Community Engagement empowers students to collaborate with the community, build equitable, sustainable relationships, and become change agents for some of the most pressing issues of our time.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/drcdiversityandinclusion"
+  },
+  {
+    "school": "rutgers",
+    "name": "Enrollment, Scholarship, Housing and Commuter Engagement at Douglass Residential College at Douglass Residential College - DRC",
+    "slug": "drcenrollment",
+    "email": "discoverdouglass@echo.rutgers.edu",
+    "summary": "We are an office of three professional staff with a focus on recruiting a new incoming class each year, awarding any available scholarships and assisting with Douglass housing for Douglass students.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/drcenrollment"
+  },
+  {
+    "school": "rutgers",
+    "name": "Traditional Events at Douglass Residential College - DRC",
+    "slug": "drctraditionalevents",
+    "email": "drccommunity@gmail.com",
+    "summary": "Through traditions, we create new memories, make new friends, and remind ourselves of our larger stories. We keep two major traditions at Douglass Residential College: Yule Log and Sacred Path.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/drctraditionalevents"
+  },
+  {
+    "school": "rutgers",
+    "name": "Alumnae Engagement at Douglass Residential College - DRC",
+    "slug": "drcalumnaeengagement",
+    "email": "ife.meadows@rutgers.edu",
+    "summary": "As alumnae, you can make an impact in the lives of current Douglass students through volunteer opportunities this spring.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/drcalumnaeengagement"
+  },
+  {
+    "school": "rutgers",
+    "name": "Eagleton Institute of Politics",
+    "slug": "eagleton",
+    "email": null,
+    "summary": "The Eagleton Institute of Politics explores state and national politics through research, education, and public service, linking the study of politics with its day-to-day practice.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/eagleton"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers University School of Engineering",
+    "slug": "soe",
+    "email": null,
+    "summary": "Rutgers School of Engineering is a place of possibilities—for students seeking success, for researchers seeking to create new technologies, and for faculty members and industry leaders seeking to form powerful and productive partnerships.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/soe"
+  },
+  {
+    "school": "rutgers",
+    "name": "Herpetology Program of Rutgers (The)",
+    "slug": "herpetology",
+    "email": "rlg174@scarletmail.rutgers.edu",
+    "summary": "Our goal is to help educate the public about the care and management of reptiles as pets, but also in a broader spectrum with conversation and restoration of reptilian species.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/herpetology"
+  },
+  {
+    "school": "rutgers",
+    "name": "NABA, Inc. Rutgers New Brunswick Chapter” (NABA)",
+    "slug": "naba",
+    "email": "rutgersbba@gmail.com",
+    "summary": "The purpose of NABA is to provide a network for Black students with a strong interest in business. NABA seeks to bring together underrepresented business students from the past, present, and future to enrich and support each other.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/naba"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Engineering Honors Council",
+    "slug": "rehc",
+    "email": "ruhonorscouncil@gmail.com",
+    "summary": "The Rutgers Engineering Honors Council (REHC) is composed of student representatives to support excellence in the engineering community through a myriad of outreach, social, industry mentorship, and keynote speaker events.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rehc"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers 3D Printing Society",
+    "slug": "ru3d",
+    "email": null,
+    "summary": "Organization open to all students interested in 3D Modeling and/or 3D Printing! Research/Projects/Guided Workshops.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ru3d"
+  },
+  {
+    "school": "rutgers",
+    "name": "J Voorhees Zimmerli Art Museum",
+    "slug": "zimmerli",
+    "email": "press@zimmerli.rutgers.edu",
+    "summary": "The Zimmerli Art Museum at Rutgers University is one of the largest and most distinguished university-based museums in the country.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/zimmerli"
+  },
+  {
+    "school": "rutgers",
+    "name": "Office of Summer & Winter Sessions at Rutgers University",
+    "slug": "summer-winter",
+    "email": "summer@docs.rutgers.edu",
+    "summary": "One of the largest summer programs in the country, Rutgers University–New Brunswick offers over 2,400 course sections - In just a few weeks, you can advance toward your goals in the intensive, fast-paced Winter Session at Rutgers University–New Brunswick",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/summer-winter"
+  },
+  {
+    "school": "rutgers",
+    "name": "Together Educating All Children in Hospitals",
+    "slug": "teach4kids",
+    "email": "teach.rutgers@gmail.com",
+    "summary": "TEACH is an international nonprofit organization that brings exciting, hands-on, educational programming to children in hospitals through visits, science kit drop-offs, virtual experiment demos, and other events.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/teach4kids"
+  },
+  {
+    "school": "rutgers",
+    "name": "Blueprint",
+    "slug": "blueprint",
+    "email": "rutgersblueprint@gmail.com",
+    "summary": "Blueprint is a community of students passionate about building better products. We are a close-knit group of product managers, designers, and engineers working together to launch, build, and improve products and break into product careers.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/blueprint"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Transfer Student Association",
+    "slug": "tsa",
+    "email": "RUtransferstudentassociation@gmail.com",
+    "summary": "To provide a network for students who have transferred into Rutgers University to utilize and give transfer students an equal opportunity to form bonds with other transfers and receive aid and mentoring from more senior transfers.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/tsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Sister2Sister (Rutgers University)",
+    "slug": "rusister2sister",
+    "email": "rusister2sister@gmail.com",
+    "summary": "RU Sister2Sister is a community service-based organization that seeks to spread breast cancer awareness through education, advocacy, and programming on all Rutgers University campuses alongside our mother chapter, Sister2Sister Inc.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rusister2sister"
+  },
+  {
+    "school": "rutgers",
+    "name": "Student Support Services (TRIO)",
+    "slug": "sss",
+    "email": "russs@echo.rutgers.edu",
+    "summary": "THRIVE Student Support Services is a federally funded program designed to increase the retention and graduation rates of first-generation and low-income college students.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/sss"
+  },
+  {
+    "school": "rutgers",
+    "name": "Diversity Peer Educators",
+    "slug": "dpe",
+    "email": null,
+    "summary": "Diversity Peer Educators (DPEs) consist of Rutgers–New Brunswick students committed to educating their peers on topics of diversity, inclusion, and social justice.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/dpe"
+  },
+  {
+    "school": "rutgers",
+    "name": "Office of Veteran and Military Programs and Services",
+    "slug": "ovmps",
+    "email": "crystal.greenhow@rutgers.edu",
+    "summary": "The Office of Veteran and Military Programs and Services (OVMPS) at Rutgers University works to provide a supportive environment for our military affiliated community",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ovmps"
+  },
+  {
+    "school": "rutgers",
+    "name": "Graduate Student Association (GSA)",
+    "slug": "gsa",
+    "email": "ec@gsa.rutgers.edu",
+    "summary": "The Rutgers Graduate Student Association (GSA) is the official graduate student government of the Rutgers New Brunswick/Piscataway campus.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/gsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "e-NABLE (Rutgers)",
+    "slug": "e-nable",
+    "email": "rutgersenable@gmail.com",
+    "summary": "RU e-NABLE is a local chapter of a global group of volunteers who modify and 3D print prosthetic upper limb devices to give to children and adults in need for free!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/e-nable"
+  },
+  {
+    "school": "rutgers",
+    "name": "Student Activities Business Office - SABO (University Department)",
+    "slug": "sabo",
+    "email": "sabo@echo.rutgers.edu",
+    "summary": "The Rutgers University Student Activities Business Office (SABO) administers and manages the financial resources of the undergraduate student groups.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/sabo"
+  },
+  {
+    "school": "rutgers",
+    "name": "The Margery Somers Foster Center (A Rutgers University Department)",
+    "slug": "fostercenter",
+    "email": "kayo.denda@rutgers.edu",
+    "summary": "The Margery Somers Foster Center is a unit of Rutgers University Libraries dedicated to developing co-curricular initiatives on visual technology and networked culture.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/fostercenter"
+  },
+  {
+    "school": "rutgers",
+    "name": "RU Psyched: The Rutgers Psychedelic Society",
+    "slug": "rupsyched",
+    "email": "rupsychsociety@gmail.com",
+    "summary": "RU Psyched is dedicated to promoting knowledge about the medicinal, historical, and spiritual significance of entheogenic substances. We provide a safe space for students to learn together and explore their related interests and concerns.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rupsyched"
+  },
+  {
+    "school": "rutgers",
+    "name": "Out in Tech @ Rutgers",
+    "slug": "rutgersoutintech",
+    "email": "rutgersoutintech@gmail.com",
+    "summary": "This club will create an inclusive and supportive community of LGBTQ+ individuals and allies pursuing degrees in tech and relevant industries and mentor LGBTQ+ students by providing educational, mentorship, and leadership opportunities.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgersoutintech"
+  },
+  {
+    "school": "rutgers",
+    "name": "Routure Magazine",
+    "slug": "routure",
+    "email": "routuremag@gmail.com",
+    "summary": "Routure Magazine serves as an outlet for Rutgers University Students & staff members to express and embrace the fashion industry and the looks that glow around campus through print catalogs and writing!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/routure"
+  },
+  {
+    "school": "rutgers",
+    "name": "American Water Works Association Student Chapter",
+    "slug": "awwa",
+    "email": "rutgers.awwa@gmail.com",
+    "summary": "The American Water Works Association is an international, nonprofit, scientific and educational society dedicated to providing total water solutions assuring the effective management of water.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/awwa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Anthropology Graduate Student Association (AGSA) (Graduate Organization)",
+    "slug": "agsa",
+    "email": "agsarutgersinfo@gmail.com",
+    "summary": "The purpose of this organization shall be to further the social, cultural and academic interests of the students in the graduate program in Anthropology.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/agsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Society of Manufacturing Engineers",
+    "slug": "sme",
+    "email": "smerutgersu@gmail.com",
+    "summary": "The purpose of the Rutgers SME Chapter is to give students an opportunity to gain and share knowledge and experience in the field of manufacturing.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/sme"
+  },
+  {
+    "school": "rutgers",
+    "name": "Mason Gross School of Art, Visual Art (Graduate Organization)",
+    "slug": "mgsa",
+    "email": null,
+    "summary": "Mason Gross School of Art Graduate Organization is comprised of the Masters of Fine Arts cohort. We meet regularly to engage in creative practice, ideas, and learning.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/mgsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "GSA Spanish & Portuguese (Graduate Organization)",
+    "slug": "spanishandportuguese",
+    "email": null,
+    "summary": "Our activities are designed to foster the interests of students in the graduate program in Bilingualism and Second Language Acquisition at the Dept. of Spanish and Portuguese. \r\nGraduate Student Lounge with coffee station available at ABW 5192.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/spanishandportuguese"
+  },
+  {
+    "school": "rutgers",
+    "name": "Art History Graduate Student Organization (Graduate Organization)",
+    "slug": "ahgso",
+    "email": null,
+    "summary": "The purpose of this organization shall be to further social, cultural, and academic interests of the students in the graduate program of Art History.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ahgso"
+  },
+  {
+    "school": "rutgers",
+    "name": "Oceanography Graduate Student Association (Graduate Organization)",
+    "slug": "ogsa",
+    "email": "bor-jiun.jong@marine.rutgers.edu",
+    "summary": "The Oceanography Graduate Student Association is an organization for graduate students studying marine and coastal sciences. We organize meetings, seminars, and social events for graduate students in the oceanography program.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ogsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Graduate Union of Sociology Students (Graduate Organization)",
+    "slug": "guss",
+    "email": null,
+    "summary": "We represent and organize for the interests of graduate students in the Sociology Department. We also organize social events within our community.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/guss"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers University Musicological Society (Graduate Organization)",
+    "slug": "rums",
+    "email": "rutgersmusicologicalsociety@gmail.com",
+    "summary": "RUMS represents graduate students studying musicology, music theory, and composition, providing programs of interest to graduate and undergraduate musicians. RUMS hosts colloquia, guest lecturers, and an annual conference open to graduate students.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rums"
+  },
+  {
+    "school": "rutgers",
+    "name": "Office of Disability Services (University Department)",
+    "slug": "ods",
+    "email": "dsoffice@echo.rutgers.edu",
+    "summary": "The Office of Disability Services provides reasonable academic accommodations for students with disabilities. Our team strives to provide the necessary tools, resources and support for individuals with disabilities to become responsible decision-makers",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ods"
+  },
+  {
+    "school": "rutgers",
+    "name": "Student College, Academic, and Research Libraries Association (Graduate Organization)",
+    "slug": "scarla",
+    "email": null,
+    "summary": "The Student College, Academic, and Research Libraries Association (SCARLA) organizes speakers, lecture series, events, trips and workshops to promote our understanding of academic librarianship.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/scarla"
+  },
+  {
+    "school": "rutgers",
+    "name": "Environmental Sciences Graduate Student Association (Graduate Organization)",
+    "slug": "esgsa",
+    "email": "esgsarutgers@gmail.com",
+    "summary": "The Environmental Science Graduate Student Association (ESGSA) is the Graduate Student Organization serving all Rutgers graduate students, including all graduate students within the Department of Environmental Science.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/esgsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Psychology Department Social/Health Area (Graduate Organization)",
+    "slug": "pdsha",
+    "email": null,
+    "summary": "This Graduate Student Organization represents the interests of current graduate students in the Psychology Department Social/Health Area and provides social psychology-relevant programming to the larger graduate student community.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/pdsha"
+  },
+  {
+    "school": "rutgers",
+    "name": "Graduate English Student Association (Graduate Organization)",
+    "slug": "gesa",
+    "email": null,
+    "summary": "The Graduate English Student Association organizes and supports social and academic events and activities for graduate students in the English department.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/gesa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Bloustein Graduate Student Association (Graduate Organization)",
+    "slug": "bgsa",
+    "email": null,
+    "summary": "Advocacy group for students of the Urban Planning & Policy Development, Public Policy, Public Informatics, and Health Administration graduate program at Edward J. Bloustein School of Planning and Public Policy, Rutgers University in New Brunswick.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/bgsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Graduate Union of Civil and Environmental Engineering (Graduate Organization)",
+    "slug": "gucee",
+    "email": "gucee.rutgers@gmail.com",
+    "summary": "GUCEE aims to create the bond between graduate students, professors and faculty through events that will create a casual environment for socialization in the CEE Dept. Our events are also great for networking and building long lasting connections.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/gucee"
+  },
+  {
+    "school": "rutgers",
+    "name": "Physics and Astronomy (Graduate Organization)",
+    "slug": "physicsandastronomy",
+    "email": "rpagso@physics.rutgers.edu",
+    "summary": "The purpose of this organization shall be to further the social, cultural and academic interests of the students in the graduate program in Physics and Astronomy.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/physicsandastronomy"
+  },
+  {
+    "school": "rutgers",
+    "name": "Classics Graduate Student Association (Graduate Organization)",
+    "slug": "classics",
+    "email": null,
+    "summary": "The purpose of this organization is to facilitate the social interaction, intellectual engagement, and professional development of those students interested in the ancient Mediterranean.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/classics"
+  },
+  {
+    "school": "rutgers",
+    "name": "Italian Graduate Society (Graduate Organization)",
+    "slug": "igs",
+    "email": "italian.grad.society@gmail.com",
+    "summary": "The Italian Graduate Society promotes opportunities for sharing scholarly research in Italian Studies.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/igs"
+  },
+  {
+    "school": "rutgers",
+    "name": "Chemistry and Chemical Biology (Graduate Student Organization)",
+    "slug": "ccb",
+    "email": null,
+    "summary": "The CCB GSO serves the graduate students in the CCB department in order to enhance the graduate experience.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ccb"
+  },
+  {
+    "school": "rutgers",
+    "name": "Earth and Planetary Sciences (Graduate Organization)",
+    "slug": "eps",
+    "email": null,
+    "summary": "The Earth and Planetary Sciences Graduate Student Organization is a GSO composed of graduate students from the Rutgers EPS department.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/eps"
+  },
+  {
+    "school": "rutgers",
+    "name": "Clinical Psychology PhD (School of Arts and Sciences; Psychology Dept)(Gradute Organization)",
+    "slug": "cpphd",
+    "email": null,
+    "summary": "The Clinical Psychology Ph.D. program provides the highest level of training for students wishing to conduct psychological research and/or provide clinical services as a practicing health-service psychologist.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/cpphd"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Exposure Science Student Association (Graduate Organization)",
+    "slug": "ressa",
+    "email": null,
+    "summary": "The RESSA’s mission is to 1) promote solidarity within the program and 2) collectively express the needs and desires of the student body to the JGPES faculty. Representatives of this association will act as liaisons.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ressa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Molecular Biosciences (Graduate Student Organization)",
+    "slug": "mbgso",
+    "email": null,
+    "summary": "The Molecular Biosciences Graduate Student Organization is open to all students enrolled in one of the MBS programs through the School of Graduate Studies. We seek to enrich the experiences of graduate students affiliated with the MBS programs.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/mbgso"
+  },
+  {
+    "school": "rutgers",
+    "name": "Aviation Club (Rutgers)",
+    "slug": "rutgersaviation",
+    "email": "rutgersaviationclub@gmail.com",
+    "summary": "The Rutgers Aviation Club seeks to create a network of students interested in careers or vocations within aviation.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgersaviation"
+  },
+  {
+    "school": "rutgers",
+    "name": "Women's Gaming League (Rutgers)",
+    "slug": "rwgl",
+    "email": "rutgerswomensgamingleague@gmail.com",
+    "summary": "Rutgers Women’s Gaming League is a club that is committed to creating a safe and enjoyable space for women who play video games. We want to bring together students to forge friendships, creating a close group who can be themselves around each other.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rwgl"
+  },
+  {
+    "school": "rutgers",
+    "name": "IseCos Cosplay Club",
+    "slug": "isecos_cosplay_club",
+    "email": "ruisecoscosplayclub@gmail.com",
+    "summary": "The purpose of IseCos Cosplay Club is to provide a safe and respectful space for students with a love for cosplay, anime and performance while also establishing a welcoming community.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/isecos_cosplay_club"
+  },
+  {
+    "school": "rutgers",
+    "name": "Turning Point USA at Rutgers University New Brunswick",
+    "slug": "tpusaru",
+    "email": "turningpointrutgers@gmail.com",
+    "summary": "We are a conservative organization promoting the ideas of freedom of speech, fiscal responsibility and limited government. We will do this through tabling, general body meetings and will also help register others to vote.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/tpusaru"
+  },
+  {
+    "school": "rutgers",
+    "name": "Creative Expressions Publication",
+    "slug": "creativeexpressions",
+    "email": "rutgerscreativex@gmail.com",
+    "summary": "Rutgers Creative X publishes a digital blog that celebrates an inclusive community for students interested in UI/UX. We provide events for students to expand on their design potential through workshops, projects, designathon, and community events.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/creativeexpressions"
+  },
+  {
+    "school": "rutgers",
+    "name": "Neuroscience/ Neuroconnections (Graduate Organization)",
+    "slug": "neuroconnections",
+    "email": "neuroconnections4rwjms@gmail.com",
+    "summary": "The Neuroconnections Club (NCC) is a Graduate Student Organization recognized and supported by the Rutgers GSA that unites students in the Rutgers Graduate Program in Neuroscience.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/neuroconnections"
+  },
+  {
+    "school": "rutgers",
+    "name": "Future Leaders in Student Affairs (Graduate Organization)",
+    "slug": "flsa",
+    "email": "flsa.rutgers.csa@gmail.com",
+    "summary": "It is the mission of the Future Leaders in Student Affairs to provide our colleagues with services and programs that promote active learning, build a supportive community, and promote personal and professional development.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/flsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Graduate School of Education Student Affairs Committee (Graduate Organization)",
+    "slug": "gsac",
+    "email": "gsac@gse.rutgers.edu",
+    "summary": "The GSE Student Affairs Committee (GSAC) is a student-run organization open to all graduate students at the Rutgers Graduate School of Education (GSE). The purpose of GSAC is to enrich the social, cultural, and academic climate of the Rutgers GSE",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/gsac"
+  },
+  {
+    "school": "rutgers",
+    "name": "Ecology and Evolution Graduate Student Association (Graduate Organization)",
+    "slug": "ecogsa",
+    "email": "ruecoevogsa@gmail.com",
+    "summary": "The purpose of this organization shall be to further the social, cultural, academic and research interests of the students in the graduate program in Ecology and Evolution and to act as an intermediary between the graduate students and the faculty.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ecogsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Graduate History Association (Graduate Organization)",
+    "slug": "gha",
+    "email": "anh.adams@rutgers.edu",
+    "summary": "Association for Graduate Students in the History Department",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/gha"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers School of Social Work Graduate Student Association (Graduate Organization)",
+    "slug": "russwgsa",
+    "email": "RutgersSSWSA@gmail.com",
+    "summary": "To support and encourage the academic, social, and professional pursuits and development of all graduate-level social work students.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/russwgsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Psi Chi, The International Honor Society in Psychology (Graduate Organization)",
+    "slug": "psichi",
+    "email": "psichi@psych.rutgers.edu",
+    "summary": "Psi Chi is an international honor society that encourages, stimulates, and maintains excellence in scholarship of the individual members in all fields, particularly in psychology, and to advance the science of psychology.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/psichi"
+  },
+  {
+    "school": "rutgers",
+    "name": "Political Science Graduate Student Association (Graduate Organization)",
+    "slug": "psgsa",
+    "email": "rutgers.psgsa@gmail.com",
+    "summary": "grad society for political science graduate student body",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/psgsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Graduate Geographers Project (Graduate Organization)",
+    "slug": "ggp",
+    "email": null,
+    "summary": "The Graduate Geographers Project (GGP to its friends) is a group of graduate students in the Geography program at Rutgers University who work together to enhance each others' experience as students.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ggp"
+  },
+  {
+    "school": "rutgers",
+    "name": "Natura: The Science and Epistemology Working Group (Graduate Organization)",
+    "slug": "natura",
+    "email": "rutgersnatura@gmail.com",
+    "summary": "Natura: The Science and Epistemology Working Group is a graduate student working group that serves as a forum to foster critical interdisciplinary conversations about history, cultures, places, and theories of science, epistemology, and knowledge produc",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/natura"
+  },
+  {
+    "school": "rutgers",
+    "name": "Materials Science and Engineering Graduate Student Association (Graduate Organization)",
+    "slug": "mse-gsa",
+    "email": "msegsa@gmail.com",
+    "summary": "Materials Science and Engineering Graduate Student Association is to provide a forum to further the social, cultural, and academic interests of the students of the Department of Materials Science and Engineering.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/mse-gsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Out in Business @ Rutgers",
+    "slug": "outinbusiness",
+    "email": "rutgersoutinbusiness@gmail.com",
+    "summary": "Out in Business is geared towards LGBTQ+ business students by providing networking opportunities with accomplished LGBTQ+ business executives. We plan to educate and empower our members as well as provide an inclusive and safe community.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/outinbusiness"
+  },
+  {
+    "school": "rutgers",
+    "name": "Latino America Unida | Lambda Alpha Upsilon Fraternity, Inc.",
+    "slug": "lau",
+    "email": "Rutgers@lambdas.com",
+    "summary": "The mission of Latino America Unida, Lambda Alpha Upsilon Fraternity, Inc. is to be a network of professionals that promotes brotherhood, scholarship and service to the community.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/lau"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Overseas Semester Experience (University Department)",
+    "slug": "rose",
+    "email": "rose@global.rutgers.edu",
+    "summary": "The ROSE program offers newly admitted first-year Rutgers students the opportunity to experience their first semester of Rutgers at a partner university campus in their home country.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rose"
+  },
+  {
+    "school": "rutgers",
+    "name": "Women’s Pre-Law Society (Rutgers)",
+    "slug": "ruwpls",
+    "email": "ruwpls@gmail.com",
+    "summary": "The RUWPLS empowers women and non-binary pre-law students at Rutgers University by connecting them to law school prep resources, increasing their network pool to include female lawyers, judges, and politicians, and fostering community within our members.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruwpls"
+  },
+  {
+    "school": "rutgers",
+    "name": "School of Management and Labor Relations",
+    "slug": "smlr",
+    "email": "dvogel@smlr.rutgers.edu",
+    "summary": "Rutgers School of Management and Labor Relations (SMLR) is the leading source of expertise on the world of work, building effective and sustainable organizations, and the changing employment relationship.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/smlr"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Seeding Labs (Graduate Organization)",
+    "slug": "ruseed",
+    "email": "ruseedinglabs@gmail.com",
+    "summary": "Rutgers Seeding Labs focuses on empowering scientists in developing countries to enrich the global research community. Talent is everywhere, resources are not.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruseed"
+  },
+  {
+    "school": "rutgers",
+    "name": "Korean Graduate Student Association (Graduate Organization)",
+    "slug": "rkgsa",
+    "email": "rutgers.kgsa@gmail.com",
+    "summary": "The RKGSA is a body of Korean graduate students whose charter is to represent the Korean community to the university through social programs designed to support graduate students.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rkgsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "School of Communication and Information Doctoral Student Association",
+    "slug": "scidsa",
+    "email": "dsa@comminfo.rutgers.edu",
+    "summary": "The Doctoral Student Association of the School of Communication and Information represents current doctoral students and candidates. Its mission is to provide resources, support, support, and a sense of community within the membership.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/scidsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers GRADient",
+    "slug": "gradient",
+    "email": "rutgers.gradient@gmail.com",
+    "summary": "The goal of the organization is to unite this group of LGBT+ students in community at Rutgers University-New Brunswick.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/gradient"
+  },
+  {
+    "school": "rutgers",
+    "name": "Pi Sigma Alpha",
+    "slug": "pol",
+    "email": "pisigmaalpharu@gmail.com",
+    "summary": "The purpose of Pi Sigma Alpha will be to foster a community for accomplished juniors and seniors studying Political Science and to connect students to faculty and the department.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/pol"
+  },
+  {
+    "school": "rutgers",
+    "name": "Corporate Finance Society (Rutgers)",
+    "slug": "rucfs",
+    "email": "rucorporatefinancesociety@gmail.com",
+    "summary": "Our purpose is to prepare students for careers in the corporate finance industry. We focus on placing students in corporate finance, and treasury positions at leading firms.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rucfs"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Business School-NB Undergraduate Programs (Advising Office)",
+    "slug": "rbsnbaa",
+    "email": "schnatter@business.rutgers.edu",
+    "summary": "The Office of Undergraduate Programs in the Business School-NB provides academic advising on course requirements, major selection, course registration issues, and other similar academic concerns.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rbsnbaa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Graduate Students for Rare NORD Chapter",
+    "slug": "rurare",
+    "email": "rutgersnordchapter@gmail.com",
+    "summary": "Rutgers Graduate Students for Rare NORD Chapter provides a network for students with a strong interest in rare diseases to promote awareness, education, and advocacy alongside NORD, or the National Organization for Rare Diseases.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rurare"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rites of Passage Ceremony",
+    "slug": "ritesofpassage",
+    "email": "rop@echo.rutgers.edu",
+    "summary": "Rites of Passage is the formal cultural graduation ceremony and celebration for Black and Latinx identified students.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ritesofpassage"
+  },
+  {
+    "school": "rutgers",
+    "name": "American Society of Highway Engineers",
+    "slug": "ashe",
+    "email": "lro15@scarletmail.rutgers.edu",
+    "summary": "American Society of Highway Engineers educate students on highway engineering.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ashe"
+  },
+  {
+    "school": "rutgers",
+    "name": "RU Informs",
+    "slug": "ruinforms",
+    "email": "aa1623@scarletmail.rutgers.edu",
+    "summary": "RU Informs educate on management and operations research in the field of Engineering.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruinforms"
+  },
+  {
+    "school": "rutgers",
+    "name": "Undergraduate Students for the Plant Sciences at Rutgers",
+    "slug": "rusps",
+    "email": "rusps776@gmail.com",
+    "summary": "The purpose of the organization is to provide a network for students with a strong interest in the plant sciences. Students may gather to share their passion for the plant sciences and related careers.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rusps"
+  },
+  {
+    "school": "rutgers",
+    "name": "The Comic Book Club",
+    "slug": "cbc",
+    "email": "rutgerscomicbookclub@gmail.com",
+    "summary": "The goal of this organization is to provide a safe and fun space for fans of comic books (DC, Marvel, and etc.) and their adjacent media, and to bring together people with these similar interests and help form new relationships.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/cbc"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Marxists",
+    "slug": "rutgers_marxists",
+    "email": null,
+    "summary": "The aim of Rutgers Marxists is to discuss and spread the ideas of the International Marxist Tendency and those of Marx and scientific socialism more broadly by engaging the community in discussion about these ideas and theories.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgers_marxists"
+  },
+  {
+    "school": "rutgers",
+    "name": "Computer Science Living-Learning Community (Douglass WiSE, DRC)",
+    "slug": "csllc",
+    "email": "douglasswise@echo.rutgers.edu",
+    "summary": "The Douglass-SAS-DIMACS Computer Science Living-Learning Community is an innovative STEM experience for first-year women who intend on majoring in computer science to live together on Busch Campus through a collaboration with the DRC and the SAS.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/csllc"
+  },
+  {
+    "school": "rutgers",
+    "name": "Reilly Douglass Living Learning Community (Douglass WiSE)",
+    "slug": "rdellc",
+    "email": "douglasswise@echo.rutgers.edu",
+    "summary": "Reilly Douglass Engineering Living Learning Community (RDELLC) provides community, support and encouragement for undergraduate women pursuing degrees and careers in Engineering. The LLC provides women in Engineering fields with development opportunities",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rdellc"
+  },
+  {
+    "school": "rutgers",
+    "name": "The Plaza at Livingston Campus",
+    "slug": "theplaza",
+    "email": "cory.orlando@rutgers.edu",
+    "summary": "The Plaza at Livingston Campus is home to nine retailers: 16 Handles, Henry’s Diner, Hoja Asian Fusion, Kilmer’s Market, kite+key, Rutgers Tech Store, Qdoba, Rutgers Cinema, Starbucks, and The Wright Cut. The Plaza also holds many events for students.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/theplaza"
+  },
+  {
+    "school": "rutgers",
+    "name": "kite+key, Rutgers Tech Store",
+    "slug": "kiteandkey",
+    "email": "cory.orlando@rutgers.edu",
+    "summary": "kite+key, Rutgers Tech Store is conveniently located on each of the Rutgers University campuses. kite+key provides a full line of products from Apple, Dell, Lenovo, Acer, Beats, and more.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/kiteandkey"
+  },
+  {
+    "school": "rutgers",
+    "name": "Student Organization for Unique and Rare Collections Everywhere (Graduate Organization)",
+    "slug": "source",
+    "email": "rutgers.source@gmail.com",
+    "summary": "Welcome to SOURCE, the Student Organization for Unique and Rare Collections Everywhere, the Society of American Archivists Student Chapter at Rutgers!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/source"
+  },
+  {
+    "school": "rutgers",
+    "name": "Hispanic Organization of Professional Psychology Students",
+    "slug": "hopps",
+    "email": "hopps@gsapp.rutgers.edu",
+    "summary": "HOPPS aims to provide support to our Hispanic/Latinx graduate student body through mentorship opportunities, a sense of a culturally-relevant community, social events, as well as hosting presentations aimed to educate the larger population on...",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/hopps"
+  },
+  {
+    "school": "rutgers",
+    "name": "Comparative Literature Graduate Association",
+    "slug": "clga",
+    "email": "jda174@scarletmail.rutgers.edu",
+    "summary": "The Comparative Literature Graduate Association organizes informal gatherings, talks, workshops, and conferences for the broader Rutgers community. Anyone interested in comparison and critique across languages, places, mediums, and histories is welcome!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/clga"
+  },
+  {
+    "school": "rutgers",
+    "name": "Council of Black Graduates (Graduate Student Organization)",
+    "slug": "councilofblackgraduates",
+    "email": "rutgerscbg@gmail.com",
+    "summary": "Black Graduate Student Association dedicated to building community.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/councilofblackgraduates"
+  },
+  {
+    "school": "rutgers",
+    "name": "Living-Learning Community Advisory Council - Office of Residential Life (University Department)",
+    "slug": "livinglearningcouncil",
+    "email": "iic9@echo.rutgers.edu",
+    "summary": "Living-Learning Community Advisory Council hosts events to engage all LLC students campus wide. The purpose of the group is to promote positive change and connection across the LLC program.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/livinglearningcouncil"
+  },
+  {
+    "school": "rutgers",
+    "name": "Hack4Impact Rutgers",
+    "slug": "rutgers_hack4impact",
+    "email": "RUHack4Impact@gmail.com",
+    "summary": "Hack4Impact is a largely student-run organization that builds non-profit software as tools for social good. We are the Rutgers Chapter. We seek to build impactful tech products to give back to the community and encourage tech for social change.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgers_hack4impact"
+  },
+  {
+    "school": "rutgers",
+    "name": "Latinx Pre-Law Society",
+    "slug": "latinxprelawsociety",
+    "email": "rutgerslatinxprelaw@gmail.com",
+    "summary": "The Latinx Pre-Law Society is an organization that promotes higher education by unifying all, but not limited to, Latinx students throughout Rutgers University who wish to pursue a career in law.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/latinxprelawsociety"
+  },
+  {
+    "school": "rutgers",
+    "name": "SEBS Office of Global Engagement",
+    "slug": "sebsglobal",
+    "email": "sebsglobal@sebs.rutgers.edu",
+    "summary": "The SEBS Office of Global Engagement is the hub of internationalization efforts for our community.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/sebsglobal"
+  },
+  {
+    "school": "rutgers",
+    "name": "Professional Science Masters Department (PSM)",
+    "slug": "psm",
+    "email": "psmadmissions@docs.rutgers.edu",
+    "summary": "The Master of Business & Science (MBS) degree offered by the Professional Science Masters department combines science-based coursework with business education and professional training. Gain hands-on experience, build industry connections through network",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/psm"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Graduate School of Education (University Department)",
+    "slug": "gse",
+    "email": "ken.tufo@gse.rutgers.edu",
+    "summary": "The Rutgers Graduate School of Education offers a five-year combination bachelor's and master's degree program leading to initial teacher licensure in New Jersey. We offer Elementary programs Middle School Subjects, as well as subject area programs.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/gse"
+  },
+  {
+    "school": "rutgers",
+    "name": "Chemical/Biochemical Engineering Graduate Student Organization",
+    "slug": "cbe-gso",
+    "email": "rutgers.che.gso@gmail.com",
+    "summary": "CBE-GSO is dedicated to supporting graduate students in achieving technical excellence and recognition in Chemical Engineering. We work to promote professional student-industry relations by providing opportunities and hosting programs for our members.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/cbe-gso"
+  },
+  {
+    "school": "rutgers",
+    "name": "Society for Advancement of Chicanos/Hispanics & Native Americans in Science (Graduate Organization)",
+    "slug": "sacnas-gso",
+    "email": "gc679@rutgers.edu",
+    "summary": "SACNAS-GSO is an inclusive organization dedicated to fostering the success of Chicano/Hispanic and Native American scientists in positions of leadership in STEM. You do not need to be Chicano/Hispanic or Native American to be involved and join SACNAS!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/sacnas-gso"
+  },
+  {
+    "school": "rutgers",
+    "name": "Humanity First Students Organization",
+    "slug": "humanityfirst",
+    "email": "ruhumanityfirst@gmail.com",
+    "summary": "The Humanity First Students Organization is a club to gather young and motivated individuals to come together and make the world a better place through various philanthropy, education, and fundraising initiatives.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/humanityfirst"
+  },
+  {
+    "school": "rutgers",
+    "name": "Legwork for Lungs",
+    "slug": "legworkforlungs",
+    "email": "info.legworkforlungs@gmail.com",
+    "summary": "Legwork for Lungs is a student organization that hosts an annual 5k and mile walk event in November (lung cancer awareness month) to raise money for lung cancer research at Memorial Sloan Kettering Cancer Center.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/legworkforlungs"
+  },
+  {
+    "school": "rutgers",
+    "name": "RU Inclusive",
+    "slug": "ruinclusive",
+    "email": "ruinclusivenb@gmail.com",
+    "summary": "The purpose RU Inclusive is to provide a network for students with a strong interest in diversity, equity, and inclusion (DEI) in the workplace, by providing a forum for students to discuss, debate, and implement workplace DEI topics and strategies.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruinclusive"
+  },
+  {
+    "school": "rutgers",
+    "name": "Pre-College Initiatives & College Success",
+    "slug": "educational-equitypre-college-outreach",
+    "email": "diceprecollege@rutgers.edu",
+    "summary": "Our mission is to assist college bound scholars and families with access and exposure to postsecondary opportunities and provide tutoring and mentoring to local elementary through high school students.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/educational-equitypre-college-outreach"
+  },
+  {
+    "school": "rutgers",
+    "name": "Raices Ecuatorianas en America (Rutgers)",
+    "slug": "rea",
+    "email": "rutgers.rea23@gmail.com",
+    "summary": "At Raíces Ecuatorianas en América, we cultivate cultural appreciation and community through shared experiences. At Rutgers, REA empowers diverse voices via cultural events, collaborations, and inclusive initiatives, fostering understanding and unity.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rea"
+  },
+  {
+    "school": "rutgers",
+    "name": "Office of Distinguished Fellowships (University Department)",
+    "slug": "odf",
+    "email": "fellowships@echo.rutgers.edu",
+    "summary": "The Office of Distinguished Fellowships is a unit in Undergraduate Education dedicated to supporting undergraduates and recent eligible alumni in applying for competitive, merit-based awards external to Rutgers University.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/odf"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers University SHRM Chapter (Graduate Organization)",
+    "slug": "rushrmgraduatechapter",
+    "email": "rushrm.presidents@gmail.com",
+    "summary": "RUSHRM, the graduate student chapter of SHRM affiliated with SMLR, is an award-winning chapter dedicated to providing education, networking, and leadership programs. Our innovative events, collaboration with entities like Career Services and SMLR.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rushrmgraduatechapter"
+  },
+  {
+    "school": "rutgers",
+    "name": "Women's, Gender, and Sexuality Studies (Graduate Student Organization)",
+    "slug": "wgssgso",
+    "email": "wgssgso.ru@gmail.com",
+    "summary": "The WGSS GSO facilitates student-led initiatives at the Women's, Gender, and Sexuality studies department. These initiatives include speaker series, end-of-year gatherings, and workshops.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/wgssgso"
+  },
+  {
+    "school": "rutgers",
+    "name": "Hult Prize at Rutgers University (Affiliated with a Rutgers University Department)",
+    "slug": "hultru",
+    "email": "hultprizerutgers@gmail.com",
+    "summary": "Hult Prize at RU helps social entrepreneurs bring their ideas to life through pitch competition prep workshops and the opportunity to compete globally in the Hult Prize Competition.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/hultru"
+  },
+  {
+    "school": "rutgers",
+    "name": "Central American Student Union",
+    "slug": "casu",
+    "email": "rutgers.casu@gmail.com",
+    "summary": "CASU is a student organization with the intention of promoting socioeconomic, political, &amp; cultural awareness of Central American cultures. We prioritize uplifting all students, especially those from Central America, while promoting our cultural heritage",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/casu"
+  },
+  {
+    "school": "rutgers",
+    "name": "Indian Film Club (Provisional Organization 24/25)",
+    "slug": "notapplicable",
+    "email": null,
+    "summary": "The Rutgers University Indian Film Club aims to offer students an immersive experience in Indian cinema, providing relaxation and cultural enrichment. Through movie screenings and delectable snacks, we foster a welcoming environment where students can un",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/notapplicable"
+  },
+  {
+    "school": "rutgers",
+    "name": "Knights for Recovery (Provisional Organization 24/25)",
+    "slug": "knightsforrecovery",
+    "email": "cjh294@scarletmail.rutgers.edu",
+    "summary": "Knights for Recovery is a collegiate student group supporting students and individuals in recovery. We provide a safe, inclusive space for students in recovery and allies, to acknowledge and support their unique challenges. All are welcome to join!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/knightsforrecovery"
+  },
+  {
+    "school": "rutgers",
+    "name": "National Council of Negro Women",
+    "slug": "ncnw",
+    "email": "ncnwrunbsection@gmail.com",
+    "summary": "Our aim is to empower those who share NCNW's values, advancing African American women &amp; social justice at Rutgers through education &amp; advocacy. We foster inclusive leadership and initiatives, highlighting diverse voices &amp; advocating for systemic change.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ncnw"
+  },
+  {
+    "school": "rutgers",
+    "name": "Music Technology Club (Rutgers University)",
+    "slug": "musictech",
+    "email": "rumusictechnologyclub@gmail.com",
+    "summary": "We provide a place for students to learn and engage with different types of music technology while giving them a space to develop and showcase musical and technical creativity!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/musictech"
+  },
+  {
+    "school": "rutgers",
+    "name": "A's 4 All (Provisional Organization 24/25)",
+    "slug": "rutgersa4a",
+    "email": "rutgers.a4a@gmail.com",
+    "summary": "We’re a hands-on team of students who love building, creating, and making a difference! Our projects focus on transforming toys and ride-on cars, making them accessible for kids with disabilities!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgersa4a"
+  },
+  {
+    "school": "rutgers",
+    "name": "Evans Scholars at Rutgers University",
+    "slug": "evansscholars",
+    "email": "ofsa@echo.rutgers.edu",
+    "summary": "The Evans Scholars Foundation (ESF) awards full tuition and housing college scholarships to high-achieving caddies with limited financial means.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/evansscholars"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Cancer Institute (Rutgers University Department)",
+    "slug": "cancerinstitute",
+    "email": "samanthj@cinj.rutgers.edu",
+    "summary": "Rutgers Cancer Institute is committed to providing the most advanced, comprehensive, and compassionate cancer care to adults and children.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/cancerinstitute"
+  },
+  {
+    "school": "rutgers",
+    "name": "7x24 Exchange (Rutgers University)",
+    "slug": "7x24exchange",
+    "email": "rutgers7x24@gmail.com",
+    "summary": "7x24 Exchange (Rutgers University) is the official college chapter of 7x24 Exchange, aimed at educating students\r\nabout the mission-critical industry and data centers.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/7x24exchange"
+  },
+  {
+    "school": "rutgers",
+    "name": "Electrical & Computer Engineering Graduate Student Association",
+    "slug": "ecegsa",
+    "email": "rutgersecegsa@gmail.com",
+    "summary": "Our endeavor is fostering collaboration, professional development, and community engagement within the graduate student community in the ECE department. We also work to support and connect graduate students to related industry for networking.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ecegsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Graduate Association of Interest Groups in English",
+    "slug": "gaige",
+    "email": "anthony.tello@rutgers.edu",
+    "summary": "Organizes committees and events centered on academic specialties in the Humanities. While housed in English, all are welcome to join and attend our events.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/gaige"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Anti-Caste Collective",
+    "slug": "fabppsswa",
+    "email": "rutgersanticastecollective@gmail.com",
+    "summary": "Rutgers Anti-Caste Collective (Formerly FABPPSSWA) is a graduate student organization at Rutgers University dedicated to raising awareness about caste-based oppression and its intersections with other social injustices.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/fabppsswa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Bloustein Social Justice Committee",
+    "slug": "blousteinsjc",
+    "email": "blousteinsjc@gmail.com",
+    "summary": "The Bloustein Social Justice Committee (BSJC) provides an independent space for students to embody, integrate, and act upon principles of social justice within the Edward J. Bloustein School of Planning and Public Policy, Rutgers University.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/blousteinsjc"
+  },
+  {
+    "school": "rutgers",
+    "name": "Graduate Economics Student Association",
+    "slug": "graduateeconomicsstudentassociation",
+    "email": "gill.woody@rutgers.edu",
+    "summary": "The mission of GESA is to foster a welcoming environment that supports both the academic success and social engagement of graduate economics students. We strive to create a “family” where all members feel they belong.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/graduateeconomicsstudentassociation"
+  },
+  {
+    "school": "rutgers",
+    "name": "Saudi Student Association",
+    "slug": "ssa",
+    "email": "SSA_rutgers@outlook.com",
+    "summary": "The Saudi Student Association (SSA) connects and supports Saudi students at Rutgers, fostering cultural exchange and promoting Saudi traditions through events, programs, and gatherings.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ssa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Birdwatching Association (Rutgers University)",
+    "slug": "rubirdwatchingassociation",
+    "email": "rubirdwatchingassociation@gmail.com",
+    "summary": "RUBA strives to host exciting birding trips, provide opportunities to help with conservation efforts, learn about careers with birds, and more avian antics. It's a community for anyone who appreciates wild birds!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rubirdwatchingassociation"
+  },
+  {
+    "school": "rutgers",
+    "name": "Hacky Sack Club (Rutgers) (Provisional Organization 24/25)",
+    "slug": "rhsc",
+    "email": "therhsc@gmail.com",
+    "summary": "A casual and lackadaisical club for socializing and hacky-sacking. Little to no commitment is our catchphrase. This club is simply meant to facilitate people's hacky-sacking desires while remaining low pressure and being recreational.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rhsc"
+  },
+  {
+    "school": "rutgers",
+    "name": "Being Black and Queer",
+    "slug": "beingblackandqueer",
+    "email": "beingblackandqueer.rutgers@gmail.com",
+    "summary": "Being Black and Queer hopes to create a safe space for people who identify as both Black and LGBTQIA&#43; at Rutgers University in New Brunswick. We are a pillar of education, breaking boundaries and stereotypes to better unite and amplify our community.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/beingblackandqueer"
+  },
+  {
+    "school": "rutgers",
+    "name": "Arab/Islamic Cinematography Club (Provisional Organization 24/25)",
+    "slug": "arabcinema_ru",
+    "email": "ahmed.alnadi604@gmail.com",
+    "summary": "The Arab/Islamic Cinematography Club at Rutgers University aims to educate and engage students through the exploration of Arab and Islamic history, culture, and civilization via the medium of cinema.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/arabcinema_ru"
+  },
+  {
+    "school": "rutgers",
+    "name": "Graduate Society of Healthcare Leaders",
+    "slug": "gshl",
+    "email": "Ejb.gshl@gmail.com",
+    "summary": "We are a student run organization that helps promote and run events within the Masters in Healthcare Administration program. Our goal is to shine light on events that are taking place that could be beneficial to student that attend them.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/gshl"
+  },
+  {
+    "school": "rutgers",
+    "name": "Kurdish Studies (Graduate Student Association)",
+    "slug": "ksgsa",
+    "email": "mahsun.oti@rutgers.edu",
+    "summary": "Kurdish Studies Graduate Student Association organizes academic and cultural events concerning the kurds and Kurdistan.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ksgsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Mason Gross Art and Design (Mason Gross Graduate Student Association)",
+    "slug": "mggsa",
+    "email": "andrew.jarman@rutgers.edu",
+    "summary": "The mission of the MGGSA is to further the education and professional advancement of Mason Gross graduate students outside of the current program curricula.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/mggsa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Library and Information Science Student Association (Graduate Organization)",
+    "slug": "lissa",
+    "email": "lissa.rutgers@gmail.com",
+    "summary": "The Library and Information Science Student Association is the Rutgers University graduate student chapter of the American Library Association. Rutgers MI students are automatically members of LISSA and can choose their degree of involvement.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/lissa"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers University Synapse",
+    "slug": "rusynapse",
+    "email": "rutgerssynapse@gmail.com",
+    "summary": "Synapse is dedicated to supporting individuals with brain injuries by cultivating a strong social support network, raising public awareness, and inspiring the next generation of professionals in brain injury care",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rusynapse"
+  },
+  {
+    "school": "rutgers",
+    "name": "Women in Data Science",
+    "slug": "wids",
+    "email": "rutgerswids@gmail.com",
+    "summary": "WiDs Rutgers was founded in 2023 and aims to uplift all students interested in or intending to pursue a career in Data Science.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/wids"
+  },
+  {
+    "school": "rutgers",
+    "name": "Rutgers Enlightened Pages",
+    "slug": "rutgersenlightenedpages",
+    "email": "ruenlightenedpages@gmail.com",
+    "summary": "The Rutgers Enlightened Pages fosters critical thinking through weekly discussions of Kafka, Nietzsche, and Dostoevsky. With spirited debates and bi-monthly trips to NJ’s historic and political sites, members engage deeply with today’s defining questions",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/rutgersenlightenedpages"
+  },
+  {
+    "school": "rutgers",
+    "name": "The Offline Project",
+    "slug": "top",
+    "email": "theofflineprojectrutgers@gmail.com",
+    "summary": "Helping students reduce their social media usage and connect in-person!",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/top"
+  },
+  {
+    "school": "rutgers",
+    "name": "RU HART",
+    "slug": "ruhart",
+    "email": "rutgershart@gmail.com",
+    "summary": "RU HART is Rutgers’ Human Factors and Ergonomics Society Student Chapter, fostering student learning and collaboration in designing systems, products, and environments that enhance human performance and well-being.",
+    "categories": [],
+    "url": "https://rutgers.campuslabs.com/engage/organization/ruhart"
+  }
+]

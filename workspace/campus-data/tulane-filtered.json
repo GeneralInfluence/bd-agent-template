@@ -1,0 +1,2306 @@
+[
+  {
+    "school": "tulane",
+    "name": "Quiz Bowl",
+    "slug": "quiz-bowl",
+    "email": "Bpellegrin1@tulane.edu",
+    "summary": "We are a club that meets twice weekly to play Quiz Bowl, a trivia game with a variety of subjects. Topics range from science to history to literature to pop culture (and everything in between!). We also attend tournaments all over the country.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/quiz-bowl"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane School of Architecture Student Government",
+    "slug": "architecture-student-government",
+    "email": "architecturestudentgovernment@gmail.com",
+    "summary": "Student government organization of the Tulane University School of Architecture students. Focused on engaging students in all TuSA Programs and the community in a social and professional capacity through outreach and engagement.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/architecture-student-government"
+  },
+  {
+    "school": "tulane",
+    "name": "Queer Student Alliance",
+    "slug": "queer-student-alliance",
+    "email": "tulaneqsa.1972@gmail.com",
+    "summary": "Tulane's Queer Student Alliance is the oldest continuously-operating Gay and Lesbian organization in the state of Louisiana. 2024-2025 marks the 52nd year that we've been out, loud and proud on campus. We are an alliance that embraces the similarities...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/queer-student-alliance"
+  },
+  {
+    "school": "tulane",
+    "name": "Community Action Council of Tulane University Students",
+    "slug": "cactus",
+    "email": "cactus@tulane.edu",
+    "summary": "We have been sponsoring community service and social awareness programming at Tulane since 1968. This council supports all student-led community service activities and helps to cultivate relationships and initiatives that meet the needs of our community.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/cactus"
+  },
+  {
+    "school": "tulane",
+    "name": "American Institute of Architecture Students",
+    "slug": "american-institute-of-architecture-students",
+    "email": "tulane@aias.org",
+    "summary": "Bridging between the academic and professional architecture communities, the American Institute of Architecture Students at Tulane is our campus chapter of the official organization of our profession, the American Institute of Architects.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/american-institute-of-architecture-students"
+  },
+  {
+    "school": "tulane",
+    "name": "Alpha Rho Chi",
+    "slug": "alpha-rho-chi",
+    "email": "alpharhochi.hadrian@gmail.com",
+    "summary": "Alpha Rho Chi (APX) is the national, co-educational professional fraternity for architecture and the allied arts.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/alpha-rho-chi"
+  },
+  {
+    "school": "tulane",
+    "name": "Society of Women Engineers",
+    "slug": "society-of-women-engineers",
+    "email": "mlerner5@tulane.edu",
+    "summary": "For more than 7 decades, Society of Women Engineers (SWE) has given women engineers a unique place and voice within the engineering industry. Our organization is centered around a passion for our members' success within engineering and tech specialties.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/society-of-women-engineers"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Undergraduate Assembly",
+    "slug": "undergraduate-student-government",
+    "email": "tua@tulane.edu",
+    "summary": "The purpose of the Tulane Undergraduate Assembly is to act as the advocating body of the undergraduate students of Tulane University.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/undergraduate-student-government"
+  },
+  {
+    "school": "tulane",
+    "name": "NAMI On-Campus",
+    "slug": "nami-on-campus",
+    "email": "mcraddock@tulane.edu",
+    "summary": "National Alliance on Mental Illness (NAMI) on Campus: Tulane is dedicated to ending the stigma surrounding mental illness, promoting mental health, and educating the campus community about available resources.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/nami-on-campus"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Chinese Students and Scholars Association",
+    "slug": "chinese-students-scholars-association",
+    "email": "ywang143@tulane.edu",
+    "summary": "TCSSA is a student-run organization whose mission is to broaden the channels of communication between the Tulane Chinese community and various other cultural, academic, and professional communities in the Great New Orleans Area. TCSSA also aims at serv..",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/chinese-students-scholars-association"
+  },
+  {
+    "school": "tulane",
+    "name": "Office of International Students and Scholars",
+    "slug": "office-of-international-students-and-scholars",
+    "email": "oiss@tulane.edu",
+    "summary": "OISS assists Tulane’s international community with immigration, cultural adjustment, academic integration, professional growth, and personal support. Our mission is to support the Tulane international community and facilitate cross-cultural interaction.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/office-of-international-students-and-scholars"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Women in Architecture",
+    "slug": "tulane-women-in-architecture",
+    "email": "elindley@tulane.edu",
+    "summary": "Tulane Women in Architecture reflects the interests of professional equality in the School of Architecture and Newcomb-Tulane. Providing a safe community, we strive to educate and support the talented people here at TSA to become leaders in design",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-women-in-architecture"
+  },
+  {
+    "school": "tulane",
+    "name": "Teacher Preparation and Certification Program",
+    "slug": "teacher-preparation-and-certification-program",
+    "email": null,
+    "summary": "",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/teacher-preparation-and-certification-program"
+  },
+  {
+    "school": "tulane",
+    "name": "American Institute of Chemical Engineers",
+    "slug": "american-institute-of-chemical-engineers",
+    "email": "sknox@tulane.edu",
+    "summary": "The American Institute of Chemical Engineers (AIChE) on Tulane University's campus is an organization focused on preparing Chemical Engineering students for future internships, careers, and graduate school opportunities. Multiple events and trips are h..",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/american-institute-of-chemical-engineers"
+  },
+  {
+    "school": "tulane",
+    "name": "Beta Alpha Psi",
+    "slug": "beta-alpha-psi",
+    "email": null,
+    "summary": "Beta Alpha Psi (BAPsi) is an honor organization for financial information students and professionals that recognizes excellence in the field of accounting. The Beta Nu chapter at Tulane University aims to promote networking and build relationships betw...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/beta-alpha-psi"
+  },
+  {
+    "school": "tulane",
+    "name": "Residence Hall Association",
+    "slug": "residence-hall-association",
+    "email": "tulanerha@gmail.com",
+    "summary": "Tulane Residence Hall Association promotes the well being of students, represents residents, and provides programming that fosters connections within the Residence Halls and New Orleans community.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/residence-hall-association"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane University Service-Dog Training and Education Program",
+    "slug": "tustep-tulane",
+    "email": "tustep.tulane@gmail.com",
+    "summary": "TUSTEP is a service organization that focuses on raising assistance dogs in conjunction with Canine Companions. Members have opportunities to become a puppy sitter, learn about assistance dogs, join committees, and apply to be a raiser!",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tustep-tulane"
+  },
+  {
+    "school": "tulane",
+    "name": "Women and Youth Supporting Each Other",
+    "slug": "women-and-youth-supporting-each-other",
+    "email": "tulane.wyse@gmail.com",
+    "summary": "Women and Youth Supporting Each Other (WYSE) is a curriculum-based mentorship program that provides young women with the resources and support necessary to make informed decisions about relationships, sexuality, and their futures.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/women-and-youth-supporting-each-other"
+  },
+  {
+    "school": "tulane",
+    "name": "Theta Tau",
+    "slug": "theta-tau",
+    "email": "tulanethetatau@gmail.com",
+    "summary": "Theta Tau - Nu Epsilon Chapter is a gender inclusive professional engineering fraternity installed at Tulane University in 2018. It provides opportunities for brotherhood, professional development, and service to its brothers.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/theta-tau"
+  },
+  {
+    "school": "tulane",
+    "name": "Biology Enthusiast's Association of Students at Tulane",
+    "slug": "beast",
+    "email": "tcowles@tulane.edu",
+    "summary": "Welcome! BEAST is your friendly neighborhood biology club. Our goal is to connect students with faculty, provide opportunities for networking, and foster interest in the biological sciences through research, outreach, and beyond.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/beast"
+  },
+  {
+    "school": "tulane",
+    "name": "The Phyllis M. Taylor Center for Social Innovation and Design Thinking",
+    "slug": "taylor-tulane",
+    "email": "taylor@tulane.edu",
+    "summary": "Taylor, founded in 2014, helps students identify their changemaking path. Our programs are grounded in the teaching, research, and practices of changemaking design thinking, social entrepreneurship, and social innovation.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/taylor-tulane"
+  },
+  {
+    "school": "tulane",
+    "name": "School of Science and Engineering Student Government",
+    "slug": "ssesg",
+    "email": "ssesg@tulane.edu",
+    "summary": "Student Government organization representing the students of Tulane's School of Science and Engineering",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ssesg"
+  },
+  {
+    "school": "tulane",
+    "name": "School of Science and Engineering- Dean's Office",
+    "slug": "school-of-science-and-engineering",
+    "email": "jmahjoubian@tulane.edu",
+    "summary": "The mission of the Tulane University School of Science and Engineering is to provide outstanding opportunities for learning and discovery in science and engineering and to foster an environment that recognizes the needs of our students and our community.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/school-of-science-and-engineering"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane University Neuroscience Association",
+    "slug": "tulane-neuro",
+    "email": "sshrestha1@tulane.edu",
+    "summary": "TUNA is an organization dedicated to the love of neuroscience and is open to anyone that is interested in how the brain functions. We host frequent events to bring the neuroscience community together including lunches with professors, keynote speeches,...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-neuro"
+  },
+  {
+    "school": "tulane",
+    "name": "Mortar Board Honor Society",
+    "slug": "mortar-board",
+    "email": "mortarboardtulane@gmail.com",
+    "summary": "Mortar Board is a national honor society recognizing college juniors and seniors for their exemplary scholarship, leadership, and service. Mortar Board promotes leadership development, service to colleges and universities, and active global citizenship.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/mortar-board"
+  },
+  {
+    "school": "tulane",
+    "name": "Student Resource and Support Services",
+    "slug": "student-resource-and-support-services",
+    "email": "tyner@tulane.edu",
+    "summary": "Student Resources & Support Services is dedicated to fostering positive growth and development for a diverse student population. We take an individualized, holistic approach with each student, providing support through compassionate professional relati...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/student-resource-and-support-services"
+  },
+  {
+    "school": "tulane",
+    "name": "The Crescent Magazine",
+    "slug": "the-crescent-magazine",
+    "email": "jhaas2@tulane.edu",
+    "summary": "The Crescent Magazine is Tulane's digital, student-run publication. We aim to create relatable, informative, and interesting content for the Tulane and broader New Orleans community. With our team of over 90 members spread across editorial, social medi...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/the-crescent-magazine"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane University Campus Programming",
+    "slug": "tulane-university-campus-programming",
+    "email": "tucp.president@gmail.com",
+    "summary": "Tulane University Campus Programming is a student organization charged with bringing the best entertainment possible to Tulane.  We direct and coordinate the presentation of educational entertainment, multicultural, social, and recreational programs.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-university-campus-programming"
+  },
+  {
+    "school": "tulane",
+    "name": "Alpha Lambda Delta",
+    "slug": "alpha-lambda-delta",
+    "email": "ald.tulane@gmail.com",
+    "summary": "Tulane's chapter of Alpha Lambda Delta is an Honor's Society that recognizes first-year students who attain a 3.5 GPA or higher during their first semester of college and are in the top 20% of their class.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/alpha-lambda-delta"
+  },
+  {
+    "school": "tulane",
+    "name": "Community Service Fellows & Weatherhead Scholars",
+    "slug": "community-service-fellows",
+    "email": "csfwthds@tulane.edu",
+    "summary": "The Community Service Fellows and the Weatherhead Scholars Programs are scholarships for incoming freshmen, each fostering community engagement and leadership. These programs aim to develop socially aware leaders committed to addressing societal issues.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/community-service-fellows"
+  },
+  {
+    "school": "tulane",
+    "name": "South Asian Graduate Association",
+    "slug": "south-asian-graduate-association",
+    "email": null,
+    "summary": "SAGA provides a community of graduate & professional students who identify themselves belonging to  Indian subcontinental region also known as South Asian countries specifically Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/south-asian-graduate-association"
+  },
+  {
+    "school": "tulane",
+    "name": "Service Learning Assistants",
+    "slug": "service-learning-assistants",
+    "email": null,
+    "summary": "Mission StatementThe Service Learning Assistants program recruits, trains, and empowers exceptional student-leaders to help build the capacity of the Center for Public Service to ensure that every student has the opportunity to participate in transform...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/service-learning-assistants"
+  },
+  {
+    "school": "tulane",
+    "name": "Community Engagement Advocates",
+    "slug": "community-engagement-advocates",
+    "email": "ceadvocates@tulane.edu",
+    "summary": "The Community Engagement Advocates program is a peer-to-peer intergroup dialogue facilitation program managed by the Center for Public Service.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/community-engagement-advocates"
+  },
+  {
+    "school": "tulane",
+    "name": "Empowering Change Task Force/Health Spot at Elk Place",
+    "slug": "tulane-school-of-social-work-empowering-change",
+    "email": "rparque@tulane.edu",
+    "summary": "The mission of the Empowering Change Task Force (ECTF) is to create an anti-racist institution, and create a more diverse, equitable, and inclusive community at all levels of the Tulane School of Social Work (TSSW)",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-school-of-social-work-empowering-change"
+  },
+  {
+    "school": "tulane",
+    "name": "The Research Ambassadors",
+    "slug": "tusvri",
+    "email": "bsullivan6@tulane.edu",
+    "summary": "The Research Ambassadors runs the Tulane University Research Network, which helps undergraduate students connect with researchers and healthcare professionals.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tusvri"
+  },
+  {
+    "school": "tulane",
+    "name": "Center for Engaged Learning & Teaching",
+    "slug": "center-for-engaged-learning-and-teaching",
+    "email": "celt@tulane.edu",
+    "summary": "CELT is committed to supporting all Tulane faculty as they prepare or continue to teach.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/center-for-engaged-learning-and-teaching"
+  },
+  {
+    "school": "tulane",
+    "name": "Strategic Summer Programs",
+    "slug": "strategic-summer-programs",
+    "email": "summer@tulane.edu",
+    "summary": "Tulane Pre-College Programs inspire the future generation by providing students with access to college life, future careers, and community in the heart of New Orleans.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/strategic-summer-programs"
+  },
+  {
+    "school": "tulane",
+    "name": "Phi Alpha Delta Pre-Law Chapter",
+    "slug": "phi-alpha-delta-pre-law-chapter",
+    "email": "tulane.phialphadelta@gmail.com",
+    "summary": "Co-Ed Pre-Professional Law Fraternity",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/phi-alpha-delta-pre-law-chapter"
+  },
+  {
+    "school": "tulane",
+    "name": "National Society of Black Engineers",
+    "slug": "national-society-of-black-engineers",
+    "email": null,
+    "summary": "The mission of NSBE is to increase the number of culturally responsible black engineers who excel academically, succeed professionally and positively impact the community.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/national-society-of-black-engineers"
+  },
+  {
+    "school": "tulane",
+    "name": "The Tulane Hullabaloo",
+    "slug": "tulane-hullabaloo",
+    "email": "hullstories@gmail.com",
+    "summary": "The Tulane Hullabaloo is your college newspaper and the eyes and ears of the Tulane community.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-hullabaloo"
+  },
+  {
+    "school": "tulane",
+    "name": "Makers and Robotics Society",
+    "slug": "makers-and-robotics-society",
+    "email": "lfigueroa@tulane.edu",
+    "summary": "The Makers and Robotics Society is a community of students who are interested in making and designing with technology. The Makers aspect in Tulane MARS strives to promote an environment where people of different disciplines can interact and share ideas...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/makers-and-robotics-society"
+  },
+  {
+    "school": "tulane",
+    "name": "Newcomb Alumnae Association",
+    "slug": "newcombalumnae_tulane_edu",
+    "email": "newcombalumnae@tulane.edu",
+    "summary": "Women's undergraduate alumnae association at Tulane University.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/newcombalumnae_tulane_edu"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Naval Reserve Officer's Training Corps",
+    "slug": "tunrotc",
+    "email": "wallmon@tulane.edu",
+    "summary": "The NROTC Program was established to develop midshipmen mentally, morally and physically and to imbue them with the highest ideals of duty, and loyalty, and with the core values of honor, courage and commitment in order to commission college graduates ...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tunrotc"
+  },
+  {
+    "school": "tulane",
+    "name": "Graduate Studies Student Association",
+    "slug": "graduate-studies-student-association",
+    "email": "president.gssa@tulane.edu",
+    "summary": "GSSA is the Graduate Studies Student Association at Tulane University. This organization is composed of Masters and Doctoral students enrolled in the School of Science and Engineering (SSE) and the School of Liberal Arts.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/graduate-studies-student-association"
+  },
+  {
+    "school": "tulane",
+    "name": "Order of the Sword and Shield",
+    "slug": "order-of-the-sword-and-shield",
+    "email": null,
+    "summary": "The Order of the Sword & Shield National Honor Society is an American honor society for undergraduate students, graduate students, and professionals in the fields of homeland security, intelligence, emergency management, and all protective security dis..",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/order-of-the-sword-and-shield"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane University Legal Assistance Program",
+    "slug": "tulane-university-legal-assistance-program",
+    "email": "tulap@tulane.edu",
+    "summary": "TULAP is a legal aid program at Tulane University that provides free and low-cost legal services to members of the Tulane community. For more information, or to make an appointment, please visit www.law.tulane.edu/tulap",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-university-legal-assistance-program"
+  },
+  {
+    "school": "tulane",
+    "name": "WTUL New Orleans 91.5",
+    "slug": "wtul",
+    "email": "wtul.gm@gmail.com",
+    "summary": "WTUL is New Orleans' only student-run progressive radio station, broadcasting live 24/7! \r\nReach out to wtul.gm@gmail.com with any general questions or wtul.apprentice@gmail.com on how to join the station next semester!",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/wtul"
+  },
+  {
+    "school": "tulane",
+    "name": "School of Business Faculty",
+    "slug": "school-of-business-faculty",
+    "email": null,
+    "summary": "School of Business Faculty Account",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/school-of-business-faculty"
+  },
+  {
+    "school": "tulane",
+    "name": "Asian American Student Union",
+    "slug": "asian-american-student-union",
+    "email": "swin@tulane.edu",
+    "summary": "Welcome to the Asian American Student Union (AASU)! Our mission is to promote and support the Asian American community by celebrating the diversity of cultures at Tulane. ALL students are welcome!",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/asian-american-student-union"
+  },
+  {
+    "school": "tulane",
+    "name": "Office of Undergraduate Education - School of Business",
+    "slug": "gwbc-oue",
+    "email": "business@tulane.edu",
+    "summary": "The Office of Undergraduate Education provides information about Freeman courses and academic programs, one-on-one academic advising, enrollment support and information about Freeman's undergraduate student organizations and events.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/gwbc-oue"
+  },
+  {
+    "school": "tulane",
+    "name": "The School of Architecture Graduate Government",
+    "slug": "the-school-of-architecture-graduate-government",
+    "email": "rwemhoener@tulane.edu",
+    "summary": "The Tulane School of Architecture Graduate Government is an organization committed to the strengthening of the graduate student community. Its main purpose is to facilitate a relationship between graduate students, faculty, the administration, the Univ...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/the-school-of-architecture-graduate-government"
+  },
+  {
+    "school": "tulane",
+    "name": "Freeman Graduate Business Council",
+    "slug": "freeman-graduate-business-council",
+    "email": "gbc@tulane.edu",
+    "summary": "The Freeman Graduate Business Council (GBC) serves the academic, professional, and personal interests of its membership. All graduate students are members of the GBC and are represented by student-elected officers.The GBC facilitates interaction and co...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/freeman-graduate-business-council"
+  },
+  {
+    "school": "tulane",
+    "name": "Human Resources & Institutional Equity",
+    "slug": "human_resources",
+    "email": "hr@tulane.edu",
+    "summary": "The mission of Human Resources at Tulane University is to succeed by delivering high quality, innovative and effective human resources programs and services through an engaged, fair and respectful work culture which recognizes, rewards and values the....",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/human_resources"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane School of Social Work Graduate Student Network",
+    "slug": "resources_student-associations_student-government",
+    "email": "vgordongarofalo@tulane.edu",
+    "summary": "The Tulane School of Social Work (TSSW) Graduate Student Network (GSN) is committed to the facilitation of transparent relations between students, faculty, administration, the University, alumni, professionals and community members.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/resources_student-associations_student-government"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane University Peer Health Educators",
+    "slug": "tulane-university-peer-health-educators",
+    "email": "tuphes@tulane.edu",
+    "summary": "The Well is a great place for health information and support, and one of its greatest resources is the Peer Health Educator program known as Tulane University Peer Health Educators (TUPHEs) - pronounced \"toughs\"!",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-university-peer-health-educators"
+  },
+  {
+    "school": "tulane",
+    "name": "Alpha Kappa Psi",
+    "slug": "alpha-kappa-psi",
+    "email": "pichi.akpsi@gmail.com",
+    "summary": "We are the Pi Chi chapter of Alpha Kappa Psi, a prestigious business fraternity founded in 1904. AKPsi is recognized as the premier developer of principled business leaders through its core values of brotherhood, knowledge, integrity, service, and unity.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/alpha-kappa-psi"
+  },
+  {
+    "school": "tulane",
+    "name": "Newcomb Senate",
+    "slug": "newcomb-senate",
+    "email": "newcombsenate@wave.tulane.edu",
+    "summary": "Newcomb Senate serves as the liaison between the past and present Newcomb student body of Tulane University. Preserving Newcomb traditions and supporting the current vision of the Newcomb College Institute, it promotes engagement in Newcomb programs.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/newcomb-senate"
+  },
+  {
+    "school": "tulane",
+    "name": "Gender and Sexuality Studies Program",
+    "slug": "gender-and-sexuality-studies-program",
+    "email": "Gessdirector@tulane.edu",
+    "summary": "The Gender and Sexuality Studies Program at Tulane University is committed to the multidisciplinary and interdisciplinary preservation, expansion, and transmission of knowledge to undergraduate students and to other individuals in both the university a..",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/gender-and-sexuality-studies-program"
+  },
+  {
+    "school": "tulane",
+    "name": "NTC Center for Global Education",
+    "slug": "center-for-global-education",
+    "email": "cge@tulane.edu",
+    "summary": "Established in 2007, the Center for Global Education is a clearinghouse for international activities at Tulane that date back to the early 1900s. It is a place for students and scholars wishing to study and research in other countries, as well as for i...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/center-for-global-education"
+  },
+  {
+    "school": "tulane",
+    "name": "Earth Science Club",
+    "slug": "earth-science-club",
+    "email": "Dr. Jeffrey Agnew",
+    "summary": "The Earth Science Club's mission is to bring together Earth and Environmental Science enthusiasts. Club activities include field trips, movie nights, fundraisers, and other educational events.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/earth-science-club"
+  },
+  {
+    "school": "tulane",
+    "name": "Women in Business",
+    "slug": "women-in-business",
+    "email": "scohen35@tulane.edu",
+    "summary": "WIB is an organization that helps our female-identifying students on campus discover their interest in business. With successful business women as speakers and a variety of workshops, we help our members network and learn more about their futures.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/women-in-business"
+  },
+  {
+    "school": "tulane",
+    "name": "Women in Science",
+    "slug": "womeninscience",
+    "email": "nmorgan1@tulane.edu",
+    "summary": "Women in Science is a supportive and collaborative space for women pursuing a career in science to come together to share ideas, grow as individuals, and seek helpful resources.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/womeninscience"
+  },
+  {
+    "school": "tulane",
+    "name": "Title IX",
+    "slug": "title-ix",
+    "email": "titleix@tulane.edu",
+    "summary": "Tulane's Title IX office works to prevent and respond to sex discrimination, sexual harassment, and sexual violence.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/title-ix"
+  },
+  {
+    "school": "tulane",
+    "name": "Student Bar Association",
+    "slug": "student-bar-association",
+    "email": "swilkerson@tulane.edu",
+    "summary": "SBA is the student government organization of the law school and has representatives from every class. We perform three functions (1) we serve as an umbrella group designed to financially support student organizations and journals, (2) we act as a liai..",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/student-bar-association"
+  },
+  {
+    "school": "tulane",
+    "name": "Graduate and Professional Student Association",
+    "slug": "graduate-and-professional-student-association",
+    "email": "gapsa@tulane.edu gapsapres@tulane.edu",
+    "summary": "The Graduate and Professional Student Association (GAPSA) is the unifying body of the graduate and professional divisions of Tulane University.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/graduate-and-professional-student-association"
+  },
+  {
+    "school": "tulane",
+    "name": "School of Professional Advancement Student Organization",
+    "slug": "school-of-professional-advancement",
+    "email": null,
+    "summary": "The School of Professional Advancement is dedicated to meeting the needs of working adults and part-time students. Meet fellow students with similar interests and goals, gain leadership experience, and add a little fun to your university experience.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/school-of-professional-advancement"
+  },
+  {
+    "school": "tulane",
+    "name": "Newcomb Art Museum",
+    "slug": "newcomb-art-museum",
+    "email": "museum@tulane.edu",
+    "summary": "The Newcomb Art Museum of Tulane University builds on the Newcomb College legacy of education, social enterprise, and artistic experience. Presenting inspiring exhibitions and programs that engage communities both on and off campus, the Museum fosters ...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/newcomb-art-museum"
+  },
+  {
+    "school": "tulane",
+    "name": "Newcomb Prison Project",
+    "slug": "newcomb-prison-project",
+    "email": "GTAVERAS@tulane.edu",
+    "summary": "The Newcomb Prison Project is dedicated to educating the Tulane community about the criminal justice system and is actively pursuing efforts of criminal justice and prison reform through education and direct service throughout the wider NOLA community.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/newcomb-prison-project"
+  },
+  {
+    "school": "tulane",
+    "name": "TAMID Group",
+    "slug": "tamid-group",
+    "email": "tulane@tamidgroup.org",
+    "summary": "TAMID Group’s program is designed to offer experiential business learning. Beginning with an interactive classroom curriculum, the program soon progresses to give members hands-on experience with companies in the heart of the startup nation: Israel.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tamid-group"
+  },
+  {
+    "school": "tulane",
+    "name": "Roger Thayer Stone Center for Latin American Studies",
+    "slug": "stonecenterforlatinamericanstudies",
+    "email": "rtsclas@tulane.edu",
+    "summary": "* The Center comprises a diverse group of scholars representing many disciplines and points of view drawn together by our common interest in Latin America.* The Center’s principal purpose is to promote, sustain, and encourage research and teaching of L...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/stonecenterforlatinamericanstudies"
+  },
+  {
+    "school": "tulane",
+    "name": "Delta Sigma Pi",
+    "slug": "delta-sigma-pi",
+    "email": "tulane.deltasigmapi@gmail.com",
+    "summary": "Delta Sigma Pi is one of the largest co-ed professional business fraternities in the United States. Founded on November 7, 1907 at NYU, DSP has grown to hold 223 active collegiate chapters with over 265,000 initiated members.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/delta-sigma-pi"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Music Science and Technology Area",
+    "slug": "tulane-music-science-and-technology-area",
+    "email": null,
+    "summary": "Tulane Music Students have access to the department's Computer Music Lab and Composition and Recording Studio.  In the Computer Music Lab students work with Digital Audio Workstations outfitted with software for composition, arranging, notating, and re...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-music-science-and-technology-area"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Pre-College Programs",
+    "slug": "tulane-pre-college-programs",
+    "email": null,
+    "summary": "Tulane Pre-College Programs inspire the future generation by providing students with access to college life, future careers, and community in the heart of New Orleans.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-pre-college-programs"
+  },
+  {
+    "school": "tulane",
+    "name": "Goldring Institute for International Business",
+    "slug": "goldring-institute-for-international-business",
+    "email": null,
+    "summary": "The Goldring Institute of International Business was founded in 1991 to house the research and academic programs of the A.B. Freeman School of Business which were related to international business. Its role is derived from the school's mission to have ...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/goldring-institute-for-international-business"
+  },
+  {
+    "school": "tulane",
+    "name": "Newcomb-Tulane College, Ofc of College Advising",
+    "slug": "ntc-college-advising",
+    "email": "advising@tulane.edu",
+    "summary": "College Advising is aimed at supporting NTC undergraduates plan their completion of the NTC Core Curriculum and connecting effectively with university resources.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ntc-college-advising"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane University AIGA Student Group",
+    "slug": "tulane-aiga",
+    "email": "ajdurand@tulane.edu",
+    "summary": "Tulane AIGA is established for the purpose of bringing together students who either participate in design-related fields or appreciate or advocate for design and design thinking. The secondary purpose of Tulane AIGA is to establish an extension of the...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-aiga"
+  },
+  {
+    "school": "tulane",
+    "name": "Innovative Learning Center",
+    "slug": "innovative-learning-center",
+    "email": "ilc@tulane.edu",
+    "summary": "The ILC serves as a focal point for faculty interested in exploring new tactics for delivering their lessons and assessing their students.  The Center staff also consult on research strategies and act as liaisons between IT and faculty.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/innovative-learning-center"
+  },
+  {
+    "school": "tulane",
+    "name": "NTC Marketing and Communications",
+    "slug": "ntc-marketing-communications",
+    "email": "collegeevents@wave.tulane.edu",
+    "summary": "The NTC Marketing and Communications Department promotes meaningful events to undergraduate students.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ntc-marketing-communications"
+  },
+  {
+    "school": "tulane",
+    "name": "Society of Hispanic Professional Engineers",
+    "slug": "shpe",
+    "email": "shpe@tulane.edu",
+    "summary": "Society of Hispanic Professional Engineers is a community passionate about advocating for hispanic representation in STEM fields. We connect members with networking, professional opportunities, and lasting friendships!\r\nOpen to all majors & backgrounds!",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/shpe"
+  },
+  {
+    "school": "tulane",
+    "name": "New Orleans Center for the Gulf South at Tulane University",
+    "slug": "nocgs",
+    "email": "rcairns@tulane.edu",
+    "summary": "The New Orleans Center for the Gulf South at Tulane University (NOCGS) is an interdisciplinary, place-based institute that was founded in 2011 and is now a cornerstone of the School of Liberal Arts.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/nocgs"
+  },
+  {
+    "school": "tulane",
+    "name": "Women Investing in Women",
+    "slug": "womeninvestinginwomen",
+    "email": "Efrauenheim@tulane.edu",
+    "summary": "The Tulane Women Investing in Women is an organization designed to promote the goals and needs of students interested or majoring in Finance.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/womeninvestinginwomen"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane University Campus Cats",
+    "slug": "campuscats",
+    "email": "tulanecampuscats@gmail.com",
+    "summary": "TUCC is an organization established to bring students, faculty, and staff alike together in order to protect and maintain the Tulane campus cat population. The organization will also educate Tulane University on the campus cats and their roles at Tulane.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/campuscats"
+  },
+  {
+    "school": "tulane",
+    "name": "Career Wave Programs",
+    "slug": "careerwave",
+    "email": "lwilli5@tulane.edu",
+    "summary": "Career Wave serves as an intersection between students and alumni/parents for engagement in career related education, networking and career exploration. Career Wave plans and executes events specifically for students to interact with professionals.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/careerwave"
+  },
+  {
+    "school": "tulane",
+    "name": "Alliance of Black Business Students",
+    "slug": "abbs",
+    "email": "kdouglas2@tulane.edu",
+    "summary": "ABBS is a coalition of students devoted to promoting diversity within the Freeman Business School as well as providing support and networking opportunities. Participation in ABBS is open to all students, regardless of race.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/abbs"
+  },
+  {
+    "school": "tulane",
+    "name": "Pinky Swear Pack Tulane",
+    "slug": "pinkysweartulane",
+    "email": "mvaldez@tulane.edu",
+    "summary": "The Pinky Swear PACK is a nationally recognized organization with a mission to enrich the lives of kids battling cancer. It has \"campus crews\" across the country who work to give kids enriching experiences through hospital visits and fun activities.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/pinkysweartulane"
+  },
+  {
+    "school": "tulane",
+    "name": "Department of Chemistry",
+    "slug": "chemistry",
+    "email": "chemistry@tulane.edu",
+    "summary": "Tulane's Department of Chemistry has been devoted to the high quality teaching and research since its founding in 1834.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/chemistry"
+  },
+  {
+    "school": "tulane",
+    "name": "LBC Student Employees",
+    "slug": "teamlbc",
+    "email": "dhannaga@tulane.edu",
+    "summary": "Homepage for student employees at the Tulane University Lavin-Bernick Center for University life to access resources, submit required forms, and connect with professional staff.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/teamlbc"
+  },
+  {
+    "school": "tulane",
+    "name": "Healthcare Policy Club",
+    "slug": "healthcarepolicyclub",
+    "email": "igarayzar@tulane.edu ",
+    "summary": "The Healthcare Policy Club welcomes all interested students to explore healthcare policy's impact, learn about related careers through discussions and speaker events, and connect with peers, professors, and professionals.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/healthcarepolicyclub"
+  },
+  {
+    "school": "tulane",
+    "name": "Brazilian Student Association",
+    "slug": "brasa",
+    "email": "brasatulane@gmail.com",
+    "summary": "Our mission is to strengthen the Brazilian community at Tulane and to engage students interested in Brazil's culture, language and traditions. In addition BRASA provides networking and internship/job opportunities to its community.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/brasa"
+  },
+  {
+    "school": "tulane",
+    "name": "TEDxTulane",
+    "slug": "tedxtulane",
+    "email": "tulanetedx@gmail.com",
+    "summary": "TEDxTulane is a student ran organization focused on bringing together people of all different fields in order to share innovative ideas and inspiring stories.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tedxtulane"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Fintech",
+    "slug": "tufintech",
+    "email": "kvogel4@tulane.edu",
+    "summary": "Tulane Fintech, or TU Fintech, is a student organization on campus promoting financial technology and educating the student body about financial technology, trending tech, and blockchain-based services including blockchain, business, and cryptocurrency.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tufintech"
+  },
+  {
+    "school": "tulane",
+    "name": "Office of Academic Affairs",
+    "slug": "office_of_academic_affairs",
+    "email": "aapops@tulane.edu",
+    "summary": "This office oversees the appointment, advancement, and retention of faculty; the articulation and deployment of all academic and research programs; the development of strategic plans to secure the University’s enduring excellence in all endeavors.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/office_of_academic_affairs"
+  },
+  {
+    "school": "tulane",
+    "name": "Newcomb-Tulane College First-Year Experience",
+    "slug": "fye",
+    "email": "firstyear@tulane.edu",
+    "summary": "Newcomb-Tulane College's First Year Experience connects students with classmates, faculty, and success resources throughout your first year at Tulane. Including programs like First-Year Seminars, The Reading Project, New Student Orientation, and more.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/fye"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Synthetic Biology Club",
+    "slug": "tusynbio",
+    "email": "tulaneigem@gmail.com",
+    "summary": "The Tulane Synthetic Biology Club (TU Synbio) is a group of synthetic biology enthusiasts who work on a team research project and compete in synthetic biology competitions such as the Global Open Genetic Engineering Competition (GOGEC).",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tusynbio"
+  },
+  {
+    "school": "tulane",
+    "name": "Newcomb-Tulane College Career Services",
+    "slug": "ntccareerservices",
+    "email": "ldore@tulane.edu",
+    "summary": "NTC Career Services' mission is to \"equitably empower students on their unique career journies.\" We do this through 1:1 coaching, our career development and readiness course (CRDV), and events like industry chats, fairs, and employer info sessions.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ntccareerservices"
+  },
+  {
+    "school": "tulane",
+    "name": "Office of Graduate and Postdoctoral Studies",
+    "slug": "ogps",
+    "email": null,
+    "summary": "OGPS advances graduate education and enhances postdoctoral training through program oversight, policy development, and implementation of focused activities. OGPS is part of the Office of Academic Affairs.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ogps"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Neurology Residency",
+    "slug": "neurology",
+    "email": "rtumminello@tulane.edu",
+    "summary": "Department of Neurology\r\nTulane Center for Clinical Neurosciences",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/neurology"
+  },
+  {
+    "school": "tulane",
+    "name": "Neurosurgery",
+    "slug": "neurosurgery",
+    "email": "jjoseph11@tulane.edu",
+    "summary": "Neurosurgery",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/neurosurgery"
+  },
+  {
+    "school": "tulane",
+    "name": "Office of Academic Excellence & Opportunity",
+    "slug": "www-edi-tulane-edu",
+    "email": "AEOoffice@tulane.edu",
+    "summary": "The Office of Academic Excellence & Opportunity building a Tulane where we practice our core value of welcoming community every day.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/www-edi-tulane-edu"
+  },
+  {
+    "school": "tulane",
+    "name": "Continuing Legal Education",
+    "slug": "cle",
+    "email": "nlacoste@tulane.edu",
+    "summary": "Organize continuing legal education seminars for lawyers, accountants and other professionals.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/cle"
+  },
+  {
+    "school": "tulane",
+    "name": "NTC Staff Appreciation Committee",
+    "slug": "ntc-sac",
+    "email": null,
+    "summary": "This committee is designed to organize and facilitate events for the faculty and staff of Newcomb Tulane College.  These events are meant to show appreciation for everyone's diligent work and commitment each semester. Events are always free of charge.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ntc-sac"
+  },
+  {
+    "school": "tulane",
+    "name": "A Studio in the Woods",
+    "slug": "astudiointhewoods",
+    "email": "chill6@tulane.edu",
+    "summary": "A Studio in the Woods, a program of Tulane University’s ByWater Institute, fosters creative responses to the challenges of our time by providing retreat to artists, scholars, and the public in our protected forest on the Mississippi River.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/astudiointhewoods"
+  },
+  {
+    "school": "tulane",
+    "name": "The Murphy Institute",
+    "slug": "murphy",
+    "email": "jbeers@tulane.edu",
+    "summary": "The Murphy Institute consists of an undergraduate major in Political Economy, an M.A. in Political Economy with Data Analytics, the Center for Ethics and Public Affairs, the Center for Public Policy Research, and the Center on Law and the Economy.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/murphy"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Physics and Engineering Physics (PEP)",
+    "slug": "physics_engphys",
+    "email": "asanchez7@tulane.edu",
+    "summary": "This will register events hosted by the Tulane Physics and Engineering Physics Department.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/physics_engphys"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane School of Professional Advancement",
+    "slug": "tusopa",
+    "email": "cuzee@tulane.edu",
+    "summary": "School of Professional Advancement Dean's Office Events & Activities",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tusopa"
+  },
+  {
+    "school": "tulane",
+    "name": "U.S Israel Center",
+    "slug": "cbe",
+    "email": "lrobins5@tulane.edu",
+    "summary": "Chemical & Bimolecular Engineering",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/cbe"
+  },
+  {
+    "school": "tulane",
+    "name": "Freeman Workplace Excellence and Community Relations",
+    "slug": "freemanworkplaceexcellence",
+    "email": "rbutler4@tulane.edu",
+    "summary": "At Freeman, We aspire to engage and enable students, organizations, and our global business community to contribute to human achievement and prosperity by creating and disseminating high-impact business knowledge to advance a more equitable society.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/freemanworkplaceexcellence"
+  },
+  {
+    "school": "tulane",
+    "name": "School of Liberal Arts",
+    "slug": "liberalarts",
+    "email": "jmistrot@tulane.edu",
+    "summary": "The School of Liberal Arts at Tulane encompasses the arts, humanities, and social sciences through sixteen departments and nineteen interdisciplinary programs.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/liberalarts"
+  },
+  {
+    "school": "tulane",
+    "name": "Department of Computer Science",
+    "slug": "ssetulaneeducs",
+    "email": "dramil1@tulane.edu",
+    "summary": "The Department of Computer Science is an academic department at Tulane wherein we emphasize both core computer science and its applications to related areas in the sciences and engineering, the health and social sciences, and the humanities.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ssetulaneeducs"
+  },
+  {
+    "school": "tulane",
+    "name": "The Albert and Tina Small Center for Collaborative Design",
+    "slug": "smallcenter",
+    "email": "baronne@tulane.edu",
+    "summary": "The Albert and Tina Small Center for Collaborative Design is the community design center of the Tulane School of Architecture. We are located at 1725 Baronne Street.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/smallcenter"
+  },
+  {
+    "school": "tulane",
+    "name": "Albert Lepage Center for Innovation & Entrepreneurship",
+    "slug": "lcei",
+    "email": "tmallery@tulane.edu",
+    "summary": "The Albert Lepage Center for Entrepreneurship and Innovation at the Freeman School of Business brings together scholars, inventors, investors and students to solve problems and build businesses.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/lcei"
+  },
+  {
+    "school": "tulane",
+    "name": "Asian Studies",
+    "slug": "asian-studies",
+    "email": "lbutler4@tulane.edu",
+    "summary": "The Asian Studies Program provides students with a multi-disciplinary approach to the study of Asian cultures and languages. The program works across departments to bring together a wide range of courses and methodological approaches to area studies.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/asian-studies"
+  },
+  {
+    "school": "tulane",
+    "name": "Cognitive Studies",
+    "slug": "cognitive_studies",
+    "email": "dburnsto@tulane.edu",
+    "summary": "Cognitive Studies is an interdisciplinary coordinate major based in the Philosophy Department.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/cognitive_studies"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Institute on Water Law & Policy",
+    "slug": "waterlawinstitute",
+    "email": "cdalbom@tulane.edu",
+    "summary": "We work to foster understanding of the complex relationship between people and water. We provide law and policy analysis to decision makers and the public to ensure that water and the ecosystems it supports are maintained for future generations.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/waterlawinstitute"
+  },
+  {
+    "school": "tulane",
+    "name": "Africana Studies Program",
+    "slug": "africanastudies",
+    "email": "africana@tulane.edu",
+    "summary": "The Africana Studies Program at Tulane embraces interdisciplinary methodologies for the study of Africa and its diasporas across the globe, as well as for the critical study of race and anti-Black racism.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/africanastudies"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane ByWater Institute",
+    "slug": "bywater",
+    "email": "bywater@tulane.edu",
+    "summary": "Our mission is to catalyze thriving climate and water futures through transdisciplinary & collaborative scholarship",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/bywater"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Law School Diversity and Student Life",
+    "slug": "tls_diversityandstudentlife",
+    "email": "mjacks8@tulane.edu",
+    "summary": "Tulane Law School's Diversity and Student Life department manages, assists, and creates programming for the law school diversity initiatives and student organizations.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tls_diversityandstudentlife"
+  },
+  {
+    "school": "tulane",
+    "name": "Pathologists' Assistant Program",
+    "slug": "paprogram",
+    "email": "pathassistantprogram@tulane.edu",
+    "summary": "Pathologists' Assistant (PA) Program\r\nDepartment of Pathology and Laboratory Medicine",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/paprogram"
+  },
+  {
+    "school": "tulane",
+    "name": "Law School - Online Legal Education",
+    "slug": "onlinelaw",
+    "email": "kzawacki@tulane.edu",
+    "summary": "Tulane's Online Legal Education Programs, consisting of the MJ-LEL (Master's of Jurisprudence in Labor and Employment Law), MJ-E (Master's of Energy Law, and Master's of Environmental Law) and the Title IX Certificate Program.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/onlinelaw"
+  },
+  {
+    "school": "tulane",
+    "name": "Global Guides",
+    "slug": "global-guides",
+    "email": "jdong7@tulane.edu",
+    "summary": "A student leadership organization working to create a globally-aware community at Tulane University.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/global-guides"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane University Leadership Institute",
+    "slug": "leadership-institute",
+    "email": "tuli@tulane.edu",
+    "summary": "Provides professional development workshop and opportunities for Tulane's Faculty and Staff",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/leadership-institute"
+  },
+  {
+    "school": "tulane",
+    "name": "Newcomb Children's Center",
+    "slug": "newcomb-childrens-center",
+    "email": "jsmithpr@tulane.edu",
+    "summary": "Early Childhood Education program that offers care and educational services for children (ages 12 months-5 years) of Tulane University families.  Our organization operates year round on weekdays during the hours of 8:00 a.m. - 4:30 p.m.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/newcomb-childrens-center"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Real Estate Group",
+    "slug": "treg",
+    "email": "mbasgall@tulane.edu",
+    "summary": "The Tulane Real Estate Goup creates long-lasting relationships between students and real estate professionals. Students have access to panels, internship opportunities, educational resources, and other events with leading industry professionals.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/treg"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane African Student Association",
+    "slug": "tasa",
+    "email": "tasa@tulane.edu",
+    "summary": "TASA’s primary purpose is to foster an environment where African students and those interested in African culture may learn, share, and grow together.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tasa"
+  },
+  {
+    "school": "tulane",
+    "name": "Homeland Security /Emergency and Security Studies",
+    "slug": "homelandsecurity",
+    "email": "asksopa@tulane.edu",
+    "summary": "https://sopa.tulane.edu/degrees-programs/programs-study/emergency-security-studies",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/homelandsecurity"
+  },
+  {
+    "school": "tulane",
+    "name": "Department of Political Science",
+    "slug": "political-science-department",
+    "email": "polisci@wave.tulane.edu",
+    "summary": "Our mission is to contribute to a deeper understanding of politics, government, international affairs and development through faculty research and publication and to educate students about the principal questions and debates in the discipline.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/political-science-department"
+  },
+  {
+    "school": "tulane",
+    "name": "NTC English for Academic and Professional Purposes",
+    "slug": "studyabroad",
+    "email": "learneng@tulane.edu",
+    "summary": "NTC English for Academic and Professional Purposes offers courses for international students and current and future ESL teachers.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/studyabroad"
+  },
+  {
+    "school": "tulane",
+    "name": "Black Women's Health Conference",
+    "slug": "bwhconference",
+    "email": "nlewis2@tulane.edu",
+    "summary": "Biennial health conference bringing researchers, practitioners, and community members together to confront health disparity issues impacting black women and girls.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/bwhconference"
+  },
+  {
+    "school": "tulane",
+    "name": "Green Wave Sound",
+    "slug": "greenwavesound",
+    "email": "kfaustino@tulane.edu",
+    "summary": "Green Wave Sound is a music business association that allows for students to connect and network with professionals across all facets of the music industry.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/greenwavesound"
+  },
+  {
+    "school": "tulane",
+    "name": "Center for K-12 STEM Education",
+    "slug": "k12stem",
+    "email": "k12stem@tulane.edu",
+    "summary": "The Center for K-12 STEM Education is a part of the School of Science and Engineering Dean's Office. We plan events and programs throughout the year to increase interest in STEM subjects among K-12 students in the Greater New Orleans area.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/k12stem"
+  },
+  {
+    "school": "tulane",
+    "name": "Middle American Research Institute",
+    "slug": "sla_mari",
+    "email": "mari@tulane.edu",
+    "summary": "Since 1924, the Middle American Research Institute at Tulane University has supported archaeological research, curated collections of artifacts and textiles and published scholarship on the ancient cultures of Mexico and Central America.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/sla_mari"
+  },
+  {
+    "school": "tulane",
+    "name": "Strategy, Leadership and Analytics Minor",
+    "slug": "slam",
+    "email": "adugas@tulane.edu",
+    "summary": "The Strategy, Leadership, and Analytics Minor is an interdisciplinary program that prepares students to be leaders who can manage the dynamics of rapidly changing marketplaces and adapt strategically and creatively for future careers.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/slam"
+  },
+  {
+    "school": "tulane",
+    "name": "School of Liberal Arts- Communication",
+    "slug": "testjd",
+    "email": "comminfo@tulane.edu",
+    "summary": "With over 150 majors, our faculty members offer a range of theoretical, historical, and praxis-oriented courses.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/testjd"
+  },
+  {
+    "school": "tulane",
+    "name": "Center for Artificial Intelligence",
+    "slug": "ai",
+    "email": "aculotta@tulane.edu",
+    "summary": "The Tulane Center of Excellence in Artificial Intelligence supports research and education in artificial intelligence, machine learning, and data science, with a focus on applications that pave the way toward a healthier, more connected global community.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ai"
+  },
+  {
+    "school": "tulane",
+    "name": "NTC Honor Board",
+    "slug": "ntchonorboard",
+    "email": "NTCHonorBoard@tulane.edu",
+    "summary": "The Newcomb-Tulane College Honor Board is the departmental group of students and faculty who are responsible for resolving reports of academic misconduct for students in NTC.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ntchonorboard"
+  },
+  {
+    "school": "tulane",
+    "name": "Center for Aging",
+    "slug": "centerforaging",
+    "email": "scox8@tulane.edu",
+    "summary": "The Tulane Center for Aging will foster and support the development of research programs across a broad spectrum of disciplines that will provide solutions to the problems associated with aging at the level of the individual, community, and population.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/centerforaging"
+  },
+  {
+    "school": "tulane",
+    "name": "Freeman School of Business Graduate Admissions",
+    "slug": "freeman-school-of-business-graduate-admissions",
+    "email": "abfadmit@tulane.edu",
+    "summary": "We're here to guide you every step of the way as you apply for your graduate business degree at Freeman. For more information about admissions events, application requirements, financial aid, and fellowships.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/freeman-school-of-business-graduate-admissions"
+  },
+  {
+    "school": "tulane",
+    "name": "Society for Advancement of Chicanos/Hispanics and Native Americans in Science at Tulane",
+    "slug": "sacnasattulane",
+    "email": "SACNASatTulane@gmail.com",
+    "summary": "SACNAS is an inclusive organization dedicated to fostering the success of Chicanos/Hispanics and Native Americans, from college students to professionals, in attaining advanced degrees, careers, and positions of leadership in STEM.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/sacnasattulane"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Center for Clinical Research",
+    "slug": "tccr",
+    "email": "tccr@tulane.edu",
+    "summary": "The Tulane Center for Clinical Research helps researchers conduct research studies.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tccr"
+  },
+  {
+    "school": "tulane",
+    "name": "School of Medicine, Section of Nephrology",
+    "slug": "nephrology",
+    "email": "mpeacock@tulane.edu",
+    "summary": "Nephrology Fellowship Program",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/nephrology"
+  },
+  {
+    "school": "tulane",
+    "name": "Optics and Photonics Tulane Innovation Club and Society",
+    "slug": "optics",
+    "email": "tuoptics@gmail.com",
+    "summary": "The Optics and Photonics Tulane Innovation Club and Society is dedicated to spreading knowledge of fundamental optical science and cutting-edge research in the field of photonics.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/optics"
+  },
+  {
+    "school": "tulane",
+    "name": "Department of Spanish and Portuguese",
+    "slug": "spanish-portuguese",
+    "email": "spanport@tulane.edu",
+    "summary": "The Department of Spanish and Portuguese of Tulane University has a long and distinguished history of researching and teaching the languages, literature, and cultures of the Iberian Peninsula, Latin America, and Lusophone Africa.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/spanish-portuguese"
+  },
+  {
+    "school": "tulane",
+    "name": "Phi Beta Kappa",
+    "slug": "pbk",
+    "email": "pbk@tulane.edu",
+    "summary": "As America’s most prestigious academic honor society, we celebrate excellence in the liberal arts and sciences and champion freedom of thought.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/pbk"
+  },
+  {
+    "school": "tulane",
+    "name": "Public Relations Student Society of America Tulane University Chapter",
+    "slug": "tuprssa",
+    "email": "prssa@tulane.edu",
+    "summary": "PRSSA is the foremost organization for students interested in public relations and communications. Founded in 1968 by its parent organization, the PRSA, PRSSA includes nearly 7,000 student members and advisers on nearly 375 campuses.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tuprssa"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Brain Institute",
+    "slug": "brain",
+    "email": "brain@tulane.edu",
+    "summary": "Neuroscience undergrad and grad programs.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/brain"
+  },
+  {
+    "school": "tulane",
+    "name": "Department of Ophthalmology",
+    "slug": "ophthalmology",
+    "email": "wrichardson@tulane.edu",
+    "summary": "C.S. O'Brien Professorship and Resident Research Day",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ophthalmology"
+  },
+  {
+    "school": "tulane",
+    "name": "Mentor Institute",
+    "slug": "mentorinstitute",
+    "email": "rweber1@tulane.edu",
+    "summary": "The Mentor Institute is the centralized hub for all campus mentorship programs.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/mentorinstitute"
+  },
+  {
+    "school": "tulane",
+    "name": "New Orleans Shakespeare Festival at Tulane",
+    "slug": "neworleansshakespeare",
+    "email": "mguiteras@tulane.edu",
+    "summary": "New Orleans' classical theatre company in residence at Tulane University.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/neworleansshakespeare"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Law International Programs",
+    "slug": "tulanelawinternational",
+    "email": "lawabroad@tulane.edu",
+    "summary": "Office in charge of promoting and coordinating graduate and international legal programs for Tulane Law School.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulanelawinternational"
+  },
+  {
+    "school": "tulane",
+    "name": "Linguistics Program",
+    "slug": "linguistics",
+    "email": "adugas@tulane.edu",
+    "summary": "Interdisciplinary Program in Linguistics at Tulane",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/linguistics"
+  },
+  {
+    "school": "tulane",
+    "name": "A.B. Freeman School Dean's Office",
+    "slug": "freemandean",
+    "email": "businessdean@tulane.edu",
+    "summary": "Office of the Dean at the A.B. Freeman School of Business",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/freemandean"
+  },
+  {
+    "school": "tulane",
+    "name": "International City/County Management Association",
+    "slug": "tulaneicma",
+    "email": "ICMA@tulane.edu",
+    "summary": "Tulane ICMA (International City / County Management Association) is part of a network of 11,000+ professionals worldwide dedicated to helping you build your dream career!",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulaneicma"
+  },
+  {
+    "school": "tulane",
+    "name": "Middle East North African Studies",
+    "slug": "mena",
+    "email": "lbutler4@tulane.edu",
+    "summary": "Program for the study of the Middle East and North African region.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/mena"
+  },
+  {
+    "school": "tulane",
+    "name": "Arabic Studies",
+    "slug": "arabicstudies",
+    "email": "lbutler4@tulane.edu",
+    "summary": "Program to support the learning of Arabic language and culture.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/arabicstudies"
+  },
+  {
+    "school": "tulane",
+    "name": "International Association for Research on Service Learning and Community Engagement",
+    "slug": "iarslce",
+    "email": "tnobile@tulane.edu",
+    "summary": "The mission of IARSLCE is to promote the development and dissemination of research on service-learning and community engagement internationally and across all levels of the education system.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/iarslce"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Global - Office of International Affairs",
+    "slug": "tulane-global",
+    "email": "Ana Villar, Ph.D. ",
+    "summary": "Tulane Global provides direction for the University’s international endeavors, collaborating across campus to support ground-breaking research, foster an inclusive international community and facilitate impactful global learning and engagement.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-global"
+  },
+  {
+    "school": "tulane",
+    "name": "Center for Environmental Law",
+    "slug": "law-tulane-edu-centers-environment",
+    "email": "jjohnst1@tulane.edu",
+    "summary": "Environmental law is a multifaceted experience, not just something studied. The Center for Environmental Law (CEL) is a vital part of that experience",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/law-tulane-edu-centers-environment"
+  },
+  {
+    "school": "tulane",
+    "name": "Center for Energy Law",
+    "slug": "law-tulane-edu-centers-energy",
+    "email": "jjohnst1@tulane.edu",
+    "summary": "The Tulane Center for Energy Law was launched with a $2 million endowment gift from energy industry veteran and Tulane graduate Jim McCulloch, executive vice president and general counsel for Houston-based Forum Energy Technologies, and his wife, Susan.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/law-tulane-edu-centers-energy"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Photo Club",
+    "slug": "tulanephoto",
+    "email": "ffrutkin@tulane.edu",
+    "summary": "A space where Tulane students can embrace creativity by encouraging the act of photography. Weekly structured and organized meetings where students can create, collaborate on, and publish original photographs. All students are welcome to join!",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulanephoto"
+  },
+  {
+    "school": "tulane",
+    "name": "The Women's Network",
+    "slug": "the-womens-network",
+    "email": "thewomensnetwork.tulane@gmail.com",
+    "summary": "The largest collegiate women's networking organization in the nation – cultivating and celebrating women's ambition through connecting our members to industry leaders, professional development resources, and career opportunities.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/the-womens-network"
+  },
+  {
+    "school": "tulane",
+    "name": "Wall Street Krewe",
+    "slug": "wallstreetkrewe",
+    "email": "nsabia@tulane.edu",
+    "summary": "Wall Street Krewe brings together people interested in investment banking, asset and wealth management, equity research, and other finance professions. We strive to provide meaningful programming to help students become informed about career paths.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/wallstreetkrewe"
+  },
+  {
+    "school": "tulane",
+    "name": "Mathematics Department",
+    "slug": "math",
+    "email": null,
+    "summary": "Mathematics Department,\r\nGibson Hall",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/math"
+  },
+  {
+    "school": "tulane",
+    "name": "Design Program - School of Architecture",
+    "slug": "designprogram",
+    "email": null,
+    "summary": "Design Program within the School of Architecture",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/designprogram"
+  },
+  {
+    "school": "tulane",
+    "name": "Department of Economics",
+    "slug": "economics",
+    "email": null,
+    "summary": "Department of Economics",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/economics"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane School of Medicine - Department of Pediatrics - Section of Adolescent Medicine",
+    "slug": "tulane-adolescent-medicine",
+    "email": "wbraddoc@tulane.edu",
+    "summary": "In the Section of Adolescent Medicine at the Tulane School of Medicine, we foster innovative community-engaged research, education, advocacy, and comprehensive healthcare for young people.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-adolescent-medicine"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane University Innovation Institute",
+    "slug": "innovation-tulane-edu",
+    "email": "Innovation@tulane.edu",
+    "summary": "The Tulane Innovation Institute is a university-wide endeavor to support innovation and entrepreneurship at Tulane and the Greater New Orleans region.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/innovation-tulane-edu"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane University Pulmonary Diseases, Critical Care and Environmental Medicine",
+    "slug": "tulane",
+    "email": "awest5@tulane.edu",
+    "summary": "Pulmonary Fellowship Program graduation.  The event will be held at the Tidewater building for no more than 30 people.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Department of Psychiatry & Behavioral Sciences",
+    "slug": "psychiatry-behavioralsciences",
+    "email": "trodrigue@tulane.edu",
+    "summary": "The Tulane Department of Psychiatry and Behavioral Sciences, founded in 1949, is dedicated to teaching, clinical service, and research.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/psychiatry-behavioralsciences"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Athletics - Marketing",
+    "slug": "athletics",
+    "email": "tthomas14@tulane.edu",
+    "summary": "Athletics Marketing Department",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/athletics"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane University Communications & Marketing",
+    "slug": "ucm",
+    "email": "engagement@tulane.edu",
+    "summary": "Tulane’s Office of University Communications and Marketing provides strategies for news, media, print, web, video, photography, design and social media.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ucm"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Family Programs",
+    "slug": "familyprograms",
+    "email": "families@tulane.edu",
+    "summary": "The Office of Tulane Family Programs provides support, information, newsletters, webinars, and events for the families of undergraduate students at Tulane.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/familyprograms"
+  },
+  {
+    "school": "tulane",
+    "name": "Department of Anthropology",
+    "slug": "anthropology",
+    "email": "atruitt@tulane.edu",
+    "summary": "The mission of the Department of Anthropology is to provide undergraduate and graduate instruction in anthropology, and to produce innovative research and scholarship.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/anthropology"
+  },
+  {
+    "school": "tulane",
+    "name": "Carolyn Barber-Pierre Center for Intercultural Life - Tulane University",
+    "slug": "intercultural",
+    "email": "intercultural@tulane.edu",
+    "summary": "The Carolyn Barber-Pierre Center for Intercultural Life fosters a welcoming environment for all students, with programs, services, and support that center on the experiences of historically underserved communities.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/intercultural"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Institute for Physician Scientists",
+    "slug": "medicine_tulane_edu_tips",
+    "email": null,
+    "summary": "The Tulane Institute for Physician Scientists (TIPS) is designed to foster and support the growing community of physician scientists at Tulane.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/medicine_tulane_edu_tips"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Athletics Department -Student Athlete Enhancement",
+    "slug": "studentathleteenhancement",
+    "email": "jbuckner1@tulane.edu",
+    "summary": "Tulane Athletics will hosts \"Civic Engagement\" programs for our student-athletes.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/studentathleteenhancement"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane University Center for Continuing Education",
+    "slug": "tulane_edu",
+    "email": "pschmidt@tulane.edu",
+    "summary": "The Tulane University Center for Continuing Education (CCE)  is accredited by the ACCME® to provide AMA PRA Category 1 Credits™ and by IACET to offer general CEUs. CCE collaborates with departments or organizations to provide conference management.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane_edu"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Math Club",
+    "slug": "mathclub",
+    "email": "mlai2@tulane.edu",
+    "summary": "Tulane Math Club is dedicated to developing collaborative mathematical thinking and providing students with opportunities to engage in the larger math community in New Orleans.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/mathclub"
+  },
+  {
+    "school": "tulane",
+    "name": "Epsilon Eta Sigma",
+    "slug": "epsilonetatulane",
+    "email": "epsilonetatulane@gmail.com",
+    "summary": "Epsilon Eta is the national co-ed professional fraternity for students seeking post-grad positions in the environmental field. Epsilon Eta Sigma serves that purpose on Tulane's campus through our three pillars: Professional, volunteerism, and social.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/epsilonetatulane"
+  },
+  {
+    "school": "tulane",
+    "name": "Big Easy EC",
+    "slug": "bigeasyec",
+    "email": "bigeasyec.tulane@gmail.com",
+    "summary": "Big Easy EC is a group of dedicated volunteers committed to reproductive justice and\r\nhealthcare. Big Easy EC provides and delivers free and confidential emergency contraception,\r\npregnancy tests, and barrier methods to Tulane and Loyola students.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/bigeasyec"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Center for Community-Engaged Artificial Intelligence",
+    "slug": "ceai",
+    "email": "aculotta@tulane.edu",
+    "summary": "Research Center of Excellence investigating new approaches to artificial intelligence that are inclusive, effective, fair, transparent, and accountable.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ceai"
+  },
+  {
+    "school": "tulane",
+    "name": "Enterprise Risk Services",
+    "slug": "enterpriseriskservices",
+    "email": "njenkins4@tulane.edu",
+    "summary": "The Office of Enterprise Risk Services provides risk, insurance, and environmental expertise as well as emergency management and business continuity services through customized programs and innovative solutions.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/enterpriseriskservices"
+  },
+  {
+    "school": "tulane",
+    "name": "University Compliance & Ethics",
+    "slug": "compliance",
+    "email": "rbreckne@tulane.edu",
+    "summary": "Tulane's Compliance & Ethics Program supports and coordinates ethics and compliance functions across the University.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/compliance"
+  },
+  {
+    "school": "tulane",
+    "name": "Department of Earth & Environmental Sciences",
+    "slug": "earthscience",
+    "email": "ees@tulane.edu",
+    "summary": "The Department of Earth and Environmental Sciences at Tulane has existed under its current name since about 2003.  Prior to that, the department was known as the Department of Geology.  Geology was first studied at Tulane within the chemistry department.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/earthscience"
+  },
+  {
+    "school": "tulane",
+    "name": "Future Minds AI",
+    "slug": "futuremindsai",
+    "email": "lpavlatos@tulane.edu",
+    "summary": "The goal of Future Minds AI is to keep students up to date on the latest AI trends via learning and working with AI. This goal will be achieved via listening to speakers on the topic of AI, hand-on projects, net working and many other avenues.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/futuremindsai"
+  },
+  {
+    "school": "tulane",
+    "name": "Education Research Alliance",
+    "slug": "educationresearchalliancenola",
+    "email": "era-neworleans@tulane.edu",
+    "summary": "The Education Research Alliance for New Orleans (ERA-New Orleans) is a research center that collaborates with local education stakeholders to produce objective, rigorous, and useful research.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/educationresearchalliancenola"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Human Research Protection Office",
+    "slug": "hrpo_research_tulane",
+    "email": null,
+    "summary": "The primary goal of the Tulane University Human Research Protection Office is to balance the protection of human subjects while promoting and facilitating the research enterprise, and to maintain an open and cooperative relationship within research.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/hrpo_research_tulane"
+  },
+  {
+    "school": "tulane",
+    "name": "University Financial Aid Office",
+    "slug": "123",
+    "email": "finaid@tulane.edu",
+    "summary": "The University Financial Aid Office, a unit within Enrollment Management, continuously strives to successfully honor our mission “to assist students in financing educational opportunities through excellent customer service and professional teamwork.”",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/123"
+  },
+  {
+    "school": "tulane",
+    "name": "International Student Advisory Board",
+    "slug": "international-student-advisory-board",
+    "email": "oiss@tulane.edu",
+    "summary": "The ISAB raises international student needs and concerns, participates in developing new initiatives, interacts with the wider University community to raise the visibility of international students, and develops international student leadership.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/international-student-advisory-board"
+  },
+  {
+    "school": "tulane",
+    "name": "Phi Chi Theta",
+    "slug": "phichitheta",
+    "email": "scohen27@tulane.edu",
+    "summary": "Phi Chi Theta is a National Professional Fraternity in Business and Economics.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/phichitheta"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Minecraft Enthusiasts",
+    "slug": "tme",
+    "email": "tme@tulane.edu",
+    "summary": "TME is a vibrant and inclusive community that thrives on the virtual landscapes of Minecraft, where students come together to build, explore, and connect in a digital world of limitless possibilities.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tme"
+  },
+  {
+    "school": "tulane",
+    "name": "ReCoast",
+    "slug": "recoast_tulane",
+    "email": "jalbert6@tulane.edu",
+    "summary": "Formed under the National Science Foundation Convergence Accelerator Program, ReCoast members are faculty, students, staff, alumni, and community collaborators working with Glass Half Full to recycle glass into sand for coastal restoration.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/recoast_tulane"
+  },
+  {
+    "school": "tulane",
+    "name": "Sexual Violence Prevention and Response Collective",
+    "slug": "sexual-violence-prevention-and-response",
+    "email": "jfashjian@tulane.edu",
+    "summary": "SVPR is a collective of dedicated activists seeking to address and respond to rape culture at Tulane. We pursue initiatives that are both prevention and response facing to decrease the presence of sexual violence and support survivors.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/sexual-violence-prevention-and-response"
+  },
+  {
+    "school": "tulane",
+    "name": "Center for Inter-American Policy and Research",
+    "slug": "cipr",
+    "email": "cipr@tulane.edu",
+    "summary": "CIPR is devoted to inter-hemispheric exchanges that will advance the production and dissemination of knowledge about critical policy issues facing the Americas as well as the deepening of academic research in these areas.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/cipr"
+  },
+  {
+    "school": "tulane",
+    "name": "Chemical & Biomolecular Engineering Department",
+    "slug": "ssetulanecbe",
+    "email": "bguillen@tulane.edu",
+    "summary": "The CBE's focus is to provide the highest quality programs to educate students at all levels in the principles and applications of Chemical and Biomolecular Engineering, within the environment of Tulane University.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/ssetulanecbe"
+  },
+  {
+    "school": "tulane",
+    "name": "Girls Who Code - College Loop Tulane",
+    "slug": "gwctulane",
+    "email": "tulanegwc@gmail.com",
+    "summary": "Girls Who Code Tulane fosters community within tech-related fields through events, guest speakers and help in professional advancement.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/gwctulane"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Turkish Students Association",
+    "slug": "tulane-university-turkish-students-association",
+    "email": "tulaneutsa@gmail.com",
+    "summary": "TulaneUTSA is an inclusive organization that brings together students of Turkish descent and those interested in Turkish culture and heritage. Our organization's mission is to promote Turkish culture on campus.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulane-university-turkish-students-association"
+  },
+  {
+    "school": "tulane",
+    "name": "The Center for Public Service Events Portal",
+    "slug": "cpsevents",
+    "email": "cps@tulane.edu",
+    "summary": "The Center supports a University curriculum and research agenda by uniting academics and action, classroom and communities through which students, faculty, and community partners dedicate themselves to the transformation of civic life.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/cpsevents"
+  },
+  {
+    "school": "tulane",
+    "name": "Law School Online Program",
+    "slug": "lawonline",
+    "email": "mj@tulane.edu",
+    "summary": "Tulane University Law School offers master’s of jurisprudence degrees in Labor and Employment Law, Energy Law, and Environmental Law",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/lawonline"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Adult Infectious Diseases Fellowship Program- SOM",
+    "slug": "idfellowship",
+    "email": "cdavenpo@tulane.edu",
+    "summary": "Infectious Diseases Fellowship Program",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/idfellowship"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane U. School of Medicine Chief Strategy Office",
+    "slug": "tulanecsooffice",
+    "email": "ddonalds@tulane.edu",
+    "summary": "Tulane SOM Chief Strategy Office",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulanecsooffice"
+  },
+  {
+    "school": "tulane",
+    "name": "Louisiana Center for College Access",
+    "slug": "lccacollegeandcareerfair",
+    "email": "saugill@tulane.edu",
+    "summary": "College and Career Fair",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/lccacollegeandcareerfair"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Law Library",
+    "slug": "tll",
+    "email": "lawlibcirc@tulane.edu",
+    "summary": "Tulane Law Library supports the research and curricular needs of law school faculty and students. Additionally, TLL welcomes the entire Tulane University during our public hours, including access to materials. Entrance: 3rd Floor of Weinmann Hall.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tll"
+  },
+  {
+    "school": "tulane",
+    "name": "Management Communication Events and Promotions",
+    "slug": "mcom-promotionalevents",
+    "email": "epoche@tulane.edu",
+    "summary": "This organization will coordinate event scheduling for several MCOM 3010 Class projects involving on-campus business and non-profit promotion.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/mcom-promotionalevents"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Association of Business Alumni",
+    "slug": "1-1",
+    "email": "whudlowiii@tulane.edu",
+    "summary": "While representing the more than 25,000 alumni of the A.B. Freeman School of Business, the mission of the Tulane Association of Business Alumni is to encourage active alumni involvement in support of the school’s mission and goals",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/1-1"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Internal Medicine Residency Program",
+    "slug": "internal-medicine-residency-program",
+    "email": "imresidency@tulane.edu",
+    "summary": "Tulane School of Medicine's Internal Medicine Residency Program",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/internal-medicine-residency-program"
+  },
+  {
+    "school": "tulane",
+    "name": "Harm Education, Awareness, and Reduction at Tulane",
+    "slug": "heart",
+    "email": null,
+    "summary": "H.E.A.R.T. is a group of Tulane students committed to providing accessible, anonymous, non-judgemental, empirically based harm reduction and overdose prevention resources and support strategies to Tulane students and the broader uptown New Orleans area.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/heart"
+  },
+  {
+    "school": "tulane",
+    "name": "WaveWorks! Project",
+    "slug": "coo_tulane_edu_waveworks",
+    "email": "WaveWorks!@tulane.edu",
+    "summary": "The WaveWorks! is the two-year implementation of Oracle Cloud at Tulane.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/coo_tulane_edu_waveworks"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Black Pre-Law Society",
+    "slug": "blackpre-lawsociety",
+    "email": "tulaneblackprelawsociety@gmail.com",
+    "summary": "The purpose of the Black Pre-Law Society is to empower minorities pursuing law careers by providing mentorship, resources, and networking opportunities, while also advocating for greater diversity within the legal field.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/blackpre-lawsociety"
+  },
+  {
+    "school": "tulane",
+    "name": "Karate Club",
+    "slug": "tulanekarateclub",
+    "email": null,
+    "summary": "Tulane University Karate Club will help teach students the art of Shotokan Karate. Sessions will be held under sensei's supervision, guiding students in learning, stances, strikes, and katas. Mental discipline will be emphasized as well in TUKC",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulanekarateclub"
+  },
+  {
+    "school": "tulane",
+    "name": "Department of Pharmacology",
+    "slug": "pharmacology",
+    "email": "dsanders@tulane.edu",
+    "summary": "School of Medicine- Basic Science-",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/pharmacology"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Rural Medicine Club",
+    "slug": "trmc",
+    "email": "bmenon1@tulane.edu",
+    "summary": "This organization will focus on providing students with opportunities to learn about the various health issues facing rural Louisiana (ex: health care access, heart disease, diabetes, obesity, tobacco use).",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/trmc"
+  },
+  {
+    "school": "tulane",
+    "name": "The First TU College Krewe",
+    "slug": "first_tu_college_krewe",
+    "email": "cmukaida@tulane.edu",
+    "summary": "The First TU College Krewe was established to help foster a sense of community and support for First-Generation College Students at Tulane University through providing information, mentoring, and regularly scheduled events.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/first_tu_college_krewe"
+  },
+  {
+    "school": "tulane",
+    "name": "Feminism, Redefined",
+    "slug": "feminism-redefined",
+    "email": "ghendrickson@tulane.edu",
+    "summary": "A bipartisan discussion group committed to open-minded exploration of various topics relating to gender and sex including hookup culture, pornography, and how feminism affects men.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/feminism-redefined"
+  },
+  {
+    "school": "tulane",
+    "name": "Freeman School Office of Graduate Programs",
+    "slug": "freeman-tulane-graduate-office-graduate",
+    "email": "jcoxen@tulane.edu",
+    "summary": "With more than 25,000 graduates spanning the globe, our graduate programs are known for helping aspiring business leaders succeed in an ever-changing world. We offer more than a dozen programs—with full-time and part-time options.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/freeman-tulane-graduate-office-graduate"
+  },
+  {
+    "school": "tulane",
+    "name": "Schwartz Family Center for Experiential Business Learning",
+    "slug": "experiential-learning",
+    "email": "mara@tulane.edu",
+    "summary": "A center of excellence dedicated to high-impact, hands-on learning for students of the Freeman School of Business.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/experiential-learning"
+  },
+  {
+    "school": "tulane",
+    "name": "Society of Physics Students",
+    "slug": "sps",
+    "email": "tulanesps@gmail.com",
+    "summary": "The Tulane Chapter of the Society of Physics Students, also known as the physics club, is a professional and social organization for students interested in physics, regardless of major.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/sps"
+  },
+  {
+    "school": "tulane",
+    "name": "Data Analytics and Science Hub",
+    "slug": "dash",
+    "email": "mhuang6@tulane.edu",
+    "summary": "The Data Analytics and Science Hub (DASH) at Tulane University aims to foster a collaborative environment including students from diverse backgrounds: data science, medicine, business, and other fields.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/dash"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Division of Enrollment Management",
+    "slug": "enrollmentmanagement",
+    "email": "dpatejoseph@tulane.edu",
+    "summary": "The Division of Enrollment Management is a community of Tulanians dedicated to supporting students and families from high school through their graduation from Tulane.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/enrollmentmanagement"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Science Olympiad",
+    "slug": "science-olympiad",
+    "email": "tulanescioly@tulane.edu",
+    "summary": "Tulane Science Olympiad is committed to hosting an annual invitational tournament for regional high school and middle school students to compete in a variety of science and engineering competitions to ignite their love for STEM.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/science-olympiad"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Office of Emergency Preparedness & Response",
+    "slug": "emergencyprep",
+    "email": "Donald Veals ",
+    "summary": "See Organization Description box",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/emergencyprep"
+  },
+  {
+    "school": "tulane",
+    "name": "The Charrette Student Architecture Publication",
+    "slug": "the-charrette",
+    "email": "thecharrette@gmail.com",
+    "summary": "The Charrette is a student-run publication housed inside the Tulane School of Architecture. We showcase relevant student and faculty work spanning writing, graphics, and exhibitions as a means to engage with current dialogue at the school.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/the-charrette"
+  },
+  {
+    "school": "tulane",
+    "name": "Value in Virtual Access Tulane",
+    "slug": "viva",
+    "email": "viva@tulane.edu",
+    "summary": "Student-led initiative aimed at promoting digital literacy and making the most of Tulane's extensive technology resources. The club raises awareness and impact of cutting-edge software, cloud services, and digital perks provided by the university.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/viva"
+  },
+  {
+    "school": "tulane",
+    "name": "Alpha Alpha Alpha",
+    "slug": "aaalambdasigma",
+    "email": null,
+    "summary": "Alpha Alpha Alpha (Tri Alpha) is a national honor society dedicated to recognizing and celebrating the academic achievements of first-generation college students.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/aaalambdasigma"
+  },
+  {
+    "school": "tulane",
+    "name": "Leadership and Society of Human Resources Management at Tulane",
+    "slug": "leshrmtu",
+    "email": "Kmcginn@tulane.edu",
+    "summary": "Bridge the gap between academic knowledge and real-world Leadership and HR practice by providing opportunity for leadership and professional development, networking, and career advancement.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/leshrmtu"
+  },
+  {
+    "school": "tulane",
+    "name": "Capital Projects",
+    "slug": "campusservicestulaneedudepartmentscapitalprojects",
+    "email": "lhellwig@tulane.edu",
+    "summary": "Capital Projects manages design and construction of Tulane's renovation and new construction projects.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/campusservicestulaneedudepartmentscapitalprojects"
+  },
+  {
+    "school": "tulane",
+    "name": "John Lewis Public Administration Program",
+    "slug": "jlpaprogram",
+    "email": "jfujinaga@tulane.edu",
+    "summary": "Are you interested in a career in public service?   Tulane SoPA's John Lewis Public Administration Program offers a Master of Public Administration (MPA) degree that prepares you to be a leader ready to tackle challenges and create thriving communities",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/jlpaprogram"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Law Moot Court Program",
+    "slug": "tulanelawmootcourt",
+    "email": "Lawmootcourt@tulane.edu",
+    "summary": "Moot Court Program for Tulane Law.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulanelawmootcourt"
+  },
+  {
+    "school": "tulane",
+    "name": "Omega Psi Phi Fraternity Inc.",
+    "slug": "oppforg",
+    "email": "majorpain1911@gmail.com",
+    "summary": "Omega Psi Phi Fraternity, Inc. is a historically Black fraternity founded in 1911 at Howard University. Guided by the principles of manhood, scholarship, perseverance, and uplift, it promotes academic excellence and community service.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/oppforg"
+  },
+  {
+    "school": "tulane",
+    "name": "Office for Foundation Scholars",
+    "slug": "foundationscholars",
+    "email": "tmandishona@tulane.edu",
+    "summary": "The Office for Foundation Scholars supports students from cohort-based scholarship programs throughout their journey at Tulane.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/foundationscholars"
+  },
+  {
+    "school": "tulane",
+    "name": "Corporation and Foundations Relations",
+    "slug": "givingtulane",
+    "email": "giving@tulane.edu",
+    "summary": "We work with university leaders to identify and raise funding for school priorities. We assist Tulane faculty and staff in drawing private external funding for programs and research.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/givingtulane"
+  },
+  {
+    "school": "tulane",
+    "name": "Stewart Center for Professional and Executive Education",
+    "slug": "stewart_center",
+    "email": "nreasons@tulane.edu",
+    "summary": "The Stewart Center for Professional and Executive Education is designed for working professionals seeking to elevate their careers without pausing their progress.  Stewart Center graduate programs combine flexibility with world-class education.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/stewart_center"
+  },
+  {
+    "school": "tulane",
+    "name": "Freeman Marketing and Communications",
+    "slug": "freemanmarcomm",
+    "email": "freemanevents@tulane.edu",
+    "summary": "The Marketing and Communications team at Freeman promotes the Freeman School’s programs, events, and achievements through branding, digital strategy, and campus engagement.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/freemanmarcomm"
+  },
+  {
+    "school": "tulane",
+    "name": "Office of Student Conduct",
+    "slug": "conduct",
+    "email": "sburns4@tulane.edu",
+    "summary": "The Office of Student Conduct is here to facilitate your learning process in a variety of ways, including asserting the University's expectations of your time in this educational community. Expectations are encapsulated in the Code of Student Conduct.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/conduct"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Recovery Community",
+    "slug": "recovery",
+    "email": "jgoldberg6@tulane.edu",
+    "summary": "The Tulane Recovery Community’s (TRC) mission is to support individualized recovery on campus by providing recovery-based programs that foster academic achievement, connection, and engagement.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/recovery"
+  },
+  {
+    "school": "tulane",
+    "name": "SLA Deans Office",
+    "slug": "httpsliberalartstulaneeduacademicstenenbaum",
+    "email": "kpaige@tulane.edu",
+    "summary": "Tenenbaum End-Of-Year Celebration",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/httpsliberalartstulaneeduacademicstenenbaum"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Rocketry",
+    "slug": "tulanerocketry",
+    "email": "jnguyen16@tulane.edu",
+    "summary": "We are an organization aimed at competing in aerospace competitions with other colleges throughout the country. We work with all majors with an interest in an aerospace career. We also do STEM outreach with the NOLA community.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulanerocketry"
+  },
+  {
+    "school": "tulane",
+    "name": "Black Scholars' Circle",
+    "slug": "blackscholarscircle",
+    "email": "blackscholarstu@gmail.com",
+    "summary": "Fostering a safe, affirming, and empowering community that centers the academic success, cultural identity, and collective growth of Black students at a predominantly white institution.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/blackscholarscircle"
+  },
+  {
+    "school": "tulane",
+    "name": "Deming Department of Medicine Section of Nephrology and Hypertension",
+    "slug": "tulanesectionofnephrologyandhypertension",
+    "email": "nephrology@tulane.edu",
+    "summary": "Section of Nephrology and Hypertension SoM",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulanesectionofnephrologyandhypertension"
+  },
+  {
+    "school": "tulane",
+    "name": "Colleges Against Cancer at Tulane University",
+    "slug": "na",
+    "email": null,
+    "summary": "Colleges Against Cancer works with the American Cancer Society to host various interactive events such as Relay For Life to bring awareness and raise money for Cancer.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/na"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Baseball",
+    "slug": "greenwavebaseball",
+    "email": "tulanebaseball@tulane.edu",
+    "summary": "Tulane Green Wave Baseball Program",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/greenwavebaseball"
+  },
+  {
+    "school": "tulane",
+    "name": "Youth For Innocence at Tulane University",
+    "slug": "youthforinnocence",
+    "email": "gjacobs1@tulane.edu",
+    "summary": "Tulane Youth for Innocence at Tulane University is a student-led chapter committed to raising awareness about wrongful convictions and helping exonerate innocent prisoners through research, advocacy, and community engagement.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/youthforinnocence"
+  },
+  {
+    "school": "tulane",
+    "name": "Palestine Solidarity Coalition at Tulane University",
+    "slug": "psc",
+    "email": "psctulane@gmail.com",
+    "summary": "Through educational events, cultural programming, and advocacy initiatives, PSC Tulane will build awareness, empathy, and solidarity with the Palestinian people in their pursuit of justice, equality, and self-determination.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/psc"
+  },
+  {
+    "school": "tulane",
+    "name": "The Green Bandana Project at Tulane University",
+    "slug": "tgbp",
+    "email": "waveofsupport@tulane.edu",
+    "summary": "The Green Bandana Project (TGBP) is a program for students that raises mental health awareness, reduces stigma, and connects students to mental health and suicide prevention resources.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tgbp"
+  },
+  {
+    "school": "tulane",
+    "name": "Young Americans for Freedom at Tulane University",
+    "slug": "yaforg",
+    "email": "jgoldberg14@tulane.edu",
+    "summary": "A Reagan-inspired conservative group valuing intellectual inquiry and education through diverse speaker programming, student leadership development, and exploring traditional American values within Tulane's academic environment.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/yaforg"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Energy Club",
+    "slug": "energyclub",
+    "email": "soblon@tulane.edu",
+    "summary": "The purpose of the Tulane Energy Club is to educate and inspire students interested in pursuing a career in the energy industry. Events include guest speakers, field trips, case competitions, networking opportunities, and a mentorship program.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/energyclub"
+  },
+  {
+    "school": "tulane",
+    "name": "Society of Asian Scientist and Engineers at Tulane University",
+    "slug": "tusase",
+    "email": "jnguyen16@tulane.edu",
+    "summary": "The Tulane Society of Asian Scientists and Engineers (TU SASE) is an inclusive STEM organization open to all students, focused on professional development, mentorship, networking, and community building at Tulane University.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tusase"
+  },
+  {
+    "school": "tulane",
+    "name": "Reality Television Fan Club",
+    "slug": "tulanelovesrealitytv",
+    "email": "oliverpp3@gmail.com",
+    "summary": "A space for Tulanians to share their love of reality television on air!",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tulanelovesrealitytv"
+  },
+  {
+    "school": "tulane",
+    "name": "AAPI Youth Mentorship Program",
+    "slug": "aapi-youth-mentorship-program",
+    "email": "dpatel14@tulane.edu",
+    "summary": "The AAPI Youth Mentorship Program connects Tulane students with AAPI-identifying high school students, supporting them through challenges they may encounter on their path to college and empowering them to embrace and celebrate their cultural identities.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/aapi-youth-mentorship-program"
+  },
+  {
+    "school": "tulane",
+    "name": "For You, Black Girl",
+    "slug": "fybc1",
+    "email": "Sheridan Custis",
+    "summary": "For you, Black Girl is a club that offers women of color a safe, welcoming environment to understand, connect, support, and network with peers and other community members, and learn of the experiences faced as a result of the identity that women of color",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/fybc1"
+  },
+  {
+    "school": "tulane",
+    "name": "Phi Sigma Tau at Tulane University",
+    "slug": "phisigmatau",
+    "email": "ejack1@tulane.edu",
+    "summary": "Phi Sigma Tau is the international honor society in philosophy. Its primary aim is to encourage interest and activity among students and to promote ties between philosophy departments. Tulane's chapter is the Louisiana Delta Chapter.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/phisigmatau"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Global Health Alliance",
+    "slug": "tugha",
+    "email": "tulanegha@outlook.com",
+    "summary": "TUGHA is a student-run global health organization that transforms interest into impact through semester-long projects, research, partnerships, fundraising, and professional development, connecting students to real-world global health practice beyond camp",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/tugha"
+  },
+  {
+    "school": "tulane",
+    "name": "Office of Government and Community Relations",
+    "slug": "governmentrelations",
+    "email": "Tulane_ogcr@tulane.edu",
+    "summary": "Tulane University’s Office of Government and Community Relations builds strong relationships with government and community partners in support of the university’s teaching and research mission.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/governmentrelations"
+  },
+  {
+    "school": "tulane",
+    "name": "Freeman School of Business Department of Management",
+    "slug": "departmentofmanagement",
+    "email": null,
+    "summary": "Management Department of the Freeman School of Business",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/departmentofmanagement"
+  },
+  {
+    "school": "tulane",
+    "name": "Texas Law Society (Graduate - SBA)",
+    "slug": "texaslawsociety",
+    "email": null,
+    "summary": "Professional networking organization for law students interested in practicing in Texas.",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/texaslawsociety"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Real Estate Law Society (Graduate - SBA)",
+    "slug": "trels",
+    "email": null,
+    "summary": "TRELS brings together students interested in real estate law and related fields, provides networking and professional development opportunities with practitioners, hosts educational events and panels on real estate topics, and helps members explore caree",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/trels"
+  },
+  {
+    "school": "tulane",
+    "name": "Tulane Women in Law Society (Graduate - SBA)",
+    "slug": "twil",
+    "email": "tulanewomeninlaw@gmail.com",
+    "summary": "Tulane Women in Law (TWIL) is an organization committed to examining and discussing issues affecting women in both substantive areas of the law and in the legal profession. To reach this objective, Law Women sponsors speakers, panel discussions, and...",
+    "categories": [],
+    "url": "https://tulane.campuslabs.com/engage/organization/twil"
+  }
+]
