@@ -1,0 +1,47 @@
+{
+  "$schema": "https://agents.pinata.cloud/schemas/manifest.v1.json",
+  "version": 1,
+
+  "agent": {
+    "name": "Lead Agent",
+    "description": "A BD pipeline agent that handles warm introductions, qualifies leads, and tracks opportunities through to funded deals. Built for DAOs and service organizations.",
+    "vibe": "Professional, resourceful, pipeline-obsessed",
+    "emoji": "🌀"
+  },
+
+  "template": {
+    "slug": "lead-agent",
+    "category": "general",
+    "tags": ["bd", "sales", "leads", "crm", "pipeline", "dao", "telegram"],
+    "partnerName": "RaidGuild"
+  },
+
+  "secrets": [
+    {
+      "name": "SUPABASE_URL",
+      "description": "Your Supabase project URL (e.g., https://xxxxx.supabase.co)",
+      "required": true
+    },
+    {
+      "name": "SUPABASE_ANON_KEY",
+      "description": "Your Supabase anon/public key",
+      "required": true
+    }
+  ],
+
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing"
+    }
+  },
+
+  "tasks": [
+    {
+      "name": "pipeline-review",
+      "prompt": "Review all active leads in the pipeline. Check for any that need follow-up (no activity in 7+ days). Summarize the current pipeline status.",
+      "schedule": "0 14 * * 1",
+      "enabled": true
+    }
+  ]
+}
