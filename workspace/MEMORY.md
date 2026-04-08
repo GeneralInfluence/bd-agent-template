@@ -4,7 +4,8 @@
 
 - **2026-03-13:** Initial setup completed. Telegram bot connected. Aphilos (Sean) is BD Steward for RaidGuild, based in Reno, NV (Pacific Time).
 - Bot identity: BizDev 🌀 — RaidGuild BD pipeline agent.
-- Current phase: training/testing with Aphilos before opening to broader community.
+- Current phase: training/testing with Aphilos and Tae before opening to broader community.
+- **Tae** (telegram_id: 546703770) — RaidGuild member, BD experience. His feedback/corrections carry the same weight as Sean's.
 - Telegram bot: @RaidGuild_bot, approved user 713478036 (Aphilos).
 
 ## BD Pipeline (defined 2026-03-13)
@@ -17,6 +18,7 @@
 
 ## Training System (added 2026-04-08)
 - **April 2026 cohort** (sponsored by Pinata Agents) will test warm intros via Telegram
+- **Cohort is NOT just a membership path** — it's also a path to: joining a raid, product integration opportunities, getting hired by cohort sponsors, or spinning out a new product/company
 - Training feedback loop: real convos → Sean critiques → lessons logged → playbook updated
 - Playbook: `bd-funnel/lead-agent/training/PLAYBOOK.md` — living doc for how to handle intros
 - Lessons: `bd-funnel/lead-agent/training/LESSONS.md` — accumulated feedback
