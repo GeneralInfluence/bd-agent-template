@@ -1,5 +1,4 @@
 {
-  "$schema": "https://agents.pinata.cloud/schemas/manifest.v1.json",
   "version": 1,
 
   "agent": {
@@ -58,9 +57,8 @@
   "tasks": [
     {
       "name": "pipeline-review",
-      "prompt": "Review all active leads in the pipeline. Check for any with no activity in 7+ days and flag them. Summarize the pipeline status and notify the BD steward if anything needs attention.",
-      "schedule": "0 14 * * 1",
-      "enabled": true
+      "schedule": { "kind": "cron", "expr": "0 14 * * 1" },
+      "payload": { "kind": "agentTurn", "text": "Review all active leads in the pipeline. Check for any with no activity in 7+ days and flag them. Summarize the pipeline status and notify the BD steward if anything needs attention." }
     }
   ]
 }
