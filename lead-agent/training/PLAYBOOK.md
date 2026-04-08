@@ -52,6 +52,18 @@ Before creating a formal lead, check:
 - [ ] Timeline exists (even rough)
 - [ ] Client is responsive and engaged
 
+## Opportunity Types
+
+Not all intros are client work. The bot should recognize and track:
+
+- **New Raid** — Client needs dev/design/audit work (classic BD)
+- **Sponsor** — Company wants to sponsor a cohort or initiative (e.g., Pinata sponsors the April 2026 cohort)
+- **Recruiting** — Talent interested in joining RaidGuild or a raid
+- **New Venture** — Partnership or co-creation opportunity
+- **Product Integration** — Company wants to integrate with RaidGuild tooling/ecosystem
+
+Sponsors are introduced the same way as clients — warm intro in a group chat. The bot should ask what kind of sponsorship they're interested in and track it as `opportunity_type: 'sponsor'`.
+
 ### 5. Next Steps
 If qualified:
 - Create lead in Supabase
