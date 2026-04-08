@@ -1,0 +1,205 @@
+'use strict';
+
+/**
+ * Lead Agent Bot — Lightweight Telegram Handler
+ *
+ * Architecture:
+ * - Grammy.js handles ALL Telegram messages (cheap)
+ * - Only invokes LLM when: @mentioned, bot added to group, or /ask command
+ * - All other messages: just log the user to Supabase (free)
+ *
+ * Cost model:
+ * - Supabase upserts: free
+ * - LLM calls: only when needed (mention / intro trigger)
+ */
+
+require('dotenv').config();
+
+const { Bot } = require('grammy');
+const db = require('./src/supabase');
+const llm = require('./src/llm');
+
+const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
+const BD_STEWARD_ID = process.env.BD_STEWARD_TELEGRAM_ID;
+
+if (!BOT_TOKEN) {
+  console.error('❌ Missing TELEGRAM_BOT_TOKEN');
+  process.exit(1);
+}
+
+// Init services
+db.init();
+try { llm.init(); } catch (e) { console.warn('⚠️  LLM disabled:', e.message); }
+
+const bot = new Bot(BOT_TOKEN);
+
+// ─────────────────────────────────────────────
+// Helpers
+// ─────────────────────────────────────────────
+
+function isMentioned(ctx) {
+  const text = ctx.message?.text || '';
+  const username = ctx.me?.username;
+  return ctx.message?.entities?.some(
+    e => e.type === 'mention' && text.substring(e.offset, e.offset + e.length).toLowerCase() === `@${username}`.toLowerCase()
+  );
+}
+
+async function notifySteward(bot, lead, groupName) {
+  if (!BD_STEWARD_ID) return;
+  const msg =
+    `🌀 *New Lead Confirmed*\n\n` +
+    `*Client:* ${lead.client_name || 'Unknown'}\n` +
+    `*Contact:* ${lead.client_contact || 'Unknown'}\n` +
+    `*Introducer:* ${lead.introducer || 'Unknown'}\n` +
+    `*Type:* ${lead.opportunity_type}\n` +
+    `*Group:* ${groupName}\n` +
+    `*Summary:* ${lead.description || '(none)'}`;
+  try {
+    await bot.api.sendMessage(BD_STEWARD_ID, msg, { parse_mode: 'Markdown' });
+  } catch (e) {
+    console.error('Failed to notify steward:', e.message);
+  }
+}
+
+// ─────────────────────────────────────────────
+// Bot added to group
+// ─────────────────────────────────────────────
+
+bot.on('my_chat_member', async (ctx) => {
+  const newStatus = ctx.myChatMember?.new_chat_member?.status;
+  if (!['member', 'administrator'].includes(newStatus)) return;
+
+  const chat = ctx.chat;
+  console.log(`[bot-added] Added to group ${chat.id} (${chat.title})`);
+
+  // Trigger LLM greeting
+  try {
+    const reply = await llm.respond({
+      chatId: chat.id,
+      userMessage: `[System: Bot was just added to this group. Greet everyone warmly and indicate you're here to help with introductions to ${process.env.ORG_NAME || 'our organization'}.]]`,
+      senderName: 'System',
+      groupName: chat.title || 'group',
+      trigger: 'bot-added',
+    });
+    if (reply && reply !== 'NO_REPLY') {
+      await ctx.api.sendMessage(chat.id, llm.stripLeadBlock(reply));
+    }
+  } catch (e) {
+    console.error('LLM error on bot-added:', e.message);
+    await ctx.api.sendMessage(chat.id,
+      `👋 Hey! I'm here to help with warm introductions. Feel free to introduce anyone you think would be a good fit — I'll take it from there.`
+    );
+  }
+});
+
+// ─────────────────────────────────────────────
+// All messages
+// ─────────────────────────────────────────────
+
+// Catch-all for debugging — fires on every update
+bot.use(async (ctx, next) => {
+  if (ctx.update?.message) {
+    const u = ctx.update.message;
+    console.log(`[update] type=${ctx.updateType} from=${u.from?.first_name}(${u.from?.id}) text=${u.text?.slice(0,40)}`);
+  }
+  return next();
+});
+
+bot.on('message', async (ctx) => {
+  const msg = ctx.message;
+  const user = ctx.from;
+  const chat = ctx.chat;
+
+  if (!msg?.text || !user) return;
+
+  console.log(`[msg] ${chat.type} | ${user.first_name} (${user.id}) | ${msg.text?.slice(0,50)}`);
+
+  // ── 1. Always: log the user (free, no LLM) ──────────────────
+  const optedOut = await db.isOptedOut(user.id).catch(() => false);
+  if (!optedOut) {
+    await db.upsertUser({
+      telegram_id: user.id,
+      username: user.username,
+      first_name: user.first_name,
+      last_name: user.last_name,
+      group_id: chat.type !== 'private' ? chat.id : null,
+    }).catch(e => console.error('upsertUser failed:', e.message));
+  }
+
+  // ── 2. Only invoke LLM on @mention or DM ────────────────────
+  const isDM = chat.type === 'private';
+  const mentioned = isMentioned(ctx);
+
+  if (!isDM && !mentioned) return; // Not for us — skip LLM entirely
+
+  // ── 3. LLM response ─────────────────────────────────────────
+  try {
+    const reply = await llm.respond({
+      chatId: chat.id,
+      userMessage: msg.text,
+      senderName: user.first_name || user.username || String(user.id),
+      groupName: chat.title || 'DM',
+      trigger: isDM ? 'dm' : 'mention',
+    });
+
+    if (!reply || reply === 'NO_REPLY') return;
+
+    // Check if LLM confirmed a lead
+    const leadData = llm.extractLeadConfirmation(reply);
+    const cleanReply = llm.stripLeadBlock(reply);
+
+    if (cleanReply) {
+      await ctx.reply(cleanReply, { reply_to_message_id: msg.message_id }).catch(() =>
+        ctx.api.sendMessage(chat.id, cleanReply)
+      );
+    }
+
+    if (leadData) {
+      console.log('[lead-confirmed]', leadData);
+      try {
+        const lead = await db.createLead({
+          ...leadData,
+          introducer_id: null,
+          source_group_id: chat.type !== 'private' ? chat.id : null,
+        });
+        await db.logEvent({
+          lead_id: lead.id,
+          event_type: 'qualification',
+          actor: 'Lead Agent Bot',
+          details: 'Lead confirmed by LLM after qualifying conversation',
+        });
+        await notifySteward(bot, lead, chat.title || 'DM');
+        console.log('[lead-saved]', lead.id);
+      } catch (e) {
+        console.error('Failed to save lead:', e.message);
+      }
+    }
+  } catch (e) {
+    console.error('LLM error:', e.message);
+  }
+});
+
+// ─────────────────────────────────────────────
+// /optout command
+// ─────────────────────────────────────────────
+
+bot.command('optout', async (ctx) => {
+  const user = ctx.from;
+  if (!user) return;
+  await db.client().from('opt_out_users').upsert({ user_id: user.id }, { onConflict: 'user_id' });
+  await ctx.reply('You have been opted out. Your messages will no longer be logged.');
+});
+
+// ─────────────────────────────────────────────
+// Start
+// ─────────────────────────────────────────────
+
+bot.catch(err => console.error('Bot error:', err));
+
+bot.start({
+  allowed_updates: ['message', 'my_chat_member'],
+  onStart: info => console.log(`✅ @${info.username} is running`),
+});
+
+console.log('🌀 Lead Agent Bot starting...');

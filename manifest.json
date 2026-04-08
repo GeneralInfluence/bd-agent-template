@@ -19,6 +19,11 @@
 
   "secrets": [
     {
+      "name": "TELEGRAM_BOT_TOKEN",
+      "description": "Your Telegram bot token from @BotFather. Must have Group Privacy turned OFF.",
+      "required": true
+    },
+    {
       "name": "SUPABASE_URL",
       "description": "Your Supabase project URL (e.g. https://xxxxx.supabase.co)",
       "required": true
@@ -27,21 +32,33 @@
       "name": "SUPABASE_ANON_KEY",
       "description": "Your Supabase anon/public API key",
       "required": true
+    },
+    {
+      "name": "ANTHROPIC_API_KEY",
+      "description": "Anthropic API key for qualifying conversations. Only invoked on @mentions — not every message.",
+      "required": true
+    },
+    {
+      "name": "BD_STEWARD_TELEGRAM_ID",
+      "description": "Telegram user ID of the person who receives confirmed lead notifications. They must DM the bot once first.",
+      "required": false
+    },
+    {
+      "name": "ORG_NAME",
+      "description": "Your organization's name — used in bot greetings and context.",
+      "required": false
     }
   ],
 
-  "channels": {
-    "telegram": {
-      "enabled": true,
-      "dmPolicy": "pairing",
-      "groupPolicy": "open"
-    }
+  "scripts": {
+    "build": "cd workspace/bot && npm install",
+    "start": "cd workspace/bot && pm2 start bot.js --name lead-agent-bot --no-daemon || node bot.js"
   },
 
   "tasks": [
     {
       "name": "pipeline-review",
-      "prompt": "Review all active leads in the pipeline. Check for any that need follow-up (no activity in 7+ days) and flag them. Summarize the current pipeline status and send it to the BD steward if anything needs attention.",
+      "prompt": "Review all active leads in the pipeline. Check for any with no activity in 7+ days and flag them. Summarize the pipeline status and notify the BD steward if anything needs attention.",
       "schedule": "0 14 * * 1",
       "enabled": true
     }
