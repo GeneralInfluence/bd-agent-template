@@ -46,6 +46,11 @@
       "name": "ORG_NAME",
       "description": "Your organization's name — used in bot greetings and context.",
       "required": false
+    },
+    {
+      "name": "DITTO_API_KEY",
+      "description": "(Optional) Ditto knowledge graph API key. Enables relationship tracking and contribution attribution for rewards/kudos calculation. Get a key at heyditto.ai. Without this, the agent still works — Ditto just won't be written to.",
+      "required": false
     }
   ],
 

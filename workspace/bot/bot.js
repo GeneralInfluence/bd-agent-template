@@ -18,6 +18,7 @@ require('dotenv').config();
 const { Bot } = require('grammy');
 const db = require('./src/supabase');
 const llm = require('./src/llm');
+const ditto = require('./src/ditto');
 
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const BD_STEWARD_ID = process.env.BD_STEWARD_TELEGRAM_ID;
@@ -72,6 +73,11 @@ bot.on('my_chat_member', async (ctx) => {
 
   const chat = ctx.chat;
   console.log(`[bot-added] Added to group ${chat.id} (${chat.title})`);
+  // Note in Ditto that a potential intro group was created
+  await ditto.saveMemory(
+    `${process.env.ORG_NAME || 'Lead agent'} bot added to Telegram group "${chat.title}" — potential warm intro`,
+    `group_id: ${chat.id}`
+  );
 
   // Trigger LLM greeting
   try {
@@ -169,6 +175,11 @@ bot.on('message', async (ctx) => {
           actor: 'Lead Agent Bot',
           details: 'Lead confirmed by LLM after qualifying conversation',
         });
+        // Save to Ditto knowledge graph (optional — only if DITTO_API_KEY is set)
+        await ditto.saveMemory(
+          `${lead.introducer || 'Someone'} introduced ${lead.client_name || 'a client'} to ${process.env.ORG_NAME || 'the org'} — lead qualified. ${lead.description || ''}`,
+          `lead_id: ${lead.id}, group: ${chat.title || 'DM'}, opportunity: ${lead.opportunity_type}`
+        );
         await notifySteward(bot, lead, chat.title || 'DM');
         console.log('[lead-saved]', lead.id);
       } catch (e) {
