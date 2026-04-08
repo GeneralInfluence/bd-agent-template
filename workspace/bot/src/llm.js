@@ -32,14 +32,17 @@ function loadOrgContext() {
   }).filter(Boolean).join('\n\n---\n\n');
 }
 
-// Build system prompt from workspace files
-function buildSystemPrompt() {
+// Build system prompt from workspace files + optional Prism context
+function buildSystemPrompt(prismContext) {
   const orgContext = loadOrgContext();
   const playbook = loadPlaybook();
+  const prismSection = prismContext
+    ? `\n---\n\n# Recent Community Activity (from PrismBOT)\n${prismContext}\n`
+    : '';
   return `You are a business development agent for an organization. Your job is to handle warm introductions via Telegram, qualify leads, and track opportunities.
 
 ${orgContext}
-
+${prismSection}
 ---
 
 # Conversation Playbook
@@ -80,7 +83,7 @@ function addToHistory(chatId, role, content) {
 }
 
 // Main LLM call — only triggered on @mention or bot-added-to-group
-async function respond({ chatId, userMessage, senderName, groupName, trigger }) {
+async function respond({ chatId, userMessage, senderName, groupName, trigger, prismContext }) {
   if (!anthropic) throw new Error('LLM not initialized');
 
   // Add user message to history
@@ -89,7 +92,7 @@ async function respond({ chatId, userMessage, senderName, groupName, trigger }) 
   const response = await anthropic.messages.create({
     model: process.env.ANTHROPIC_MODEL || 'claude-haiku-4-5',
     max_tokens: 500,
-    system: buildSystemPrompt(),
+    system: buildSystemPrompt(prismContext),
     messages: getHistory(chatId),
   });
 

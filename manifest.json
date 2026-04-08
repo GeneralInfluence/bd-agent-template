@@ -48,8 +48,18 @@
       "required": false
     },
     {
+      "name": "PRISM_API_KEY",
+      "description": "(Optional) PrismBOT API key. Gives the agent access to your community's meeting memory, decisions, action items, and knowledge base. The agent uses this to stay current and answer questions accurately.",
+      "required": false
+    },
+    {
+      "name": "PRISM_API_URL",
+      "description": "(Optional) PrismBOT API base URL. Defaults to the RaidGuild instance if omitted.",
+      "required": false
+    },
+    {
       "name": "DITTO_API_KEY",
-      "description": "(Optional) Ditto knowledge graph API key. Enables relationship tracking and contribution attribution for rewards/kudos calculation. Get a key at heyditto.ai. Without this, the agent still works — Ditto just won't be written to.",
+      "description": "(Optional) Ditto knowledge graph API key. Enables relationship tracking and contribution attribution for rewards/kudos calculation. Get a key at heyditto.ai.",
       "required": false
     }
   ],

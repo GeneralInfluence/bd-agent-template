@@ -9,6 +9,8 @@ module.exports = {
       ANTHROPIC_API_KEY: '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',
       BD_STEWARD_TELEGRAM_ID: '713478036',
       ORG_NAME: 'RaidGuild',
+      PRISM_API_URL: 'https://prism-api-production-409d.up.railway.app',
+      PRISM_API_KEY: 'BfQ1l5534yELVrBqulZ1vAlTEIc09UWzN3Rlcl5XFDM=',
     }
   }]
 };

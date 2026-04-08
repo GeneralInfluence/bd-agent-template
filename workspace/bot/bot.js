@@ -19,6 +19,7 @@ const { Bot } = require('grammy');
 const db = require('./src/supabase');
 const llm = require('./src/llm');
 const ditto = require('./src/ditto');
+const prism = require('./src/prism');
 
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const BD_STEWARD_ID = process.env.BD_STEWARD_TELEGRAM_ID;
@@ -141,12 +142,16 @@ bot.on('message', async (ctx) => {
 
   // ── 3. LLM response ─────────────────────────────────────────
   try {
+    // Fetch Prism context in parallel (won't block if unavailable)
+    const prismCtx = await prism.getBDContext().catch(() => null);
+
     const reply = await llm.respond({
       chatId: chat.id,
       userMessage: msg.text,
       senderName: user.first_name || user.username || String(user.id),
       groupName: chat.title || 'DM',
       trigger: isDM ? 'dm' : 'mention',
+      prismContext: prismCtx?.summary || null,
     });
 
     if (!reply || reply === 'NO_REPLY') return;
