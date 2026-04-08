@@ -20,6 +20,7 @@ const db = require('./src/supabase');
 const llm = require('./src/llm');
 const ditto = require('./src/ditto');
 const prism = require('./src/prism');
+const steward = require('./src/steward');
 
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const BD_STEWARD_ID = process.env.BD_STEWARD_TELEGRAM_ID;
@@ -134,9 +135,13 @@ bot.on('message', async (ctx) => {
     }).catch(e => console.error('upsertUser failed:', e.message));
   }
 
-  // ── 2. Only invoke LLM on @mention or DM ────────────────────
+  // ── 2. Check for active steward /add session in DM ──────────
   const isDM = chat.type === 'private';
   const mentioned = isMentioned(ctx);
+
+  if (isDM && steward.isSteward(user.id) && steward.addSessions.has(user.id)) {
+    return steward.handleAdd(ctx, msg.text, true);
+  }
 
   if (!isDM && !mentioned) return; // Not for us — skip LLM entirely
 
@@ -194,6 +199,65 @@ bot.on('message', async (ctx) => {
   } catch (e) {
     console.error('LLM error:', e.message);
   }
+});
+
+// ─────────────────────────────────────────────
+// BD Steward commands (DM only, privileged)
+// ─────────────────────────────────────────────
+
+bot.command('pipeline', async (ctx) => {
+  if (!steward.isSteward(ctx.from?.id)) return ctx.reply('This command is for the BD steward only.');
+  return steward.handlePipeline(ctx);
+});
+
+bot.command('add', async (ctx) => {
+  if (!steward.isSteward(ctx.from?.id)) return ctx.reply('This command is for the BD steward only.');
+  return steward.handleAdd(ctx, null, false);
+});
+
+bot.command('note', async (ctx) => {
+  if (!steward.isSteward(ctx.from?.id)) return ctx.reply('This command is for the BD steward only.');
+  const args = ctx.message.text.split(' ').slice(1);
+  return steward.handleNote(ctx, args);
+});
+
+bot.command('confirm', async (ctx) => {
+  if (!steward.isSteward(ctx.from?.id)) return ctx.reply('This command is for the BD steward only.');
+  const args = ctx.message.text.split(' ').slice(1);
+  return steward.handleConfirm(ctx, args);
+});
+
+bot.command('close', async (ctx) => {
+  if (!steward.isSteward(ctx.from?.id)) return ctx.reply('This command is for the BD steward only.');
+  const args = ctx.message.text.split(' ').slice(1);
+  return steward.handleClose(ctx, args);
+});
+
+bot.command('update', async (ctx) => {
+  if (!steward.isSteward(ctx.from?.id)) return ctx.reply('This command is for the BD steward only.');
+  const args = ctx.message.text.split(' ').slice(1);
+  return steward.handleUpdate(ctx, args);
+});
+
+bot.command('query', async (ctx) => {
+  if (!steward.isSteward(ctx.from?.id)) return ctx.reply('This command is for the BD steward only.');
+  const args = ctx.message.text.split(' ').slice(1);
+  return steward.handleQuery(ctx, args);
+});
+
+bot.command('help', async (ctx) => {
+  if (!steward.isSteward(ctx.from?.id)) return;
+  return ctx.reply(
+    `🌀 *BD Steward Commands*\n\n` +
+    `/pipeline — view all active leads\n` +
+    `/add — add a new lead (conversational)\n` +
+    `/update <id> <field> <value> — update a lead field\n` +
+    `/note <id> <text> — add a note to a lead\n` +
+    `/confirm <id> — mark a lead as qualified\n` +
+    `/close <id> [won|lost|stale] — close a lead\n` +
+    `/query <question> — search Prism + pipeline\n`,
+    { parse_mode: 'Markdown' }
+  );
 });
 
 // ─────────────────────────────────────────────
