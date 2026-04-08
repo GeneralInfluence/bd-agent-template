@@ -160,6 +160,39 @@ export $(cat /home/node/clawd/workspace/.env.raidguild | grep -v '^#' | grep -v 
 # Then run curl commands above
 ```
 
+### Upsert a user (on every group message)
+```bash
+curl -s -X POST "$SUPABASE_URL/rest/v1/telegram_users" \
+  -H "apikey: $SUPABASE_ANON_KEY" \
+  -H "Authorization: Bearer $SUPABASE_ANON_KEY" \
+  -H "Content-Type: application/json" \
+  -H "Prefer: return=representation,resolution=merge-duplicates" \
+  -d '{
+    "telegram_id": 123456,
+    "username": "alice",
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "last_seen_at": "now()",
+    "seen_in_groups": [-100123456789]
+  }'
+```
+
+### List known users
+```bash
+curl -s "$SUPABASE_URL/rest/v1/telegram_users?order=last_seen_at.desc" \
+  -H "apikey: $SUPABASE_ANON_KEY" \
+  -H "Authorization: Bearer $SUPABASE_ANON_KEY"
+```
+
+## Data Logging Rules
+
+1. **Always log:** Usernames and Telegram IDs to `telegram_users` on every group interaction
+2. **Don't log conversations** to `conversations` table unless:
+   - The lead is confirmed (status changed to `qualified` or beyond)
+   - Sean explicitly asks to log them
+3. **Lead creation:** Only when an opportunity is confirmed, not on first contact
+4. **Lead events:** Log significant pipeline events (intro, qualification, proposal, payment)
+
 ## Notes
 - The anon key can read/write via RLS policies. If writes fail, RLS may need to be configured in Supabase.
 - For table creation/migration, use the Supabase SQL Editor (Dashboard → SQL) or a service role key.
