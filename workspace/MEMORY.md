@@ -14,3 +14,24 @@
 - **Stage 3 — Funded Raid:** Client pays (on-chain wallet or bank). Treasurer confirms payment.
 - Full pipeline doc: `bd-pipeline.md`
 - Email intros and on-chain monitoring are future state.
+
+## Training System (added 2026-04-08)
+- **April 2026 cohort** (sponsored by Pinata Agents) will test warm intros via Telegram
+- Training feedback loop: real convos → Sean critiques → lessons logged → playbook updated
+- Playbook: `bd-funnel/lead-agent/training/PLAYBOOK.md` — living doc for how to handle intros
+- Lessons: `bd-funnel/lead-agent/training/LESSONS.md` — accumulated feedback
+- Session reviews: `bd-funnel/lead-agent/training/sessions/` — individual interaction reviews
+- Feedback also logged to Supabase as lead_events with `metadata.type: "training_feedback"`
+- **Key principle:** Learn from real interactions, don't over-engineer upfront
+
+## Supabase (added 2026-04-08)
+- URL: `https://lrsfpchwdtkokiucbzxl.supabase.co`
+- Credentials in `.env.raidguild`
+- Tables: `leads`, `lead_events`, `conversations` (with `lead_id` FK), `telegram_channels`, `telegram_messages`, `opt_out_users`
+- Schema: `bd-funnel/lead-agent/migrations/`
+- CRM skill: `bd-funnel/lead-agent/skills/supabase-crm/SKILL.md`
+
+## Pinata Template (added 2026-04-08)
+- Building as a reusable template any org can deploy
+- Manifest: `bd-funnel/manifest.json`
+- Docs: https://docs.pinata.cloud/agents/templates/overview
