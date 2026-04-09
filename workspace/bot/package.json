@@ -1,0 +1,17 @@
+{
+  "name": "lead-agent-bot",
+  "version": "1.0.0",
+  "description": "Lightweight Telegram bot for BD lead qualification",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node --watch bot.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@supabase/supabase-js": "^2.49.4",
+    "dotenv": "^16.4.7",
+    "grammy": "^1.36.1",
+    "pm2": "^6.0.14"
+  }
+}
