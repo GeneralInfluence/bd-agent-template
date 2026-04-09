@@ -21,6 +21,8 @@ const llm = require('./src/llm');
 const ditto = require('./src/ditto');
 const prism = require('./src/prism');
 const steward = require('./src/steward');
+const webhook = require('./src/webhook');
+const reminders = require('./src/reminders');
 
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const BD_STEWARD_ID = process.env.BD_STEWARD_TELEGRAM_ID;
@@ -272,10 +274,51 @@ bot.command('optout', async (ctx) => {
 });
 
 // ─────────────────────────────────────────────
+// /remind command (steward only)
+// ─────────────────────────────────────────────
+
+bot.command('remind', async (ctx) => {
+  if (!steward.isSteward(ctx.from?.id)) return ctx.reply('This command is for the BD steward only.');
+  // Usage: /remind YYYY-MM-DD Your reminder text
+  const args = ctx.message.text.split(' ').slice(1);
+  if (args.length < 2) {
+    return ctx.reply('Usage: /remind YYYY-MM-DD Your reminder text\nExample: /remind 2026-04-14 Follow up with Rich at Livepeer');
+  }
+  const dateStr = args[0];
+  const text = args.slice(1).join(' ');
+  const fireAt = new Date(dateStr);
+  if (isNaN(fireAt.getTime())) {
+    return ctx.reply(`Invalid date: ${dateStr}. Use YYYY-MM-DD format.`);
+  }
+  const r = reminders.addReminder({
+    text,
+    isoDate: fireAt.toISOString(),
+    chatId: ctx.chat.id,
+  });
+  return ctx.reply(`⏰ Reminder set for ${fireAt.toDateString()}\n"${text}"\n\nID: \`${r.id}\``, { parse_mode: 'Markdown' });
+});
+
+bot.command('reminders', async (ctx) => {
+  if (!steward.isSteward(ctx.from?.id)) return ctx.reply('This command is for the BD steward only.');
+  const all = reminders.loadReminders();
+  if (!all.length) return ctx.reply('No reminders set.');
+  const lines = all.map(r =>
+    `• ${new Date(r.fireAt).toDateString()} — ${r.text.slice(0, 60)}\n  \`${r.id}\``
+  ).join('\n\n');
+  return ctx.reply(`⏰ *Pending Reminders*\n\n${lines}`, { parse_mode: 'Markdown' });
+});
+
+// ─────────────────────────────────────────────
 // Start
 // ─────────────────────────────────────────────
 
 bot.catch(err => console.error('Bot error:', err));
+
+// Start webhook server (Supabase → Ditto + steward notifications, no LLM)
+webhook.start(bot);
+
+// Start cron scheduler (reminders, stale detection, weekly pipeline)
+reminders.start(bot);
 
 bot.start({
   allowed_updates: ['message', 'my_chat_member'],
