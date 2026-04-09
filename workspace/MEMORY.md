@@ -37,3 +37,29 @@
 - Building as a reusable template any org can deploy
 - Manifest: `bd-funnel/manifest.json`
 - Docs: https://docs.pinata.cloud/agents/templates/overview
+
+## Ditto Knowledge Graph (added 2026-04-09)
+- MCP config: `workspace/config/mcporter.json` (via `npx mcporter`)
+- API token in config file (Bearer token)
+- Purpose: **contribution ledger** — tracks who contributed to each opportunity so compensation (cash/equity/tokens) can be distributed fairly when deals close
+- **Subject = the WORK**, never a person. Work types: Raid/Contract, Cohort Sponsorship, Recruiting for a Sponsor, Cohort Attendee Recruiting, New Venture
+- People are participants with explicit roles, not subjects
+
+### Ditto Log Format (required for all saves)
+Always use this structure when calling `ditto.save_memory`:
+```
+Ditto, here is an update for the memory graph: [Work Type] — [Client/Org], involving [comma-separated contributors].
+
+Current status: [status + next step + date].
+
+Contributors and roles:
+- [Name] is the LEAD / co-developer / introducer / proposal author / finance intel / etc.
+- ...
+
+Note: [anyone to explicitly exclude from contributor credit, with reason]
+
+Next step: [who does what by when]
+```
+- Never lead with a person's name as the primary subject
+- Always explicitly name ALL contributors and their specific roles
+- If someone helped route but isn't a work contributor, note that explicitly
