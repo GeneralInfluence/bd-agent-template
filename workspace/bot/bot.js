@@ -257,7 +257,9 @@ bot.command('help', async (ctx) => {
     `/note <id> <text> — add a note to a lead\n` +
     `/confirm <id> — mark a lead as qualified\n` +
     `/close <id> [won|lost|stale] — close a lead\n` +
-    `/query <question> — search Prism + pipeline\n`,
+    `/query <question> — search Prism + pipeline\n` +
+    `/remind YYYY-MM-DD <text> — set a follow-up reminder\n` +
+    `/reminders — list pending reminders\n`,
     { parse_mode: 'Markdown' }
   );
 });
