@@ -1,9 +1,13 @@
-# Ignore everything except workspace and skills
+# Ignore everything except tracked project dirs
 *
 !workspace/
 !workspace/**
 !skills/
 !skills/**
+!lead-agent/
+!lead-agent/**
+!manifest.json
+!README.md
 !.gitignore
 
 # Sensitive files and OS junk
