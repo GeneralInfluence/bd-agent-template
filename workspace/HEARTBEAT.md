@@ -1,6 +1,5 @@
 # HEARTBEAT.md
 
-# Uncomment tasks below to enable periodic checks.
+# Keep this file empty (or with only comments) to skip heartbeat API calls.
 
-# - Check for leads with no activity in 7+ days and flag them as stale
-# - Review open leads and suggest next actions to BD steward
+# Add tasks below when you want the agent to check something periodically.

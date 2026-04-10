@@ -1,0 +1,2054 @@
+[
+  {
+    "school": "gwu",
+    "name": "Student Life",
+    "slug": "cse",
+    "email": "orghelp@gwu.edu",
+    "summary": "Engage is a web-based student engagement platform that provides tools and resources around student engagement and participation in activities outside the classroom. GW Engage is powered by the Office for the Student Experience.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/cse"
+  },
+  {
+    "school": "gwu",
+    "name": "Student Theatre Council",
+    "slug": "student-theatre-council",
+    "email": "studenttheatrecouncil@gmail.com",
+    "summary": "The Student Theatre Council is a coalition of the student theatre organizations of The George Washington University: Fourteenth Grade Players, GW Shakespeare Company, Generic Theater Company, and Forbidden Planet Productions.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/student-theatre-council"
+  },
+  {
+    "school": "gwu",
+    "name": "GW RAGE - Reproductive Autonomy and Gender Equity",
+    "slug": "gwrage",
+    "email": "gwurage@gmail.com",
+    "summary": "GW RAGE is the reproductive justice and sex positivity organization on GW's campus! If you are also pro-abortion and passionate about reproductive justice, welcome!",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwrage"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Quiz Bowl Team",
+    "slug": "gw-quiz-bowl",
+    "email": "gwuquizbowl@gmail.com",
+    "summary": "The GW Quiz Bowl Team is an academic trivia organization open to players of all levels and backgrounds. We compete with other schools in the Mid-Atlantic region, and have plenty of fun along the way!",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-quiz-bowl"
+  },
+  {
+    "school": "gwu",
+    "name": "Humanitarian Mapping Society",
+    "slug": "humanitarian-mapping-society",
+    "email": "hms.gwu@gmail.com",
+    "summary": "The purpose of the George Washington University Humanitarian Mapping Society is to use open source data and GIS technologies to map potential disaster areas, provide resources for emergency management, connect its members with open source and GIS organ.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/humanitarian-mapping-society"
+  },
+  {
+    "school": "gwu",
+    "name": "Sustainable Urban Planning Student Organization",
+    "slug": "supso",
+    "email": "supso@gwu.edu",
+    "summary": "We are a cohort of students who envision a future of healthy urban landscapes that are socially equitable, economically resilient and environmentally just. It is our mission to execute advocacy and outreach in the field of sustainable urban planning.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/supso"
+  },
+  {
+    "school": "gwu",
+    "name": "National Council of Negro Women- GWU Section",
+    "slug": "national-council-of-negro-women-gwu-section",
+    "email": "ncnwgwu@gmail.com",
+    "summary": "The National Council of Negro Women, Inc. (NCNW) is a council of national African American women's organizations and community-based sections with a mission to lead, develop, and advocate for women of African descent as they support their families and ...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/national-council-of-negro-women-gwu-section"
+  },
+  {
+    "school": "gwu",
+    "name": "Psi Chi, the International Honor Society in Psychology",
+    "slug": "psi-chi",
+    "email": "gwupsichi@gmail.com",
+    "summary": "Psi Chi, the International Honor Society in Psychology, was founded to encourage, stimulate, and maintain excellence in scholarship in psychology, and to advance the science of psychology.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/psi-chi"
+  },
+  {
+    "school": "gwu",
+    "name": "Graduate Consulting Club",
+    "slug": "graduate-consulting-club",
+    "email": "consultingclub@gwu.edu",
+    "summary": "The GCC will provide resources for graduate students at the George Washington University (GWU) to learn more about consulting and help them pursue a career in the industry.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/graduate-consulting-club"
+  },
+  {
+    "school": "gwu",
+    "name": "Chinese American Student Association",
+    "slug": "chinese-american-student-association",
+    "email": "gw.casa@gmail.com",
+    "summary": "All members of CASA must be students of the George Washington University. To be a member of CASA, a person must have filled out a membership form at one of the general body meetings (GBMs) or at student organization fair either in the beginning of the ...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/chinese-american-student-association"
+  },
+  {
+    "school": "gwu",
+    "name": "Kesem at GW",
+    "slug": "kesem_gw",
+    "email": "gw@kesem.org",
+    "summary": "Kesem at The George Washington University is a non-profit organization run by passionate GW student leaders that provides a year-round support network and free summer camp for children in the DMV who are coping with a parent's cancer.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/kesem_gw"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Student Government Association",
+    "slug": "gwsa",
+    "email": "gwsga@gwu.edu",
+    "summary": "The GW Student Government Association (SGA) is the primary advocacy and allocation group for the student body at The George Washington University. We represent all 26,000 graduate and undergraduate students on campus.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwsa"
+  },
+  {
+    "school": "gwu",
+    "name": "Real Estate Investment & Development Organization",
+    "slug": "real-estate-investment-development-organization",
+    "email": "REIDO@gwu.edu",
+    "summary": "REIDO was established to complement the Real Estate Concentration offered through the GW MBA program. It aims to further familiarize students who have a common interest in real estate investment and development with real estate issues and organizations...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/real-estate-investment-development-organization"
+  },
+  {
+    "school": "gwu",
+    "name": "Health Policy Student Association",
+    "slug": "health-policy-student-association",
+    "email": "gwhpsa@gmail.com",
+    "summary": "The purpose of the Health Policy Student Association is to increase the value of students' experiences in the Health Policy-related programs at GW through related social, educational, and career-oriented events that promote student experience.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/health-policy-student-association"
+  },
+  {
+    "school": "gwu",
+    "name": "The George Washington University Association for Computing Machinery Student Chapter",
+    "slug": "gw-acm",
+    "email": "acm@gwu.edu",
+    "summary": "GW ACM (Association of Computing Machinery) aims to bring the computer science community together through gatherings. We host department-wide events like CS Game Nights, Professor Talks, Coffee with Professors, and the CS Freshman Welcome.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-acm"
+  },
+  {
+    "school": "gwu",
+    "name": "Graduate Marketing Club",
+    "slug": "graduate-marketing-club",
+    "email": "gw_marketingclub@gwu.edu",
+    "summary": "The Graduate Marketing Club is an open forum for GWU students interested in the field of marketing. Our goal is to provide students with valuable opportunities to network, learn, and grow through active engagement with expert professionals in the field.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/graduate-marketing-club"
+  },
+  {
+    "school": "gwu",
+    "name": "The George Washington Williams House",
+    "slug": "the-george-washington-williams-house",
+    "email": "blackhousegw@gmail.com",
+    "summary": "The George Washington Williams House is the medium for African American culture on the campus of The George Washington University.Our household holds several programming activities throughout the year that promotes service and community building. We pa...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/the-george-washington-williams-house"
+  },
+  {
+    "school": "gwu",
+    "name": "Capitol Letters",
+    "slug": "capitol-letters",
+    "email": "gwcapitolletters@gmail.com",
+    "summary": "Capitol Letters is the oldest literary magazine on campus, founded 45 years ago. We accept poetry, prose, and art submissions every year, and print beautiful hard copies of the magazine to share the GW community's talent and creativity.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/capitol-letters"
+  },
+  {
+    "school": "gwu",
+    "name": "Engineers Without Borders",
+    "slug": "engineers-without-borders",
+    "email": "ewbgwu@gmail.com",
+    "summary": "Engineers Without Borders at The George Washington University is a collegiate, student-run organization that allies with communities at home and abroad to devise unique and sustainable solutions for underserved areas.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/engineers-without-borders"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Black Graduate Business Association",
+    "slug": "george-washington-university-black-mba-association",
+    "email": "blackgba@email.gwu.edu",
+    "summary": "The Black GBA is committed to creating educational and professional growth opportunities for individuals historically underrepresented in business, supporting them as students, entrepreneurs, and professionals throughout their careers.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/george-washington-university-black-mba-association"
+  },
+  {
+    "school": "gwu",
+    "name": "National Residence Hall Honorary",
+    "slug": "national-residence-hall-honorary",
+    "email": "nrhh@gwu.edu",
+    "summary": "The Capital Chapter of the National Residence Hall Honorary (NRHH) represents up to the top 1% of students living in the residence halls at GW. We are campus leaders dedicated to service and recognition initiatives to improve the GW campus experience.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/national-residence-hall-honorary"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Alternative Breaks",
+    "slug": "gw-alternative-breaks",
+    "email": "altbreaks@gwu.edu",
+    "summary": "Alternative Breaks empowers and challenges students to understand their role as proponents of democratic citizenship through direct & indirect service, service-learning, and reflection, while encouraging growth, social awareness, and active citizenship.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-alternative-breaks"
+  },
+  {
+    "school": "gwu",
+    "name": "AIESEC in Washington, DC",
+    "slug": "aiesecdc",
+    "email": "dc-president@aiesecus.org",
+    "summary": "AIESEC in Washington, DC is the local chapter of the largest youth-led nonprofit in the world. We focus on youth professional development, mainly by facilitating cross-cultural exchange experiences in over 110 countries.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/aiesecdc"
+  },
+  {
+    "school": "gwu",
+    "name": "The International Affairs Society",
+    "slug": "the-international-affairs-society",
+    "email": "ias@gwu.edu",
+    "summary": "Founded in 1993, the International Affairs Society (IAS) is the largest non-partisan student organization on campus. We are dedicated to promoting a better understanding of international affairs as they concern the students of GWU. The IAS is largely c...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/the-international-affairs-society"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Program Board",
+    "slug": "gw-program-board",
+    "email": "chair_gwpb@email.gwu.edu",
+    "summary": "The George Washington University Program Board shall work with students, faculty, staff, and alumni in developing and implementing a broad cultural, intellectual, social, public service and recreational program for the University community",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-program-board"
+  },
+  {
+    "school": "gwu",
+    "name": "Human & Organizational Learning Student Association",
+    "slug": "human-organizational-learning-student-association",
+    "email": "holsa@gwu.edu",
+    "summary": "The Human & Organizational Learning (HOL) department consists of several academic programs ranging from certificates to master’s and doctorate degrees. HOLSA creates opportunities for these programs to network and learn collectively.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/human-organizational-learning-student-association"
+  },
+  {
+    "school": "gwu",
+    "name": "GW MotherFunkers",
+    "slug": "gw-motherfunkers",
+    "email": "gwmotherfunkers@gmail.com",
+    "summary": "The GW MotherFunkers, a competitive co-ed A Cappella group, was founded in 2012 at The George Washington University with the desire to focus mainly on the performance of Contemporary Pop and the representation of diverse singers across campus!",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-motherfunkers"
+  },
+  {
+    "school": "gwu",
+    "name": "TEDxFoggyBottom",
+    "slug": "tedxfoggybottom",
+    "email": "tedxfobo@tedxfoggybottom.org",
+    "summary": "TEDxFoggyBottom brings together some of the world’s incredible innovators, thinkers and doers to inspire and collaborate with the Foggy Bottom community. It is an independently organized TED conference run by students.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/tedxfoggybottom"
+  },
+  {
+    "school": "gwu",
+    "name": "Society of Women Engineers",
+    "slug": "society-of-women-engineers",
+    "email": "gwu_swe@gwu.edu",
+    "summary": "SWE is an organization developed to promote opportunities for women in engineering by means of professional development and outreach. We attend national/local conference(s) each year, and hold various other networking activities. We also hold GBMs.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/society-of-women-engineers"
+  },
+  {
+    "school": "gwu",
+    "name": "Phi Alpha Theta History Honor Society, Phi Chi Chapter",
+    "slug": "phi-chi-chapter-phi-alpha-theta",
+    "email": "gwuphialphatheta@gmail.com",
+    "summary": "We are a professional society whose mission is to promote the study of history by the students of The George Washington University through encouraging scholastic excellence in all members; preparing members for the rigors of graduate study, promoting m...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/phi-chi-chapter-phi-alpha-theta"
+  },
+  {
+    "school": "gwu",
+    "name": "The Engineers' Council",
+    "slug": "the-engineers-council",
+    "email": "ecouncil@gwu.edu",
+    "summary": "The Engineers’ Council is a SEAS student umbrella organization that oversees and facilitates collaboration between SEAS student organizations, and among the general student body within SEAS.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/the-engineers-council"
+  },
+  {
+    "school": "gwu",
+    "name": "Society of Hispanic Professional Engineers - GWU",
+    "slug": "shpe_gw",
+    "email": "shpe@gwu.edu",
+    "summary": "GW-SHPE empowers students, of all races and majors, to develop professionally and academically in addition to maintaining the social element of Hispanic culture. We offer our members countless opportunities to develop as students and professionals.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/shpe_gw"
+  },
+  {
+    "school": "gwu",
+    "name": "The Black Men's Initiative",
+    "slug": "the-black-men-s-initiative",
+    "email": "thegwubmi@gmail.com",
+    "summary": "The Black Men's Initiative seeks to proactively mentor, support, and most importantly uplift all under-represented male students to ensure that the men you entered GWU with are the same men you exit GW with, degree in hand and head held high. Through o...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/the-black-men-s-initiative"
+  },
+  {
+    "school": "gwu",
+    "name": "Asian American Student Association",
+    "slug": "asian-american-student-association",
+    "email": "gwuaasa@gmail.com",
+    "summary": "Asian American Student Association is a student organization at the George Washington University that aims to cultivate an environment of understanding within GWU's Asian American student population through educational and cultural events.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/asian-american-student-association"
+  },
+  {
+    "school": "gwu",
+    "name": "Forensic Student Guild",
+    "slug": "association-of-forensic-science-students",
+    "email": "gwufsguild@gmail.com",
+    "summary": "The goals of the FSG are to expose students to agencies and individuals in the field, to inform students of available opportunities in the various disciplines of forensic science, and to establish a place for students in all disciplines to interact.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/association-of-forensic-science-students"
+  },
+  {
+    "school": "gwu",
+    "name": "Indian Students' Association",
+    "slug": "indian-students-association",
+    "email": "gwindianstudentsassociation@gmail.com",
+    "summary": "The Indian Students' Association is an organization dedicated to preserving and promoting Indian culture in the GW community and neighboring areas. As one of the largest student organizations on campus, we have maintained a tradition of excellence for ...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/indian-students-association"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Club Baseball",
+    "slug": "gw-club-baseball",
+    "email": "gwclubbaseball@gmail.com",
+    "summary": "The GW Club Baseball team participates in the NCBA Division 2 Chesapeake South Division. We provide the opportunity for baseball players who have chosen not to participate in the Varsity Baseball program to continue to participate in organized baseball.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-club-baseball"
+  },
+  {
+    "school": "gwu",
+    "name": "JKA Karate Club",
+    "slug": "jka-karate-club",
+    "email": "gwu.jka@gmail.com",
+    "summary": "JKA (the Japan Karate Association) was founded in 1955 with Gichin Funakoshi as its chief instructor. Sensei Funakoshi is considered the father of modern karate, after having brought the art from Okinawa to Japan. JKA Karate is distinguished from other..",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/jka-karate-club"
+  },
+  {
+    "school": "gwu",
+    "name": "Chi Omega Fraternity: The Phi Alpha Chapter",
+    "slug": "gwchiomega",
+    "email": "gwchiomegapresident@gmail.com",
+    "summary": "GW's chapter of the Chi Omega Fraternity.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwchiomega"
+  },
+  {
+    "school": "gwu",
+    "name": "Education Policy Student Association",
+    "slug": "education-policy-student-association",
+    "email": "amar.fattal@gmail.gwu.edu",
+    "summary": "The Association's purpose is to be a forum for interaction among Education Policy students, alums, and faculty as well as the broader GW and DC policy community to foster social, academic, and professional development activities.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/education-policy-student-association"
+  },
+  {
+    "school": "gwu",
+    "name": "Delta Sigma Pi",
+    "slug": "delta-sigma-pi",
+    "email": "dsprecruitmentgw@gmail.com",
+    "summary": "Delta Sigma Pi is a Professional Business Fraternity that blends top-notch professional development with a supportive social community. We help Brothers achieve post-grad goals while making lifelong friendships.\r\n\r\nGet involved! dsprecruitmentgw@gmail.com",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/delta-sigma-pi"
+  },
+  {
+    "school": "gwu",
+    "name": "Student Association for Graduate Economists",
+    "slug": "student-association-for-graduate-economists",
+    "email": "econsage@email.gwu.edu",
+    "summary": "The Student Association for Graduate Economists, abbreviated as SAGE, represents the interests of graduate students in the Economics Department and organizes educational and social events. SAGE also runs an informal seminar series for graduate students...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/student-association-for-graduate-economists"
+  },
+  {
+    "school": "gwu",
+    "name": "George Washington Fashion & Business Association",
+    "slug": "george-washington-fashion-business-association",
+    "email": "president.gwfba@gmail.com",
+    "summary": "FBA's mission is to foster a collaborative environment where creative innovation meets strategic acumen, empowering our members with professional opportunities and the network necessary to excel in the fashion and business spaces.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/george-washington-fashion-business-association"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Association for Women in Mathematics",
+    "slug": "gw-association-for-women-in-mathematics",
+    "email": "awmgwu@gmail.com",
+    "summary": "We are the GW chapter of the Association for Women in Mathematics. We welcome all interested students, regardless of major, gender, or age. Our goal is to encourage women to pursue careers in mathematical studies and provide a professional network.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-association-for-women-in-mathematics"
+  },
+  {
+    "school": "gwu",
+    "name": "American Marketing Association",
+    "slug": "american-marketing-association",
+    "email": "info.amagwsb@gmail.com",
+    "summary": "“Membership in a national organization like AMA connects you to marketers across all specialties to collaborate, network, gain practical experience, and empower your career.\"",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/american-marketing-association"
+  },
+  {
+    "school": "gwu",
+    "name": "Socialist Action Initiative",
+    "slug": "internationalist-students-front",
+    "email": "againstimperialismgw@gmail.com",
+    "summary": "GW Socialist Action Initiative is a multi-tendency socialist organization on campus, dedicated to struggling against colonialism, imperialism, and capitalism through both building mass power and developing militant socialists.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/internationalist-students-front"
+  },
+  {
+    "school": "gwu",
+    "name": "Cisneros Hispanic Leadership Institute",
+    "slug": "cisneros-hispanic-leadership-institute",
+    "email": "gwcisneros@gwu.edu",
+    "summary": "The Cisneros Hispanic Leadership Institute draws on the intellectual strength of the George Washington University and the resources of the nation’s capital to cultivate citizen scholars and innovative research focused on the Latino community. Research ...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/cisneros-hispanic-leadership-institute"
+  },
+  {
+    "school": "gwu",
+    "name": "Elliott School Graduate Board",
+    "slug": "elliott-school-graduate-board",
+    "email": "esgb@gwu.edu",
+    "summary": "ESGB is the umbrella organization for graduate student organizations at the Elliott School. We seek to foster a strong sense of community among Elliott graduate students and enrich their professional and intellectual advancement.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/elliott-school-graduate-board"
+  },
+  {
+    "school": "gwu",
+    "name": "Prospanica at GWU",
+    "slug": "prospanica-at-gwu",
+    "email": "mayte.chang@gwmail.gwu.edu",
+    "summary": "The Association of Hispanic Professionals (Prospanica) at GWU, previously known as NSHMBA, is a professional, nationally-affiliated student organization. Founded by MBA students in 2017, our university chapter's mission is to empower Hispanic students",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/prospanica-at-gwu"
+  },
+  {
+    "school": "gwu",
+    "name": "Beta Alpha Psi",
+    "slug": "beta-alpha-psi",
+    "email": "gwubap20@gmail.com",
+    "summary": "Founded in 1919, Beta Alpha Psi is an Accounting Honors Society for all financial information students and professionals. There are over 300 chapters on college and university campuses with over 300,000 members initiated since Beta Alpha Psi's formation.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/beta-alpha-psi"
+  },
+  {
+    "school": "gwu",
+    "name": "Association of Energy Engineers - GW Student Chapter",
+    "slug": "gwaee",
+    "email": "gwaee@email.gwu.edu",
+    "summary": "The GW Student Association of Energy Engineers is a student-led organization closely associated with the National AEE Organization. Members are from various engineering disciplines with a shared passion for energy systems and innovation.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwaee"
+  },
+  {
+    "school": "gwu",
+    "name": "Graduate Business Association (GBA)",
+    "slug": "graduate-business-association",
+    "email": "GBA@gwu.edu",
+    "summary": "Mission Statement: To enhance all GWSB graduate students’ experience through various academic, social and professional opportunities while funding and supporting all subsidiary graduate student organizations.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/graduate-business-association"
+  },
+  {
+    "school": "gwu",
+    "name": "GW School of Business Office of Undergrad Programs",
+    "slug": "gw-school-of-business-office-of-undergrad-programs",
+    "email": null,
+    "summary": "",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-school-of-business-office-of-undergrad-programs"
+  },
+  {
+    "school": "gwu",
+    "name": "The Association of Chemistry Graduate Students",
+    "slug": "association-of-chemistry-graduate-students",
+    "email": "acgs@gwu.edu",
+    "summary": "The Association of Chemistry Graduate Students (ACGS) is dedicated to providing an active community for current and incoming chemistry graduate students by generating opportunities for professional development and socialization internally and externally.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/association-of-chemistry-graduate-students"
+  },
+  {
+    "school": "gwu",
+    "name": "American Society of Civil Engineers",
+    "slug": "american-society-of-civil-engineers",
+    "email": "asce@gwmail.gwu.edu",
+    "summary": "ASCE stands at the forefront of a profession that plans, designs, constructs, and operates society’s economic and social engine – the built environment – while protecting and restoring the natural environment.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/american-society-of-civil-engineers"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Club Running",
+    "slug": "gw-club-cross-country",
+    "email": "gwuclubxc@gmail.com",
+    "summary": "GW’s finest running club since 2012 - all are welcome, no experience necessary! We provide our members regular opportunities for recreational & competitive running, as well as social events, to promote community-building, self-improvement, & fitness.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-club-cross-country"
+  },
+  {
+    "school": "gwu",
+    "name": "GWU National Society of Black Engineers",
+    "slug": "gwu-national-society-of-black-engineers",
+    "email": "gwnsbe.pres@gmail.com",
+    "summary": "The purpose of NSBE is to increase the number of culturally responsible Black engineers who excel academically, succeed professionally and positively impact the community.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwu-national-society-of-black-engineers"
+  },
+  {
+    "school": "gwu",
+    "name": "GW International Students Association",
+    "slug": "gw-international-students-association",
+    "email": "gwisa@gwu.edu",
+    "summary": "GW International Students Association (GWISA) is a student-led organization with a focus on the holistic international students’ experience through events ranging from professional to social activities.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-international-students-association"
+  },
+  {
+    "school": "gwu",
+    "name": "Forbidden Planet Productions",
+    "slug": "forbidden-planet-productions",
+    "email": "fpp@gwu.edu",
+    "summary": "FPP is a student-run theatre organization that was created in 1994. The company is known for its production of The Rocky Horror Picture Show every Halloween and its Annual Musical Cabaret every spring. FPP puts on a number of musicals and straight plays!",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/forbidden-planet-productions"
+  },
+  {
+    "school": "gwu",
+    "name": "International Education Association of the George Washington University",
+    "slug": "international-ed-association-of-george-washington",
+    "email": "ieagwu@gmail.com",
+    "summary": "The George Washington University International Education Association (IEA) is a student organization whose mission is to advocate for increased awareness of international education through: fostering professional development, providing networking oppor..",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/international-ed-association-of-george-washington"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Turkish Student Association",
+    "slug": "gwtsa",
+    "email": "duruciftci@gwu.edu",
+    "summary": "Providing a common environment to establish communication and cooperation between the Turkish Community of GW and the rest of GW Community, in addition to promoting Turkish culture to the GW Community at large.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwtsa"
+  },
+  {
+    "school": "gwu",
+    "name": "Women In Computer Science",
+    "slug": "women-in-cs",
+    "email": "wics@email.gwu.edu",
+    "summary": "The GW student chapter of Women in Computer Science (WiCS) exists to enrich the academic and extracurricular lives of women studying or interested in Computer Science.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/women-in-cs"
+  },
+  {
+    "school": "gwu",
+    "name": "Phi Alpha Delta Pre-Law Fraternity",
+    "slug": "phi-alpha-delta-pre-law-fraternity",
+    "email": "gwupad@gmail.com",
+    "summary": "Phi Alpha Delta is a professional pre-law fraternity designed in order to form a strong bond uniting students and teachers of the law with members of the Bench and Bar in a fraternal fellowship designed to advance the ideals of liberty and equal justice.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/phi-alpha-delta-pre-law-fraternity"
+  },
+  {
+    "school": "gwu",
+    "name": "Fourteenth Grade Players",
+    "slug": "fourteenth-grade-players",
+    "email": "fourteengwu@gmail.com",
+    "summary": "For the past twenty four years, Fourteenth Grade Players has prided itself on bringing the talent, inclusivity, and professionalism of the GW student theatre community to the wider student body. Join one of our acting, tech, or directing teams today!",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/fourteenth-grade-players"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Chapter of National Association for the Advancement of Colored People",
+    "slug": "gw-naacp",
+    "email": "gwnaacp43@gmail.com",
+    "summary": "Founded on Feb. 12. 1909, the NAACP is the nation's oldest, largest and most widely recognized grassroots-based civil rights organization. It has more than half-million members and supporters throughout the United States and the world. Join the NAACP, ...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-naacp"
+  },
+  {
+    "school": "gwu",
+    "name": "Sigma Iota Rho",
+    "slug": "sir",
+    "email": "sir@gwu.edu",
+    "summary": "Sigma Iota Rho is the Elliott School of International Affairs’ premier gender inclusive honor society. Our mission is to promote and reward scholarship and service among students and practitioners of international affairs.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/sir"
+  },
+  {
+    "school": "gwu",
+    "name": "PROJECT MANAGEMENT STUDENT ASSOCIATION (PMSA)",
+    "slug": "project-management-student-association",
+    "email": "c.andres@gwmail.gwu.edu ",
+    "summary": "The Project Management Student Association is the GWSB MSPM program student association, set to support its students in their professional development through education, career endeavors and building a community in the field of Project Management.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/project-management-student-association"
+  },
+  {
+    "school": "gwu",
+    "name": "Multicultural Business Student Association",
+    "slug": "multicultural-business-student-association",
+    "email": "mbsagw@gmail.com",
+    "summary": "The Multicultural Business Student Association is an organization dedicated to helping all students regardless of their gender, race, or ethnicity make the most out of their business experience. We aim to facilitate in the professional development",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/multicultural-business-student-association"
+  },
+  {
+    "school": "gwu",
+    "name": "Alpha Chi Sigma, Alpha Pi Chapter",
+    "slug": "alpha-chi-sigma-alpha-pi-chapter",
+    "email": "axe@gwu.edu",
+    "summary": "Our organization is a professional chemistry fraternity that welcomes students of all majors and seeks to bring together students who enjoy the sciences.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/alpha-chi-sigma-alpha-pi-chapter"
+  },
+  {
+    "school": "gwu",
+    "name": "Graduate Finance Society",
+    "slug": "graduate-finance-society",
+    "email": "financesociety@gwu.edu",
+    "summary": "The Graduate Finance Society is student organization dedicated to educating graduate students about various sectors of the financial services industry as well as assisting them in their pursuit to obtain employment in the financial services industry.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/graduate-finance-society"
+  },
+  {
+    "school": "gwu",
+    "name": "LATAM@GW",
+    "slug": "latam-gw",
+    "email": "latam@gwu.edu",
+    "summary": "LATAM@GW is a professional, research, and social forum dedicated to bringing together students who share an interest in Latin America & the Caribbean and promoting awareness and knowledge of the region’s trials, contributions, and diversity.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/latam-gw"
+  },
+  {
+    "school": "gwu",
+    "name": "Onero GW",
+    "slug": "onero-gw",
+    "email": "engage@oneroinstitute.org",
+    "summary": "The Onero Institute is a youth-driven, nonprofit research organization that seeks to develop the next generation of leaders by bridging the divide between young people and the academic community and by better engaging youth on international issues.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/onero-gw"
+  },
+  {
+    "school": "gwu",
+    "name": "receSs",
+    "slug": "recess",
+    "email": "gwrecess@gmail.com",
+    "summary": "receSs is the only student sketch and improv comedy group at GW and is considered one of the oldest comedy groups in Washington, DC. They hold monthly shows with long form improv and sketch comedy.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/recess"
+  },
+  {
+    "school": "gwu",
+    "name": "Alpha Kappa Psi",
+    "slug": "alpha-kappa-psi",
+    "email": "president.betamu@gmail.com",
+    "summary": "Alpha Kappa Psi is GW's premier professional fraternity. Open to all majors, AKPsi promotes professional development and philanthropy here on campus and across the world.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/alpha-kappa-psi"
+  },
+  {
+    "school": "gwu",
+    "name": "Delta Phi Epsilon Professional Foreign Service Society",
+    "slug": "dpe-fraternity",
+    "email": "eta.dpe@gmail.com",
+    "summary": "We're GW's oldest professional student organization dedicated to providing resources to students interested in International Affairs, the Foreign Service, and any adjacent fields. We are a co-ed organization.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/dpe-fraternity"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Association of Black Journalists",
+    "slug": "gw-association-of-black-journalists",
+    "email": "gwuabj@gmail.com",
+    "summary": "The GW Association of Black Journalists is a nonexclusive organization, open to journalism and communications students of all backgrounds and ethnicities interested in learning more about the ever-changing world of journalism.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-association-of-black-journalists"
+  },
+  {
+    "school": "gwu",
+    "name": "Museum Education Student Association",
+    "slug": "museum-education-student-association",
+    "email": null,
+    "summary": "The purpose of the Museum Education Student Association is to foster and maintain credibility and integrity of the Museum Education Program and museum education profession by advocating for accessibility and accountability.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/museum-education-student-association"
+  },
+  {
+    "school": "gwu",
+    "name": "National Student Speech Language and Hearing Association",
+    "slug": "gwunsslha",
+    "email": "gwnsslha@gmail.com",
+    "summary": "The mission of the National Student Speech Language Hearing Association (NSSLHA) is to benefit its members by continually improving its services through supporting, promoting, and advocating for the highest quality preparation of professionals in audio...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwunsslha"
+  },
+  {
+    "school": "gwu",
+    "name": "Professionals in European, Eurasian and Russian Studies",
+    "slug": "professionals-in-european-eurasian-russian-studies",
+    "email": "megan.arline@gwu.edu",
+    "summary": "Professionals in European, Eurasian, and Russian Studies (PEERS) is a graduate student organization at the Elliott School of International Affairs at The George Washington University. PEERS facilitates academic and professional interaction, increases a.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/professionals-in-european-eurasian-russian-studies"
+  },
+  {
+    "school": "gwu",
+    "name": "The George Washington University Orchestra",
+    "slug": "orchestra",
+    "email": "gw_orchestra@gwu.edu",
+    "summary": "The orchestra rehearses and performs a wide array of music including current as well as more traditional orchestral repertoire, often featuring soloists from within the ensemble, the faculty, and the professional community.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/orchestra"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Veterans",
+    "slug": "gw-veterans",
+    "email": "gwuvets@gwu.edu",
+    "summary": "GW Veterans advocates for the academic, professional, and social support for the 1800+ military-affiliated students enrolled at The George Washington University. Membership is open to all students interested in supporting the military community at GW.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-veterans"
+  },
+  {
+    "school": "gwu",
+    "name": "English Graduate Student Association",
+    "slug": "english-graduate-student-association",
+    "email": "gwegsa@gmail.com",
+    "summary": "The English Graduate Student Association (EGSA) is both a professional and a social organization of graduate students in or affiliated with The George Washington University Department of English.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/english-graduate-student-association"
+  },
+  {
+    "school": "gwu",
+    "name": "SEAS Undergraduate Student Services and Advising (campus partner/affiliate)",
+    "slug": "seas-studentservices",
+    "email": "seastheday@gwu.edu",
+    "summary": "The SEAS Office of Undergraduate Student Services and Advising helps to support all SEAS undergraduate student organizations and works collaboratively with the Engineers' Council to foster a strong sense of community.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/seas-studentservices"
+  },
+  {
+    "school": "gwu",
+    "name": "Korean Student Association",
+    "slug": "korean-student-association",
+    "email": "gwksa2012@gmail.com",
+    "summary": "As the Korean Student Association at the George Washington University, our mission is to promote a greater sense of community amongst Koreans and to promote greater interaction within the University. By providing special programming, events, and consti...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/korean-student-association"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Tabletop Gaming Society",
+    "slug": "gw-tabletop-gaming-society",
+    "email": "gwutabletop@gmail.com",
+    "summary": "The GW Tabletop Gaming Society strives to provide a nonjudgmental, cohesive community for individuals with interests in the varied forms of tabletop, board, and card gaming while promoting an environment of healthy competition.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-tabletop-gaming-society"
+  },
+  {
+    "school": "gwu",
+    "name": "Black Women's Forum",
+    "slug": "bwf",
+    "email": "bwfgwu@gmail.com",
+    "summary": "The Black Women's Forum (BWF) is a safe space that fosters sisterhood, support, friendship and communication for Black women at GW. Through BWF, black women on campus have the opportunity to grow and express themselves through their shared experiences.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/bwf"
+  },
+  {
+    "school": "gwu",
+    "name": "Commercial Real Estate Network",
+    "slug": "commercial-real-estate-network",
+    "email": "elliotabnos_@gwmail.gwu.edu ",
+    "summary": "We attempt to encourage and spread real estate knowledge here at GW. We connect students and alumni through networking events, panel discussions, and career treks to help foster an excitement for real estate among GW's undergraduate population.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/commercial-real-estate-network"
+  },
+  {
+    "school": "gwu",
+    "name": "Undergraduate Business Association",
+    "slug": "undergraduate-business-association",
+    "email": "ubapresident@gmail.com",
+    "summary": "The Undergraduate Business Association is an umbrella body that unites and advocates for all constituents of the GWSB community by supporting it's GWSB Affiliated Student Organizations and helping them reach their full potential.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/undergraduate-business-association"
+  },
+  {
+    "school": "gwu",
+    "name": "International Affairs Review",
+    "slug": "iar",
+    "email": "iarsubmissions@email.gwu.edu",
+    "summary": "IAR is a graduate student-run publication of The George Washington University's Elliott School of International Affairs in Washington, D.C., devoted to providing a forum for graduate student publication in international affairs and related fields.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/iar"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Mock Trial",
+    "slug": "gw-mock-trial",
+    "email": "gwtrial@gmail.com",
+    "summary": "Mock Trial is a public speaking activity focused on trial advocacy. Through intercollegiate mock trial competitions, we advance legal education among undergraduate students.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-mock-trial"
+  },
+  {
+    "school": "gwu",
+    "name": "Women and Youth Supporting Each Other",
+    "slug": "women-and-youth-supporting-each-other",
+    "email": "wyse@email.gwu.edu",
+    "summary": "Women and Youth Supporting Each Other (WYSE) is a curriculum-based mentorship program that provides young women with the resources, information and support necessary to make positive life choices and create community change.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/women-and-youth-supporting-each-other"
+  },
+  {
+    "school": "gwu",
+    "name": "Forté Organization at GW",
+    "slug": "gwfortefellows",
+    "email": "forte@gwu.edu",
+    "summary": "The George Washington Forté Organization is a student organization dedicated to the Forté Foundation’s mission to launch women into fulfilling significant careers through access to business education and a community of successful women.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwfortefellows"
+  },
+  {
+    "school": "gwu",
+    "name": "Black Student Union",
+    "slug": "black-student-union",
+    "email": "gwubsu@gwmail.gwu.edu",
+    "summary": "Founded in 1968, The George Washington University Black Student Union’s goal, above all else, is to create a Black experience where all Black students feel supported, welcomed, advocated for, and cared for.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/black-student-union"
+  },
+  {
+    "school": "gwu",
+    "name": "Delta Lambda Phi",
+    "slug": "delta-lambda-phi",
+    "email": "alpha.chapter@dlp.org",
+    "summary": "Welcome to Delta Lambda Phi Social Fraternity! Since 1986, Delta Lambda Phi (DLP) has offered queer men and trans people the opportunity to grow in the true spirit of brotherhood — one that embraces diversity and respects the value of all.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/delta-lambda-phi"
+  },
+  {
+    "school": "gwu",
+    "name": "The Ethiopian-Eritrean Students Association",
+    "slug": "the-ethiopian-eritrean-students-association",
+    "email": "eesa@email.gwu.edu",
+    "summary": "The Ethiopian-Eritrean Students Association at The George Washington University (GW) is an organization dedicated to the enhancement of the Ethiopian and Eritrean community at GW and throughout the DMV.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/the-ethiopian-eritrean-students-association"
+  },
+  {
+    "school": "gwu",
+    "name": "Association of Curriculum and Pedagogy Students",
+    "slug": "association-of-curriculum-and-pedagogy-students",
+    "email": "acaps@gwu.edu",
+    "summary": "Our mission is to cultivate within our group a caring, intellectually curious, and engaged group of scholars equal to the challenges within our field. We engage our membership, our faculty and others who are part of the lifelong learning community.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/association-of-curriculum-and-pedagogy-students"
+  },
+  {
+    "school": "gwu",
+    "name": "Somers Hall",
+    "slug": "somers-hall",
+    "email": null,
+    "summary": "Somers Hall, a first-year student coed living option on the Mount Vernon campus, has a maximum occupancy of 246 students in single rooms, double suites with shared bathrooms and double rooms. Somers is the home to students in the Women's Leadership Pro...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/somers-hall"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Undergraduate Consulting Group",
+    "slug": "gw-undergraduate-consulting-group",
+    "email": "gwundergraduateconsultinggroup@gmail.com",
+    "summary": "GW Undergraduate Consulting Group (GW UCG) serves to provide distinguished undergraduates at The George Washington University with the tools necessary for entering and succeeding in the consulting industry.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-undergraduate-consulting-group"
+  },
+  {
+    "school": "gwu",
+    "name": "Organization for International Development",
+    "slug": "organization-for-international-development",
+    "email": "oid@gwu.edu",
+    "summary": "The OID was founded for students at the ESIA, who share an interest in international development. It is a common platform to share their thoughts and ideas and to participate in and learn from informative events on topics of relevance in the field.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/organization-for-international-development"
+  },
+  {
+    "school": "gwu",
+    "name": "Organization of Asian Studies",
+    "slug": "organization-of-asian-studies",
+    "email": "oasgwu@gmail.com",
+    "summary": "OAS is a graduate student organization and think tank dedicated to fostering a deeper understanding about the Indo-Pacific and bridging the gap between classrooms and policy.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/organization-of-asian-studies"
+  },
+  {
+    "school": "gwu",
+    "name": "Transgender and Non-Binary Students of GWU",
+    "slug": "tnbs",
+    "email": "tnbs@gwu.edu",
+    "summary": "As GW's only trans-centered student organization, TNBS strives to create a safe space for transgender, non-binary, gender non-conforming, and questioning students through social, educational, and advocacy programming.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/tnbs"
+  },
+  {
+    "school": "gwu",
+    "name": "GW TRAiLS",
+    "slug": "trails",
+    "email": "trailstrips@email.gwu.edu",
+    "summary": "GW TRAiLS is The George Washington University’s outdoor adventure and leadership program, and we are committed to connecting the GW community to the outdoors!",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/trails"
+  },
+  {
+    "school": "gwu",
+    "name": "No Lost Generation George Washington University",
+    "slug": "no-lost-generation-george-washington-university",
+    "email": "nolostgenerationgw@gmail.com",
+    "summary": "No Lost Generation GW is a student organization dedicated to advocating for refugees. We work to support those affected by global refugee crises and are particularly concerned with increasing access to education for refugees.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/no-lost-generation-george-washington-university"
+  },
+  {
+    "school": "gwu",
+    "name": "Leading Women of Tomorrow GW",
+    "slug": "leading-women-of-tomorrow-gw",
+    "email": "gwulwt@gmail.com",
+    "summary": "GW Leading Women of Tomorrow is a student run, nonpartisan initiative that seeks to bridge the gender gap in leadership.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/leading-women-of-tomorrow-gw"
+  },
+  {
+    "school": "gwu",
+    "name": "Tau Beta Pi",
+    "slug": "tau-beta-pi",
+    "email": "taubetapi@gwmail.gwu.edu",
+    "summary": "Tau Beta Pi is an honors society for outstanding students in engineering.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/tau-beta-pi"
+  },
+  {
+    "school": "gwu",
+    "name": "Nu Rho Psi Honors Society in Neuroscience",
+    "slug": "nurhopsi",
+    "email": "nurhopsigw@gmail.com",
+    "summary": "Nu Rho Psi membership provides recognition of verified academic excellence in the interdisciplinary field of Neuroscience. Members of Nu Rho Psi are selected based on superior scholarly accomplishments as well as their excellent work in the laboratory.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/nurhopsi"
+  },
+  {
+    "school": "gwu",
+    "name": "Capitol Advertising",
+    "slug": "capitol-advertising",
+    "email": "capadgwu@gmail.com",
+    "summary": "Our purpose: to inspire and encourage advertising professionalism by exposing students to real-world marketing experiences. We're a sub-organization of the American Advertising Federation participating in the National Student Advertising Competition.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/capitol-advertising"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Robotics Team",
+    "slug": "robotics-team",
+    "email": "robotics@gwu.edu",
+    "summary": "The mission of GW Robotics is to spark an interest for robotics and provide opportunities for students to apply their knowledge from their course work through building robots.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/robotics-team"
+  },
+  {
+    "school": "gwu",
+    "name": "GW First Gen United",
+    "slug": "first-gen-united",
+    "email": "firstgenunited@gmail.com",
+    "summary": "First Gen United (FGU) is the only student organization for first-generation (first-gen) college students at GW. FGU offers a welcoming community for first-gen students and offers mentorship, academic resources, and social events.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/first-gen-united"
+  },
+  {
+    "school": "gwu",
+    "name": "Alpha Phi Fraternity",
+    "slug": "gwalphaphi",
+    "email": "gwualphaphipresident@gmail.com",
+    "summary": "The sisterhood of Alpha Phi stretches from coast to coast through 160 collegiate campuses and more than 200,000 members.  Sisters share a commitment to excellence and a strong desire to help one another and their communities.  Alpha Phis are leaders, s...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwalphaphi"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Partners in Health Engage",
+    "slug": "gw-partners-in-health-engage",
+    "email": "pihengage@gwu.edu",
+    "summary": "&quot;PIH Engage aims to build the right to health movement by growing and amplifying PIH's work to advance the right to health globally. PIH Engage brings resources and builds power to stabilize the financing of these systems globally. We recruit and trai...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-partners-in-health-engage"
+  },
+  {
+    "school": "gwu",
+    "name": "The GW Undergraduate Review",
+    "slug": "the-gw-undergraduate-review",
+    "email": "gwur@gwu.edu",
+    "summary": "Established in 2016, the GW Undergraduate Review is the premier publication of undergraduate research from students at The George Washington University in Washington, D.C.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/the-gw-undergraduate-review"
+  },
+  {
+    "school": "gwu",
+    "name": "GW A Cappella Council",
+    "slug": "gw-a-cappella-council",
+    "email": "gwacappella20@gmail.com",
+    "summary": "The GW A Cappella Council (GWAC) is a body consisting of the GW A Cappella groups on campus. Our mission is to provide a space for collaboration amongst the A Cappella community and a platform for ourselves to achieve clearer communication of our needs.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gw-a-cappella-council"
+  },
+  {
+    "school": "gwu",
+    "name": "China Development Student Think Tank(GWU Chapter)",
+    "slug": "china-development-student-think-tank-gwu-chapter",
+    "email": "jiayu.wang@gwmail.gwu.edu",
+    "summary": "China Development Student Think Tank (GWU Chapter) is a non-partisan student think tank focusing on global economic development, political reform, cultural diversity, and diplomatic strategy.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/china-development-student-think-tank-gwu-chapter"
+  },
+  {
+    "school": "gwu",
+    "name": "Libraries and Academic Innovation",
+    "slug": "libraries-and-academic-innovation",
+    "email": null,
+    "summary": "",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/libraries-and-academic-innovation"
+  },
+  {
+    "school": "gwu",
+    "name": "INCOSE GWU",
+    "slug": "incosegwu",
+    "email": "incose@gwu.edu",
+    "summary": "INCOSE GWU plans, organizes, and promotes events including seminars, industry showcases, alumni and enterprise networking opportunities, professional preparation events, and presentations of academic work by its members and affiliates.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/incosegwu"
+  },
+  {
+    "school": "gwu",
+    "name": "The Disabled Students Collective",
+    "slug": "the-disabled-students-collective",
+    "email": "gwu.dsc@gmail.com",
+    "summary": "The Disabled Students Collective is an organization founded by and for disabled students* at GWU! We welcome both disabled individuals and non-disabled allies to join us in weekly meetings and additional events focused on advocacy, community, and pride.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/the-disabled-students-collective"
+  },
+  {
+    "school": "gwu",
+    "name": "SEAS Office of Graduate Admissions and Student Services",
+    "slug": "seas-office-of-graduate-admissions-and-student-services",
+    "email": null,
+    "summary": "The School of Engineering and Applied Science (SEAS)- Office of Graduate Admissions & Student Services fosters academic, professional and personal growth for all graduate students. We collaborate with faculty and administrators to support and encourage...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/seas-office-of-graduate-admissions-and-student-services"
+  },
+  {
+    "school": "gwu",
+    "name": "Women in Finance Alliance",
+    "slug": "wifa",
+    "email": "wifa.gw@gmail.com",
+    "summary": "The mission of the Women in Finance Alliance is to provide female students interested in finance with networking opportunities, education, and targeted support and resources, with the purpose of helping our members achieve their professional aspirations.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/wifa"
+  },
+  {
+    "school": "gwu",
+    "name": "Rotaract Club of George Washington University",
+    "slug": "rotaract-club-of-george-washington-university",
+    "email": "rotaractclubgw@gmail.com",
+    "summary": "The Rotaract Club of George Washington University is Rotary-sponsored international youth program that fosters leadership, professional work and community service for young men and women between the ages 18–30.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/rotaract-club-of-george-washington-university"
+  },
+  {
+    "school": "gwu",
+    "name": "Forensic Psychology Student Association",
+    "slug": "forensic-psychology-student-association",
+    "email": "forensicpsychagw@gmail.com",
+    "summary": "The purpose of the Forensic Psychology Student Association (FPSA) is to enrich the overall experience of graduate students enrolled in the M.A. Forensic Psychology program.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/forensic-psychology-student-association"
+  },
+  {
+    "school": "gwu",
+    "name": "Clark Hall",
+    "slug": "clark-hall",
+    "email": "liberti.robinson@gwu.edu",
+    "summary": "Clark Hall, a predominately first-year student co-ed living option on the Mount Vernon campus, offers students traditional style double suites with shared bathrooms. Clark Hall is directly across the street from Post Hall, one of the academic buildings...",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/clark-hall"
+  },
+  {
+    "school": "gwu",
+    "name": "Psychology Graduate Association",
+    "slug": "psychology-graduate-association",
+    "email": "myla.lyons@gwmail.gwu.edu",
+    "summary": "The Psychology Graduate Association (PGA) is a collective of all GW psychology graduate programs which aims to encourage cross-disciplinary collaboration, advocate for students’ interests, and provide opportunities for professional development.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/psychology-graduate-association"
+  },
+  {
+    "school": "gwu",
+    "name": "Org Help",
+    "slug": "orghelp",
+    "email": "orghelp@gwu.edu",
+    "summary": "Org Help is the hub for GW student organization resources, including key documents, Engage How-Tos, and more.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/orghelp"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Women in Economics",
+    "slug": "women-in-econ",
+    "email": "womeninecon@gwu.edu",
+    "summary": "GW Women in Economics seeks to increase women’s representation and support women’s participation in economics, at GWU and in the broader profession.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/women-in-econ"
+  },
+  {
+    "school": "gwu",
+    "name": "Compass: Impact Consulting at GW",
+    "slug": "compass",
+    "email": "compassimpactadvisors@gmail.com",
+    "summary": "Strategic advisors who work with investors, enterprises and start-ups to accelerate growth whilst driving social change. Compass members perform analyses, make recommendations, and create quality deliverables for clients.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/compass"
+  },
+  {
+    "school": "gwu",
+    "name": "GW ALPFA",
+    "slug": "gwalpfa",
+    "email": "gwalpfa@gmail.com",
+    "summary": "The Association of Latino Professionals for America (ALPFA) is a Latino-serving national organization promoting professional development among young professional, Latino college students.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwalpfa"
+  },
+  {
+    "school": "gwu",
+    "name": "Student-Alumni Programs",
+    "slug": "sap",
+    "email": "alumni@gwu.edu",
+    "summary": "Student-alumni programs gives students an opportunities to make connections over 330,000 GW alumni through out the world.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/sap"
+  },
+  {
+    "school": "gwu",
+    "name": "The GW Local",
+    "slug": "gwlocal",
+    "email": "nina.rodriguez@gwmail.gwu.edu",
+    "summary": "A student life blog that encompasses all aspects of being a student at GW. A website that is a one-stop-shop for information about campus-wide news, events, and academics.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwlocal"
+  },
+  {
+    "school": "gwu",
+    "name": "Queer and Trans People Of Color Association",
+    "slug": "qtpoca",
+    "email": "gwu.qtpoca@gmail.com",
+    "summary": "QTPOCA will address the social, cultural, and political problems that LGBTQ+ POC face both on and off campus. Our organization will host many opportunities for both service-oriented programs and social events that aim to support the LGBTQ+ POC community.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/qtpoca"
+  },
+  {
+    "school": "gwu",
+    "name": "ALIANZA",
+    "slug": "alianza",
+    "email": "alianzagwu@gmail.com",
+    "summary": "Alianza is an organization at GW dedicated to creating a safe space for the Afro-Latinx community. Ensuring they see themselves reflected in on-campus programming and the professional world.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/alianza"
+  },
+  {
+    "school": "gwu",
+    "name": "International Services Office",
+    "slug": "gwinternationalservicesoffice",
+    "email": "iso@gwu.edu",
+    "summary": "The International Services Office (ISO) facilitates international educational exchange through its services and programs.  It serves as the primary administrative, programming, and advising office for the GW international community.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwinternationalservicesoffice"
+  },
+  {
+    "school": "gwu",
+    "name": "National Press Photographers Association",
+    "slug": "gwu_nppa",
+    "email": "gwunppa@gmail.com",
+    "summary": "The National Press Photographers Association is dedicated to the advancement of visual journalism – its creation, practice, training, editing and distribution – in all news media and works to promote its role as a vital public service.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwu_nppa"
+  },
+  {
+    "school": "gwu",
+    "name": "Undergraduate Economics Society",
+    "slug": "ues",
+    "email": "ues.gwu@gmail.com",
+    "summary": "UES is a student organization focused on providing GW students in economics and adjacent fields with professional resources, research and publication opportunities, and a like-minded community.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/ues"
+  },
+  {
+    "school": "gwu",
+    "name": "Puerto Rican Student Association at GWU",
+    "slug": "prsaatgw",
+    "email": "prsa.gwu@gmail.com",
+    "summary": "The goal of the PRSA at GW is to form a community in which Puerto Rican and non-Puerto Rican students alike can come together to cultivate understanding about the island's history and traditions through educational and cultural events.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/prsaatgw"
+  },
+  {
+    "school": "gwu",
+    "name": "Class Year Programs",
+    "slug": "classyearprograms",
+    "email": "gwxdc@gwu.edu",
+    "summary": "Our office designs unique experiences tailored to each class year,We believe in creating opportunities for students to connect with their peers, build lasting memories, and embracing GW traditions.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/classyearprograms"
+  },
+  {
+    "school": "gwu",
+    "name": "Black Defiance",
+    "slug": "gwbd",
+    "email": "blackdefiancegw@gmail.com",
+    "summary": "Black Defiance focuses on eradicating white supremacy and injustices against Black people within our own university (GW), in addition, to DC as a whole through a feminist lens. All in all, fighting racism and the patriarchy our university and a movement.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwbd"
+  },
+  {
+    "school": "gwu",
+    "name": "Criminal Justice Student Association",
+    "slug": "gwucjsa",
+    "email": "gwucjsa@gmail.com",
+    "summary": "The Criminal Justice Student Association (CJSA) is a student organization on campus that allows students to come together who are seeking a better understanding of the criminal justice issues that our country is currently struggling with.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwucjsa"
+  },
+  {
+    "school": "gwu",
+    "name": "Black Professionals in International Affairs",
+    "slug": "ybpia",
+    "email": "ybpia@email.gwu.edu",
+    "summary": "Black Professionals in International Affairs has a purpose of increasing and enhancing the participation of African &amp; African Diaspora students in both the Elliott School of International Affairs and the field of international relations overall.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/ybpia"
+  },
+  {
+    "school": "gwu",
+    "name": "Wellbeing at GW",
+    "slug": "raiseupgw",
+    "email": "wellbeing@gwu.edu",
+    "summary": "Sexy. Smart. Supported.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/raiseupgw"
+  },
+  {
+    "school": "gwu",
+    "name": "Data Science Association",
+    "slug": "datascience-gsa",
+    "email": "datasci@gwu.edu",
+    "summary": "The GW Data Science Association (GW DSA) is committed to elevating the experience of all Graduate and Undergraduate students studying Data Science at GWU through educational, social, and networking events.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/datascience-gsa"
+  },
+  {
+    "school": "gwu",
+    "name": "Swing Left GWU",
+    "slug": "swingleftgwu",
+    "email": "swingleftgwu@gmail.com",
+    "summary": "Our mission is to mobilize students to volunteer, using Swing Left’s tools and strategy, to elect Democrats up and down the ballot. We provide an opportunity for students to take action in the most effective way and transform our government.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/swingleftgwu"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Eco-Reps Program",
+    "slug": "cgw",
+    "email": "ecoreps@gwu.edu",
+    "summary": "Eco-Reps are sustainability leaders who promote a culture of sustainability within the GW residence halls and community.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/cgw"
+  },
+  {
+    "school": "gwu",
+    "name": "Office of Advocacy and Support",
+    "slug": "oas",
+    "email": "oas@gwu.edu",
+    "summary": "The Office of Advocacy and Support (OAS) provides trauma-informed and healing-centered confidential support to GW students impacted by sexual violence, relationship violence, and/or stalking.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/oas"
+  },
+  {
+    "school": "gwu",
+    "name": "Environmental Justice Action Network",
+    "slug": "ejan",
+    "email": "gwu.ejan@gmail.com",
+    "summary": "The Environmental Justice Action Network (EJAN) is a coalition of GW students that advance the field of Environmental Justice through an intersectional and inclusive framework. Our focal points are education, direct action and advocacy.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/ejan"
+  },
+  {
+    "school": "gwu",
+    "name": "The Women's Network: GW",
+    "slug": "thewomensnetwork",
+    "email": "thewomensnetwork.gw@gmail.com",
+    "summary": "A Network for Women",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/thewomensnetwork"
+  },
+  {
+    "school": "gwu",
+    "name": "Conflict Education and Student Accountability",
+    "slug": "srr",
+    "email": "cesa@gwu.edu",
+    "summary": "Conflict Education & Student Accountability engages across GW to foster equitable and restorative accountability to community standards.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/srr"
+  },
+  {
+    "school": "gwu",
+    "name": "The GW Sailing Team",
+    "slug": "gwsailing",
+    "email": "gwsailing@gwu.edu",
+    "summary": "The GW sailing team's purpose is to form a community of competitive sailors focused on learning and growing as a team on the intercollegiate level. Please check out our website (gwsailing.com) to learn more about us.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwsailing"
+  },
+  {
+    "school": "gwu",
+    "name": "Dear Asian Youth",
+    "slug": "dearasianyouth",
+    "email": "dearasianyouthgw@gmail.com",
+    "summary": "Dear Asian Youth at GW is cultural organization for Asians and Non-Asian allies dedicated to amplifying Asian voices and narratives through our literary arts magazine and other digital platforms.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/dearasianyouth"
+  },
+  {
+    "school": "gwu",
+    "name": "The Black Girl Pre-Health Collective",
+    "slug": "bgpc",
+    "email": "gwubgpc@gmail.com",
+    "summary": "The purpose of the Black Girl Pre-Health Collective is to create a space for mentorship, unity, and motivation for the Black girls in Pre-Health concentrations at George Washington University.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/bgpc"
+  },
+  {
+    "school": "gwu",
+    "name": "Student Consortium on Women, Peace and Security George Washington University Chapter",
+    "slug": "wps",
+    "email": "wpselliott@gmail.com",
+    "summary": "In collaboration with the US Civil Society Working Group on WPS (U.S. CSWG), our organization aims to promote awareness of the implications of women and gender in security and foreign policy.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/wps"
+  },
+  {
+    "school": "gwu",
+    "name": "Hairapeutic Beauty",
+    "slug": "hairapeuticbeauty",
+    "email": "hairapeutic.beauty@gmail.com ",
+    "summary": "Everything hair! To educate and mentor young, college women and men about their kinks, coils, and waves while creating a safe space for them to connect with upcoming hairstylists on campus.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/hairapeuticbeauty"
+  },
+  {
+    "school": "gwu",
+    "name": "Corcoran School of the Arts & Design",
+    "slug": "corcoran",
+    "email": "corcnews@email.gwu.edu",
+    "summary": "Part of the Columbian College of Arts and Sciences, the Corcoran School of the Arts & Design at the George Washington University prepares its graduates to be the next generation of global leaders.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/corcoran"
+  },
+  {
+    "school": "gwu",
+    "name": "OneWorld GW",
+    "slug": "oneworldgw",
+    "email": "natalie.geiger@gwu.edu",
+    "summary": "OneWorld GW is a non-partisan environmental organization dedicated to combating climate change, building a sustainable future, and reconnecting students with the natural world.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/oneworldgw"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Entrepreneurship Club",
+    "slug": "gwec",
+    "email": "gwec@email.gwu.edu",
+    "summary": "GW Entrepreneurship Club is a place for you to create, learn, and network. GWEC was created by students, for students, and invites anyone who is curious about entrepreneurship to join.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwec"
+  },
+  {
+    "school": "gwu",
+    "name": "BridgeGW",
+    "slug": "bridgegw",
+    "email": "thebridgegw@gmail.com",
+    "summary": "The mission of The George Washington University chapter of BridgeUSA (BridgeGW) is to promote positive political discourse, viewpoint diversity, and leadership through means of discussion, grassroots impact, and events on campus.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/bridgegw"
+  },
+  {
+    "school": "gwu",
+    "name": "Women in Cybersecurity at The George Washington University",
+    "slug": "wicys",
+    "email": "wicys@gwu.edu",
+    "summary": "At WiCyS, a global community of women, allies, and advocates, we are dedicated to bringing talented women together to celebrate and foster their passion and drive for cybersecurity through professional development programs, conferences, and career fairs.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/wicys"
+  },
+  {
+    "school": "gwu",
+    "name": "American Lung Cancer Screening Initiative",
+    "slug": "gwualcsi",
+    "email": null,
+    "summary": "The goal of this organization is to raise awareness about lung cancer and to increase the rate of lung cancer screening amongst high risk patients.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwualcsi"
+  },
+  {
+    "school": "gwu",
+    "name": "Museum Studies Student Association",
+    "slug": "mssa",
+    "email": "gwmssa@gmail.com",
+    "summary": "The official student association of the GW Graduate Museum Studies Program.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/mssa"
+  },
+  {
+    "school": "gwu",
+    "name": "Office for Diversity, Equity, and Community Engagement",
+    "slug": "odece",
+    "email": "jswest@gwu.edu",
+    "summary": "To be completed",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/odece"
+  },
+  {
+    "school": "gwu",
+    "name": "ESIA South Asian Board",
+    "slug": "notavailable",
+    "email": null,
+    "summary": "The ESIA South Asian Board aims to provide a platform for professional development and networking opportunities to South Asian graduate-level students at the Elliott School of International Affairs.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/notavailable"
+  },
+  {
+    "school": "gwu",
+    "name": "Women's Leadership Program",
+    "slug": "wlp",
+    "email": "wlp@gwu.edu",
+    "summary": "The Elizabeth J. Somers Women's Leadership Program (WLP) is a selective year-long living and learning program for first year students interested in developing leadership in the context of a discipline.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/wlp"
+  },
+  {
+    "school": "gwu",
+    "name": "Stock and Portfolio Management Club",
+    "slug": "stockandportfoliomanagementclub",
+    "email": "gwu.spm@gmail.com",
+    "summary": "Who are we?\r\nThe GW SPMC is a completely student-run organization created to help financial literacy, create a positive environment to learn and talk about finance and the markets, and provide real-life trading experience our Analyst Fund.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/stockandportfoliomanagementclub"
+  },
+  {
+    "school": "gwu",
+    "name": "Biology Graduate Student Council",
+    "slug": "biogradcouncil",
+    "email": "gwbiograduatestudentcouncil@gmail.com",
+    "summary": "BGSC provides an inclusive environment for students to share concerns,\r\nconnect over shared interests, and participate in social events, all while giving graduate students\r\nin the Biological Sciences Department a voice in their education.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/biogradcouncil"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Startup Avenue",
+    "slug": "startupavenue",
+    "email": "drew.rennell@gwu.edu",
+    "summary": "GW Startup Avenue is a community for aspiring entrepreneurs at GW, bringing together both future and existing founders. We provide a strong network, structure, and practical resources to help ventures develop and grow.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/startupavenue"
+  },
+  {
+    "school": "gwu",
+    "name": "PGP at GW",
+    "slug": "pgpatgw",
+    "email": "pgpatgw@gmail.com",
+    "summary": "In PGP at GW, we support the mission and vision of The Petey Greene Program by supporting students interested in educational and social justice for system-affected people. We focus on campus-based advocacy and supporting our tutors.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/pgpatgw"
+  },
+  {
+    "school": "gwu",
+    "name": "Security Policy Studies Program Student Board",
+    "slug": "spsboard",
+    "email": "carmellajoelle@gwu.edu",
+    "summary": "The SPS Board is a student-led organization that represents students in the SPS Master’s program at ESIA. It is dedicated to promoting inclusion, access, support, community, and student well-being through social, academic, and professional events.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/spsboard"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Network of Enlightened Women",
+    "slug": "newatgw",
+    "email": "newatgw@gmail.com",
+    "summary": "NeW is dedicated to fostering the education and leadership of culturally conservative and independent-thinking women.  It provides intellectual diversity on college campuses and in public discourse surrounding women, policy, and culture.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/newatgw"
+  },
+  {
+    "school": "gwu",
+    "name": "American Civil Liberties Union",
+    "slug": "aclugw",
+    "email": "aclugw@gmail.com",
+    "summary": "ACLU-D.C. at GW is a student chapter of the American Civil Liberties Union (ACLU), an organization founded to protect civil rights. We aim to amplify the mission of the ACLU through community engagement, civic education, and campus outreach.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/aclugw"
+  },
+  {
+    "school": "gwu",
+    "name": "The D&D Syndicate",
+    "slug": "thesyndicate",
+    "email": "thesyndicate@gwu.edu",
+    "summary": "The D&D Syndicate is a center for adventure and imagination, designed to help players connect, organize, and play Dungeons and Dragons by Wizards of the Coast.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/thesyndicate"
+  },
+  {
+    "school": "gwu",
+    "name": "Asian American Journalists Association - GW",
+    "slug": "aaja",
+    "email": "aajagdub@gmail.com",
+    "summary": "We, the members of the GW Asian American Journalists Association, seek to increase Asian American and Pacific Islander perspectives and representation in media, newsrooms and stories by empowering aspiring journalists on GW’s campus.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/aaja"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Association of Hispanic Journalists",
+    "slug": "gwahj",
+    "email": "gwuahj@gmail.com",
+    "summary": "The GWAHJ is an organization open to all students of any background or ethnicity that aims to connect all students interested in journalism, political communication, and communication with an evolving community of Hispanic newsmakers.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwahj"
+  },
+  {
+    "school": "gwu",
+    "name": "The George Washington Museum & The Textile Museum",
+    "slug": "textilemuseum",
+    "email": "museuminfo@gwu.edu",
+    "summary": "On Campus Textile Museum",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/textilemuseum"
+  },
+  {
+    "school": "gwu",
+    "name": "Kappa Omega Alpha",
+    "slug": "gwukoa",
+    "email": "gwukoa@gmail.com",
+    "summary": "The Kappa Omega Alpha (KOA) Pre-Professional Public Policy Society fosters undergraduate engagement in public policy-related fields. KOA upholds the values of professionalism, service, community, and empowerment.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwukoa"
+  },
+  {
+    "school": "gwu",
+    "name": "The George Washington University Astronomy Club",
+    "slug": "astronomyclub",
+    "email": "kimjisung0301@gwu.edu",
+    "summary": "An organization that gathered with a group of individuals who share a passion for astronomy. The club will scientifically study and discuss celestial objects such as stars, galaxies, and the universe beyond.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/astronomyclub"
+  },
+  {
+    "school": "gwu",
+    "name": "Kappa Alpha Pi - Alpha Delta",
+    "slug": "kapigwu",
+    "email": "kapi.gwu@gmail.com",
+    "summary": "Kappa Alpha Pi Pre-Law and Government Co-ed Professional Fraternity exists nationally to foster a gender-inclusive brotherhood for undergraduate students interested in law and government.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/kapigwu"
+  },
+  {
+    "school": "gwu",
+    "name": "Japanese Student Union",
+    "slug": "jsuatgwu",
+    "email": "japanesestudentuniongwu@gmail.com",
+    "summary": "JSU, or the Japanese Student Union, is a student organization that allows GWU students with Japanese heritage or background to promote Japanese culture throughout the GWU community and the DMV area via cultural, social, and professional events",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/jsuatgwu"
+  },
+  {
+    "school": "gwu",
+    "name": "SoulfulBrewings Club",
+    "slug": "soulfulbrewingsclub",
+    "email": "zfabunmi87@gwmail.gwu.edu",
+    "summary": "Club SoulfulBrewing is a group dedicated to sharing culture, and discovering cultures in a fun and artistic way. We create a safe space for radical art and self-care as an act of freedom and we drink tea each meeting!",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/soulfulbrewingsclub"
+  },
+  {
+    "school": "gwu",
+    "name": "American Studies Graduate Student Association",
+    "slug": "amstgsa",
+    "email": "matthew.marciello@gwmail.gwu.edu",
+    "summary": "The American Studies Graduate Student Association exists to offer a venue for graduate students in the American Studies department at GWU to further their professional development, offer mutual academic support, and foster an intellectual community.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/amstgsa"
+  },
+  {
+    "school": "gwu",
+    "name": "Responsible Fashion Collective",
+    "slug": "responsiblefashioncollective",
+    "email": "rfcollective@gwu.edu",
+    "summary": "Advocating for responsible fashion practices on campus.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/responsiblefashioncollective"
+  },
+  {
+    "school": "gwu",
+    "name": "George Washington University Student Chapter of the American Statistical Association",
+    "slug": "gwu_asa",
+    "email": "asastudentchap@gwu.edu",
+    "summary": "The American Statistical Association is the primary national organization for statisticians and maintains a journal, membership rolls, and hosts conferences. This club is to be the GWU student chapter of the ASA.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwu_asa"
+  },
+  {
+    "school": "gwu",
+    "name": "Operation United States-Africa",
+    "slug": "opusafrica",
+    "email": "matthew.volfson@gwu.edu",
+    "summary": "The purpose of OPUS-AFRICA is to foster discussion regarding US-African affairs through guest speakers, panel discussion, OPUS-AFRICA's blog, and media engagement for international affairs professionals and young Africanists.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/opusafrica"
+  },
+  {
+    "school": "gwu",
+    "name": "Southeast Asia Student Network",
+    "slug": "seanet",
+    "email": "seanet2024@gmail.com",
+    "summary": "SEANET is an organization focusing on promoting cultural awareness and diversity of Southeast Asia, providing a space for communication on topics of interest, representing GW's Southeast Asia community and providing academic and professional networking.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/seanet"
+  },
+  {
+    "school": "gwu",
+    "name": "George Washington University Korean Graduate Student Association",
+    "slug": "gwkgsa",
+    "email": "gwkgsa@gwu.edu",
+    "summary": "The primary objective is to establish a platform where Korean graduate students can interact and build relationships through social networking. The club will provide members with opportunities to foster academic, professional, and personal connections.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwkgsa"
+  },
+  {
+    "school": "gwu",
+    "name": "Black Graduate Student Organization",
+    "slug": "blackgraduatestudentorg",
+    "email": "bgsogwu@gmail.com",
+    "summary": "The purpose of the Black Graduate Student Organization at George Washington University is to promote a sense of unity amongst Black professions in the George Washington community during their pursuit of a graduate school education.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/blackgraduatestudentorg"
+  },
+  {
+    "school": "gwu",
+    "name": "The George Washington University Chapter of the Society of Physics Students",
+    "slug": "gwsps",
+    "email": "onippejeakins@gwu.edu",
+    "summary": "The purpose of this Chapter shall be the advancement and diffusion of knowledge of physics, the encouragement of interest in physics throughout the academic and local communities, and the introduction of students to the professional community.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwsps"
+  },
+  {
+    "school": "gwu",
+    "name": "Vocal Chords Journal at GW",
+    "slug": "vocalchords",
+    "email": "vocalchordsgw@gwmail.gwu.edu",
+    "summary": "Our club is an open-submission web-journal with student-run workshops. Our journal aims to publish anything from fiction and prose to philosophical debate or video essays with an overarching social commentary seen on the GW campus and in the world.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/vocalchords"
+  },
+  {
+    "school": "gwu",
+    "name": "National Society of Collegiate Scholars",
+    "slug": "nscs",
+    "email": "nscs_chapter@gwmail.gwu.edu",
+    "summary": "The National Society of Collegiate Scholars (NSCS) is a non-profit honors organization for high achieving first and second year college students.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/nscs"
+  },
+  {
+    "school": "gwu",
+    "name": "Black Law Students Association",
+    "slug": "gwlawblsa",
+    "email": "blsa@law.gwu.edu",
+    "summary": "The Black Law Students Association (BLSA) at The George Washington University Law School is a service organization aimed at promoting academic excellence, professional development, community service, and social unity among our members.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwlawblsa"
+  },
+  {
+    "school": "gwu",
+    "name": "Lawmakers",
+    "slug": "lawmakers",
+    "email": "lawmakers@law.gwu.edu",
+    "summary": "Lawmakers’ mission is to create an open-minded community to learn about government lawyering by hosting speaker events, legislative simulations and field trips.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/lawmakers"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Law Association for Women",
+    "slug": "lawwomen",
+    "email": "Amanda Hichez",
+    "summary": "The Law Association for Women is the law school's only affinity group which exclusively represents women on our campus.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/lawwomen"
+  },
+  {
+    "school": "gwu",
+    "name": "Immigration Law Association",
+    "slug": "gwlawila",
+    "email": "ila@law.gwu.edu",
+    "summary": "Founded in the Spring Semester of 2009, the Immigration Law Association (ILA) strives to improve The George Washington University Law School's community's knowledge of immigration law and current immigration issues.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwlawila"
+  },
+  {
+    "school": "gwu",
+    "name": "Asian/Pacific American Law Students Association",
+    "slug": "apalsa",
+    "email": "apalsa@law.gwu.edu",
+    "summary": "The Asian/Pacific American Law Students Association (APALSA) is a national organization for Asian/Pacific American and other interested law students. Its goals are to provide academic, career, and social support for incoming and continuing students.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/apalsa"
+  },
+  {
+    "school": "gwu",
+    "name": "Evening Law Student Association",
+    "slug": "elsa",
+    "email": null,
+    "summary": "The purpose of the Evening Law Student Association shall be to promote the welfare of all evening law students through advocacy, community building, and mentorship.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/elsa"
+  },
+  {
+    "school": "gwu",
+    "name": "If/When/How: Lawyering for Reproductive Justice",
+    "slug": "ifwhenhow",
+    "email": "tori.kendle@law.gwu.edu",
+    "summary": "If/When/How is committed to educating, organizing, and supporting pro-choice law students to ensure that a new generation of lawyers will be prepared to successfully defend and expand reproductive rights.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/ifwhenhow"
+  },
+  {
+    "school": "gwu",
+    "name": "Student Health Law Association",
+    "slug": "studenthealthlawassociation",
+    "email": "moyosore.olayemi@law.gwu.edu",
+    "summary": "SHLA is established to increase student interest in the growing field of health law. It will accomplish this purpose through activities that include informing students about local professional seminars and conferences focused on health law.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/studenthealthlawassociation"
+  },
+  {
+    "school": "gwu",
+    "name": "Consumer Law Association",
+    "slug": "cla",
+    "email": "consumerlaw@law.gwu.edu",
+    "summary": "The Consumer Law Association (CLA) strives to provide a forum for students interested in consumer protection law to explore the field. Note: this is a law school student organization, open to law students only.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/cla"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Law First Generation Professionals",
+    "slug": "gwlawfgp",
+    "email": "bridget.gidlow@law.gwu.edu",
+    "summary": "FGP promotes events and knowledge sharing among students who are first-generation law students or will be their family's first lawyer.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwlawfgp"
+  },
+  {
+    "school": "gwu",
+    "name": "Labor and Employment Law Society",
+    "slug": "lels",
+    "email": "lels@law.gwu.edu",
+    "summary": "The Labor and Employment Law Society brings together students, professors and professionals in the Labor and Employment Law field.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/lels"
+  },
+  {
+    "school": "gwu",
+    "name": "South Asian Law Students Association",
+    "slug": "wwwinstagramcomsalsagwlaw",
+    "email": "salsa@law.gwu.edu",
+    "summary": "The South Asian Law Students Association (“SALSA”) of The George Washington University Law School (“GW Law”) is established for the purpose of providing a strong social, academic, and career network for law students of South Asian heritage.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/wwwinstagramcomsalsagwlaw"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Votes",
+    "slug": "gwvotes",
+    "email": "gwvotes@gwu.edu",
+    "summary": "GW Votes is a nonpartisan coalition of students, faculty, and staff that promotes voter registration and participation among our students.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwvotes"
+  },
+  {
+    "school": "gwu",
+    "name": "Real Estate Law Association",
+    "slug": "rela",
+    "email": "realestatelaw@law.gwu.edu",
+    "summary": "The Real Estate Law Association (“RELA”) serves to expose law students to the field of real estate and real property.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/rela"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Law International Law Society",
+    "slug": "gwlawils",
+    "email": "ils@law.gwu.edu",
+    "summary": "ILS hosts events on international law, including speaker panels, networking events, and a major Embassy event. In past years, panels have addressed topics such as international arbitration, trade, human rights, and international business law.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwlawils"
+  },
+  {
+    "school": "gwu",
+    "name": "Military Law Society",
+    "slug": "militarylawsociety",
+    "email": "mls@law.gwu.edu",
+    "summary": "MLS exists to promote interest in military law careers among GW Law students. We host events to achieve this goal and connect students with military law practitioners.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/militarylawsociety"
+  },
+  {
+    "school": "gwu",
+    "name": "Middle Eastern and North African Law Student Association",
+    "slug": "menalsa",
+    "email": "mena@law.gwu.edu",
+    "summary": "The MIDDLE EASTERN AND NORTH AFRICAN LAW SOCIETY (“MENALSA”) of The George Washington University Law School is established for the purpose of promoting and supporting a community of students of Middle Eastern or North African (\"MENA\") background.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/menalsa"
+  },
+  {
+    "school": "gwu",
+    "name": "Veteran Law Student Association",
+    "slug": "vlsa",
+    "email": null,
+    "summary": "For veteran law students to encourage camaraderie and networking with fellow veterans and professionals.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/vlsa"
+  },
+  {
+    "school": "gwu",
+    "name": "Environmental and Energy Law Association at GW Law",
+    "slug": "eela",
+    "email": "gwueela@law.gwu.edu",
+    "summary": "EELA introduces law students to the wide variety of Environmental & Energy Law-related career paths within the private and public sectors, and connects students, professors, and professionals in the field through our many events.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/eela"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Law Students for Justice in Palestine",
+    "slug": "gwlsjp",
+    "email": "lsjp@law.gwu.edu",
+    "summary": "The George Washington University Law Students for Justice in Palestine (GW LSJP) is a community for law students to learn about, discuss, and advocate for justice, liberation, and recognition of the rights of the Palestinian people.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwlsjp"
+  },
+  {
+    "school": "gwu",
+    "name": "Nota Bene",
+    "slug": "notabene",
+    "email": "notabene@law.gwu.edu",
+    "summary": "GW Law's independent student news publication.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/notabene"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Defenders",
+    "slug": "gwdefenders",
+    "email": "zoe.jacobs@law.gwu.edu",
+    "summary": "GW Defenders is committed to developing and sustaining a robust community of the future public defenders at The George Washington Law School.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwdefenders"
+  },
+  {
+    "school": "gwu",
+    "name": "The George Washington University Law School Womxn of Color Collective",
+    "slug": "gwwocc",
+    "email": "wocc@law.gwu.edu",
+    "summary": "WoCC serves to empower and inspire women and non-binary POCs by providing space for collective healing, cultural humility and solidarity as a close-knit community of people dedicated to the advancement of racial and gender justice within the legal field.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwwocc"
+  },
+  {
+    "school": "gwu",
+    "name": "Plaintiffs' Law Association",
+    "slug": "pla",
+    "email": "a.eatenson@law.gwu.edu",
+    "summary": "plaintiff litigation and present exposure to law students about plaintiff career paths. The PLA connects students with attorneys who “represent victims of misconduct or negligence, advocate for justice, and hold powerful interests accountable.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/pla"
+  },
+  {
+    "school": "gwu",
+    "name": "Corporate and Business Law Society",
+    "slug": "cbls",
+    "email": "cbls@law.gwu.edu",
+    "summary": "The Corporate and Business Law Society is founded for the purpose of providing its members with opportunities to gain insight into corporate and business law practices, connecting with practicing attorneys, and supporting members in their job searches.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/cbls"
+  },
+  {
+    "school": "gwu",
+    "name": "Latin American Law Student Association",
+    "slug": "lalsa",
+    "email": "ana.cardenasmanrique@law.gwu.edu",
+    "summary": "LALSA supports Hispanic/Latin law students by fostering an appreciation for Hispanic culture and language. LALSA encourages public interest involvement, hosts career and legal speakers, offers career and academic support for 1Ls, and social events.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/lalsa"
+  },
+  {
+    "school": "gwu",
+    "name": "MBA Association",
+    "slug": "mbaassociation",
+    "email": null,
+    "summary": "The MBA Association (MBAA) aims to elevate the reputation of GW's Graduate School of Business by enriching the student experience, fostering community, and serving as a unified voice for MBA students to the University administration.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/mbaassociation"
+  },
+  {
+    "school": "gwu",
+    "name": "Tech Law Student Association",
+    "slug": "techlaw",
+    "email": "techlaw@law.gwu.edu",
+    "summary": "The Tech Law Students Association is a group committed to cutting-edge legal issues related to the internet or computers. These issues include intellectual property, internet privacy, computer crime, and many other subjects.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/techlaw"
+  },
+  {
+    "school": "gwu",
+    "name": "Pre-PA Society at GW",
+    "slug": "prepasocietyatgw",
+    "email": "gwprepasociety@gmail.com",
+    "summary": "The GW Pre-PA Society fosters an inclusive community for students interested in becoming Physician Assistants. We provide resources, workshops, mentorship, service events, and clinical experiences to support professional development throughout undergrad.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/prepasocietyatgw"
+  },
+  {
+    "school": "gwu",
+    "name": "Baja at GW",
+    "slug": "baja",
+    "email": "baja@gwu.edu",
+    "summary": "Baja at GWU competes in the Baja SAE international competition. The team designs, builds, and drives a four-wheel off-road car and competes in a variety of off-roading events against other schools from across the country.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/baja"
+  },
+  {
+    "school": "gwu",
+    "name": "Pi Sigma Alpha",
+    "slug": "pisigmaalpha",
+    "email": "office@pisigmaalpha.org",
+    "summary": "Pi Sigma Alpha, the National Political Science Honor Society, is the only honor society for university students of political and social sciences in the United States. Its purpose is to recognize and promote high academic achievement.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/pisigmaalpha"
+  },
+  {
+    "school": "gwu",
+    "name": "Fuyao Hanfu Association",
+    "slug": "fuyao",
+    "email": "siming.yang@gwu.edu",
+    "summary": "FUYAO is dedicated to the appreciation and promotion of the fashion of Hanfu, the traditional attire of Han people in ancient China, as well as other ethnic attires, and their historical aesthetics through endeavors like performing arts and walk shows.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/fuyao"
+  },
+  {
+    "school": "gwu",
+    "name": "GW Athletics",
+    "slug": "gwathletics",
+    "email": "t.wilkins@gwu.edu",
+    "summary": "GW Athletics",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/gwathletics"
+  },
+  {
+    "school": "gwu",
+    "name": "Open Source Program Office",
+    "slug": "ospo",
+    "email": null,
+    "summary": "The Open Source Program Office (OSPO) coordinates and supports open-source software across the university, helping students, researchers, and educators embrace open-source tools and practices.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/ospo"
+  },
+  {
+    "school": "gwu",
+    "name": "Blaze The Tra1l LLC",
+    "slug": "blazethetrailllc",
+    "email": "firstgen@gwu.edu",
+    "summary": "The GW First-Generation Living-Learning Community is a residential experience developed to support our first-generation college students and assist them with their transition from high school into college life at GW.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/blazethetrailllc"
+  },
+  {
+    "school": "gwu",
+    "name": "Civic House LLC",
+    "slug": "civichousellc",
+    "email": "imanil@gwu.edu",
+    "summary": "The Civic House Community is a highly-selective first-year program for students interested in becoming active citizens engaged in their communities.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/civichousellc"
+  },
+  {
+    "school": "gwu",
+    "name": "Corcoran Arts + Design LLC",
+    "slug": "corcoranartsanddesignllc",
+    "email": "corcoranschool@gwu.edu",
+    "summary": "The Arts + Design Community gives first-year GW students the option to participate in a creative, intellectual living environment.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/corcoranartsanddesignllc"
+  },
+  {
+    "school": "gwu",
+    "name": "AI Forum",
+    "slug": "aiforum",
+    "email": null,
+    "summary": "GW Law AI Forum is a student-led community building practical AI competence for future lawyers through forums, workshops, and practitioner discussions on practice, governance, and ethics.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/aiforum"
+  },
+  {
+    "school": "gwu",
+    "name": "Argentine Student Association",
+    "slug": "argentinestudentassociation",
+    "email": null,
+    "summary": "The Argentine Student Association is a point of connection between Argentine Identity and GW core values. Through social and cultural events, we aim to provide a second home to GW's Argentine population and opportunities for professional grow.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/argentinestudentassociation"
+  },
+  {
+    "school": "gwu",
+    "name": "Public Interest Law Association",
+    "slug": "pila",
+    "email": "gwupila@gmail.com",
+    "summary": "PILA seeks to leverage law as a driving force for justice, equity, and social change by building a national network of undergraduates, law students, and legal professionals dedicated to public interest work.",
+    "categories": [],
+    "url": "https://gwu.campuslabs.com/engage/organization/pila"
+  }
+]

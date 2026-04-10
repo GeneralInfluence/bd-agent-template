@@ -1,0 +1,1946 @@
+[
+  {
+    "school": "rice",
+    "name": "Student Center",
+    "slug": "studentcenter",
+    "email": "studentcenter@rice.edu",
+    "summary": "The Student Center is comprised of three functional areas: Facilities & Events, Student Activities, and Student Run Businesses.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/studentcenter"
+  },
+  {
+    "school": "rice",
+    "name": "Office of Student Media",
+    "slug": "studentmedia",
+    "email": "studentmedia@rice.edu",
+    "summary": "The Office of Student Media facilitates student development within blanket tax media organizations through training, advising and mentoring students in each medium under the auspices of a designated public forum supporting the tenets of the First Amendme",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/studentmedia"
+  },
+  {
+    "school": "rice",
+    "name": "Multicultural Affairs",
+    "slug": "oma",
+    "email": "mino@rice.edu",
+    "summary": "The Office of Multicultural Affairs (OMA) strives to provide comprehensive educational, cultural and social programs that are designed to emphasize inclusiveness while promoting intercultural dialogue, awareness, and respect for diversity.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/oma"
+  },
+  {
+    "school": "rice",
+    "name": "Office of the Dean of Undergraduates",
+    "slug": "dou",
+    "email": "ugdean@rice.edu",
+    "summary": "The Office of the Dean of Undergraduates brings together all aspects of the undergraduate student experience.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/dou"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Bikes",
+    "slug": "ricebikes",
+    "email": "ricebikes@gmail.com",
+    "summary": "Rice Bikes is one of three Student Run Businesses at Rice managed completely by students. The entire Rice Bikes team strive to serve the Rice and Greater Houston Communities by providing affordable repairs, rentals and refurbished bikes. Stop by today!",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricebikes"
+  },
+  {
+    "school": "rice",
+    "name": "Graduate Student Association",
+    "slug": "gsa",
+    "email": "gsa@rice.edu",
+    "summary": "The GSA serves as the graduate student connection for advocacy, cultural and community programming, event funding, professional development resources, and communication here at Rice.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/gsa"
+  },
+  {
+    "school": "rice",
+    "name": "Brown College",
+    "slug": "brown",
+    "email": "brownpresident@rice.edu",
+    "summary": "Margaret Root Brown College was established in 1965 and prides itself on its strong community and culture of care. Its members, past and present, rally around Brown's strong traditions while not being afraid to make innovations of their own.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/brown"
+  },
+  {
+    "school": "rice",
+    "name": "Wiess College",
+    "slug": "wiess",
+    "email": "ewart@rice.edu",
+    "summary": "Wiess Residential College at Rice University",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/wiess"
+  },
+  {
+    "school": "rice",
+    "name": "Martel College",
+    "slug": "martel",
+    "email": "ath8@rice.edu",
+    "summary": "Welcome to the Best College Ever -- Martel College! This is the 9th residential college in the Rice University residential college system. Included here are all events and programs organized by Martel College.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/martel"
+  },
+  {
+    "school": "rice",
+    "name": "Office of Alumni Relations / Association of Rice Alumni (ARA)",
+    "slug": "ara",
+    "email": "alumni@rice.edu",
+    "summary": "The purpose of the Association of Rice Alumni (ARA) is to provide the means of a continuing relationship between the university and its former students.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ara"
+  },
+  {
+    "school": "rice",
+    "name": "Rice University Honor Council",
+    "slug": "honor",
+    "email": "honor@rice.edu",
+    "summary": "The Rice Honor Council is a body composed of elected and appointed undergraduate students responsible for adjudicating cases involving the Rice Honor System.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/honor"
+  },
+  {
+    "school": "rice",
+    "name": "Black Graduate Student Association",
+    "slug": "bgsa",
+    "email": null,
+    "summary": "The BGSA supports graduate students in exploring the academic and social experiences of Black students. We offer a safe space for dialogue on issues impacting Black communities and foster cultural understanding, allyship, and appreciation.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/bgsa"
+  },
+  {
+    "school": "rice",
+    "name": "Office of Access, and Institutional Excellence",
+    "slug": "aie",
+    "email": "AIE@rice.edu",
+    "summary": "The Rice University Office of Access and Institutional Excellence seeks to support and guide the university community in fulfilling its mission of “cultivating a diverse community of learning and discovery.”",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/aie"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Undergraduate Geoscience Society",
+    "slug": "rugs",
+    "email": "rugeosciencessociety@gmail.com",
+    "summary": "The mission of this organization is to enrich the experience of undergraduate students at Rice University studying and/or interested in Earth, Environmental, and Planetary Sciences (EEPS) or Environmental Science.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rugs"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Data Science",
+    "slug": "ricedatasci",
+    "email": "ricedatasciclub@gmail.com",
+    "summary": "Rice Data Science is a student-led and student-centered organization that enables students to realize their passions and career aspirations in the field of data science.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricedatasci"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Women in Business",
+    "slug": "ricewomeninbusiness",
+    "email": "ricewib@gmail.com",
+    "summary": "Rice Women in Business provides all students interested in women pursuing careers in business with tools for professional and personal growth, offering career panels, networking opportunities, and speaker events. All are welcome who support this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricewomeninbusiness"
+  },
+  {
+    "school": "rice",
+    "name": "English Undergraduate Association",
+    "slug": "eua",
+    "email": null,
+    "summary": "Founded in 2016, the EUA seeks to connect English majors and English students across Rice's residential colleges. The EUA hosts social and professional events to foster community among and provide resources to English majors at Rice.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/eua"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Rally Club",
+    "slug": "ricerallyclub",
+    "email": "riceurallyclub@gmail.com",
+    "summary": "Rice Rally Club is a student-run organization that promotes Rice athletics, helps build school spirit, enhances the student experience at athletic events, and creates an inclusive environment between students and the student-athletes on campus.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricerallyclub"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Undergraduate Materials Science and Nanoengineering Society",
+    "slug": "msneundergradsociety",
+    "email": null,
+    "summary": "The organization acts as an academic, professional, and social resource for students interested in Materials Science and Nanoengineering.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/msneundergradsociety"
+  },
+  {
+    "school": "rice",
+    "name": "Chemical and Biomolecular Engineering Graduate Student Association",
+    "slug": "chbe-gsa",
+    "email": "chbegsa@rice.edu",
+    "summary": "The departmental Graduate Student Assocation (dGSA) representing any graduate student at Rice University who has been accepted into, or is advised by a faculty member of, the Chemical and Biomolecular Engineering Department.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/chbe-gsa"
+  },
+  {
+    "school": "rice",
+    "name": "Moody Center for the Arts",
+    "slug": "moodycenterforthearts",
+    "email": "erin.rolfs@rice.edu",
+    "summary": "The Moody serves as an experimental platform for creating and presenting works in all disciplines.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/moodycenterforthearts"
+  },
+  {
+    "school": "rice",
+    "name": "Psychological Sciences",
+    "slug": "psyc",
+    "email": "psyc@rice.edu",
+    "summary": "Psychological Sciences - Studying the Mind to Better People's Lives",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/psyc"
+  },
+  {
+    "school": "rice",
+    "name": "Spanish, Portuguese, Latin American Studies",
+    "slug": "splas",
+    "email": "spanish@rice.edu",
+    "summary": "The department offers a full range of undergraduate courses in two majors: Spanish and Portuguese, and Latin American Studies.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/splas"
+  },
+  {
+    "school": "rice",
+    "name": "Engineering Professional Master's Program",
+    "slug": "epmp",
+    "email": "rsm@rice.edu",
+    "summary": "The Professional Master’s degree in the George R. Brown School of Engineering at Rice University is designed for the student who wishes to expand his or her engineering knowledge.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/epmp"
+  },
+  {
+    "school": "rice",
+    "name": "Religion and Public Life Program",
+    "slug": "rplp",
+    "email": "rplp@rice.edu",
+    "summary": "The Religion and Public Life Program is an academic program at Rice University devoted to using research on religion to build common ground for the common good.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rplp"
+  },
+  {
+    "school": "rice",
+    "name": "Latin American Graduate Student Association",
+    "slug": "lagsa",
+    "email": "riceunivlagsa@rice.edu",
+    "summary": "The Latin American Graduate Student Association provides a professional, informative, and social network for graduate students at Rice University to understand and appreciate Latin American culture.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/lagsa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Office of STEM Engagement",
+    "slug": "rstem",
+    "email": "stem@rice.edu",
+    "summary": "The Rice Office of STEM Engagement (R-STEM) supports and promotes Rice University's wide-ranging efforts to improve K-12 science, technology, engineering and mathematics (STEM) education in all Greater Houston Area school districts. We are proud to serve",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rstem"
+  },
+  {
+    "school": "rice",
+    "name": "School of Social Sciences Gateway Program",
+    "slug": "gatewayprogram",
+    "email": "breezy.landman@rice.edu",
+    "summary": "The Moody Gateway Program offers students majoring in the social sciences a way to answer the frequent question, \"Where can I go with my social sciences degree?\"",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/gatewayprogram"
+  },
+  {
+    "school": "rice",
+    "name": "Center for Languages and Intercultural Communication",
+    "slug": "clic",
+    "email": "clic@rice.edu",
+    "summary": "The Center for Languages & Intercultural Communication teaches 10 languages. Our courses focus on the development of interactional competence in the target language. Courses are based on a student-centered, critical thinking approach to language analysis",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/clic"
+  },
+  {
+    "school": "rice",
+    "name": "Visual and Dramatic Arts",
+    "slug": "vada",
+    "email": "arts@rice.edu",
+    "summary": "ART.RICE.EDU arts@rice.edu",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/vada"
+  },
+  {
+    "school": "rice",
+    "name": "The Doerr Institute for New Leaders",
+    "slug": "dinl",
+    "email": "leadership@rice.edu",
+    "summary": "The Doerr Institute for New Leaders offers free leader development programs to all Rice students that expand upon your diverse qualities and increase your capacity to make a difference in the world.\r\nFind out more at RiceLeader.org",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/dinl"
+  },
+  {
+    "school": "rice",
+    "name": "Fondren Library",
+    "slug": "fondren",
+    "email": "fondrenux@rice.edu",
+    "summary": "Fondren Library supports Rice University’s research and teaching by providing innovative research and information services, access to scholarly resources, and inviting physical and virtual spaces.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/fondren"
+  },
+  {
+    "school": "rice",
+    "name": "Mechanical Engineering Graduate Student Association",
+    "slug": "mechgsa",
+    "email": "rjf9@rice.edu",
+    "summary": "Mech GSA's purpose is to create a strong community between graduate students in the department, increase visibility of research fields and encourage collaborations, and lastly, contribute thoughts and ideas to the School of Engineering and GSA as a whole",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/mechgsa"
+  },
+  {
+    "school": "rice",
+    "name": "Chemistry Graduate Student Association",
+    "slug": "cgsa",
+    "email": "cgsa@rice.edu",
+    "summary": "Departmental GSA serving the graduate chemistry student association at Rice University.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/cgsa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Architecture Society",
+    "slug": "ricearchitecturesociety",
+    "email": "ricearchsociety@gmail.com",
+    "summary": "The purpose of Rice Architecture Society is to serve as the student governing body for the Rice Architecture School. The club holds regular meetings and serve as the point of contact between administration and student body.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricearchitecturesociety"
+  },
+  {
+    "school": "rice",
+    "name": "Society of Women Engineers",
+    "slug": "swe",
+    "email": "swe.rice@gmail.com",
+    "summary": "We empower students, with a focus on women supporting each other, to reach their potential as engineers and leaders, expand engineering’s image as a positive force for quality of life and to show the value of diversity. Open to all who share this mission",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/swe"
+  },
+  {
+    "school": "rice",
+    "name": "South Asian Society",
+    "slug": "sas",
+    "email": "rs185@rice.edu",
+    "summary": "We are a cultural club dedicated to the representation of South Asian traditions and cross-cultural exchange at Rice University and hosting unique cultural events to serve as a platform to create an inclusive environment for all Rice students.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/sas"
+  },
+  {
+    "school": "rice",
+    "name": "The Rice University Alzheimer's Buddies",
+    "slug": "alzbuddies",
+    "email": "rice@alzbuddies.org",
+    "summary": "Our mission is to: (i) engage college volunteers and buddies in meaningful intergenerational relationships; (ii) reduce the stigma and silence around neurodegenerative diseases; and (iii) raise awareness about elder care issues in the Houston community.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/alzbuddies"
+  },
+  {
+    "school": "rice",
+    "name": "Science Olympiad Alumni Association",
+    "slug": "rice_science_olympiad",
+    "email": "ricesoaa@gmail.com",
+    "summary": "Student-run organization that primarily deals with hosting and running an annual Science Olympiad STEM competition for over 500 high schools students from 30 high schools across the nation.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rice_science_olympiad"
+  },
+  {
+    "school": "rice",
+    "name": "R2: The Rice Review",
+    "slug": "r2ricereview",
+    "email": "r2ricereview@gmail.com",
+    "summary": "R2 is an anthology of original literature (poetry, fiction, creative non-fiction), that is published at least once a year. The club also promotes the literary arts around campus by hosting literary events such Open Mic Night.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/r2ricereview"
+  },
+  {
+    "school": "rice",
+    "name": "American Institute of Aeronautics and Astronautics",
+    "slug": "riceaiaa",
+    "email": "Wyeth.M.McKinley@rice.edu",
+    "summary": "AIAA aims to foster interest in the many industries that involve flight, aeronautics, and space travel and exploration.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/riceaiaa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Taiwanese Association",
+    "slug": "rta",
+    "email": null,
+    "summary": "RTA promotes Taiwanese cultural awareness at Rice. RTA sponsors study breaks, night market, and other programs for our members to meet other students interested in the Taiwanese culture. Follow @ricetaiwanese on Instagram for more event information!",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rta"
+  },
+  {
+    "school": "rice",
+    "name": "Humanities Graduate Student Association",
+    "slug": "hgsa",
+    "email": "hgsa@rice.edu",
+    "summary": "Our club facilitates communication between Humanities graduate students and the staff, faculty, and Dean of Humanities, as well as advocating for graduate students' interests and wellbeing.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/hgsa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Taiwanese Graduate Student Association",
+    "slug": "rtgsa",
+    "email": "ricetgsa@gmail.com",
+    "summary": "Rice Taiwanese Student Association brings together graduate and postdoctoral students to celebrate Taiwanese culture and traditions. We help members integrate into the Rice community, prepare for job recruiting, and connect with local Taiwanese groups.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rtgsa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Pakistani Student Association",
+    "slug": "rpsa",
+    "email": "psa.rice@gmail.com",
+    "summary": "The Rice Pakistani Student Association (RPSA) creates a vibrant, collaborative community welcoming all who are interested in Pakistani culture and traditions. We provide opportunities to connect with Pakistani leadership in Houston and across the U.S.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rpsa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice University Student Chapter of the Association for Women in Mathematics",
+    "slug": "riceawm",
+    "email": "Dasha.Dziadzinets@rice.edu",
+    "summary": "A network offering leadership, career development, and outreach for young mathematicians, with a focus on supporting women and other underrepresented groups across all academic levels in math and related fields. Open to all who share this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/riceawm"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Coalition on Hunger and Homelessness",
+    "slug": "coalitionrice",
+    "email": "coalitionrice@gmail.com",
+    "summary": "The mission of Coalition Rice is to develop service and advocacy programs for the homeless and economically disadvantaged of Houston through a combination of direct relief efforts, long-term reincorporation projects, and on-campus educational events.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/coalitionrice"
+  },
+  {
+    "school": "rice",
+    "name": "Rice University Korean Graduate Student Association",
+    "slug": "ricekgsa",
+    "email": "jl376@rice.edu",
+    "summary": "Rice University Korean Graduate Student Association (KGSA) is organized to build a community and enhance a sense of community among graduate and post-graduate students on campus focused on celebrating Korean culture and traditions.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricekgsa"
+  },
+  {
+    "school": "rice",
+    "name": "Applied Physics Graduate Student Association",
+    "slug": "apgsa",
+    "email": null,
+    "summary": "The APGSA seeks to provide community and support for graduate students in Applied Physics. We sponsor various research talks and social events and discuss concerns and ideas which may, in turn, benefit the Applied Physics program.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/apgsa"
+  },
+  {
+    "school": "rice",
+    "name": "Society of Hispanic Professional Engineers",
+    "slug": "shpe-rice",
+    "email": "shpe.rice@gmail.com",
+    "summary": "SHPE Rice creates a welcoming familia providing career exposure & professional opportunities to those interested in the Hispanic STEM community. Open to all who share this mission, we foster an inclusive, supportive environment for our familia to thrive.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/shpe-rice"
+  },
+  {
+    "school": "rice",
+    "name": "Rice University Pre-Law Society",
+    "slug": "rupls",
+    "email": "prelawsociety@rice.edu",
+    "summary": "Rice University Pre-Law Society's mission is to educate our members about law school admission and the legal profession.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rupls"
+  },
+  {
+    "school": "rice",
+    "name": "American Institute of Chemical Engineers Rice Chapter",
+    "slug": "riceaiche",
+    "email": "sl201@rice.edu",
+    "summary": "The Rice Chapter of the American Institute of Chemical Engineers (AIChE) is an academic and professional club which focuses on providing a community in which both current chemical engineering students and alumni can interact socially and professionally.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/riceaiche"
+  },
+  {
+    "school": "rice",
+    "name": "The Rice Apollos",
+    "slug": "riceapollos",
+    "email": "thericeapollos@gmail.com",
+    "summary": "Rice University's all-male A Cappella ensemble. We sing all genres of music, including whatever our members want to sing, and perform throughout the year on and off campus!",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/riceapollos"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Sustainability Coalition",
+    "slug": "rsc",
+    "email": "ds125@rice.edu",
+    "summary": "We are the umbrella organization for environmental and sustainability organizations on campus. Our membership includes org leaders from over 15 Rice environmental clubs. Students interested in getting involved should email riceenvironsociety@gmail.com.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rsc"
+  },
+  {
+    "school": "rice",
+    "name": "Rice International Student Association",
+    "slug": "risa",
+    "email": "risa@rice.edu",
+    "summary": "RISA brings together Rice’s international community through connection, advocacy, and cultural celebration — creating a space where every voice is valued and friendships that last beyond campus time.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/risa"
+  },
+  {
+    "school": "rice",
+    "name": "FastWarp: Board and Card Game Club",
+    "slug": "fastwarp",
+    "email": "mc206@rice.edu",
+    "summary": "We promote board games and tabletop games on campus! Our club is a welcoming environment for anyone to come, play games, and socialize with other students. We also host OwlCon, an annual gaming convention at Rice.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/fastwarp"
+  },
+  {
+    "school": "rice",
+    "name": "Bioengineering Graduate Student Association",
+    "slug": "bioegsa",
+    "email": "bioegsa@rice.edu",
+    "summary": "The BIOE GSA represents the interests and activities of Bioengineering graduate students, with the primary goals being to promote the social engagement and professional development of graduate students and to provide an outlet for voicing concerns.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/bioegsa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Omega Psi",
+    "slug": "rice_omega_psi",
+    "email": " bart4@rice.edu",
+    "summary": "Rice Omega Psi is a chapter of Omega Psi Inc., a national cognitive science honor society. The organization aims to increase awareness of and involvement in Cognitive Science at Rice while recognizing undergraduate excellence in scholarship.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rice_omega_psi"
+  },
+  {
+    "school": "rice",
+    "name": "Rice University Human Factors and Ergonomics Society Student Chapter",
+    "slug": "rice-hfes",
+    "email": "ricehfes@gmail.com",
+    "summary": "The Rice HFES Student Chapter exists to serve the needs of individuals interested in the topic of human factors. As a chapter, we seek to create networking, professional, and educational opportunities to promote human factors at Rice University.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rice-hfes"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Institute of Electrical and Electronics Engineers (IEEE) Student Chapter",
+    "slug": "ieee",
+    "email": "rjceieee@gmail.com",
+    "summary": "The Rice Chapter of IEEE is a student organization dedicated to connecting ECE students to exciting opportunities and resources at Rice and beyond. In addition, Rice IEEE works to foster a strong community of students, faculty, and professionals.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ieee"
+  },
+  {
+    "school": "rice",
+    "name": "Office of Study Abroad",
+    "slug": "abroad",
+    "email": "abroad@rice.edu",
+    "summary": "The Office of Study Abroad at Rice University strives to provide substantial, transformational experiences within each undergraduate’s personal curriculum through intellectually rigorous and culturally enriching international opportunities.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/abroad"
+  },
+  {
+    "school": "rice",
+    "name": "GradGames",
+    "slug": "gradgames",
+    "email": "graduatestudentgaming@gmail.com",
+    "summary": "All grad students are welcome! We do board games, video games, card games, and everything between. Contact at graduatestudentgaming@gmail.com.\r\n\r\nDiscord:  https://discord.gg/h3dQgje\r\nMailing list: https://mailman.rice.edu/mailman/listinfo/gradgames",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/gradgames"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Online Learning",
+    "slug": "rol",
+    "email": "riceonline@rice.edu",
+    "summary": "Immerse yourself in an engaging digital learning environment. Whether you’re earning credits, a degree, or discovering a new subject, never miss a minute of your course as you learn on your own schedule.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rol"
+  },
+  {
+    "school": "rice",
+    "name": "The Rice Philharmonics",
+    "slug": "thericephilharmonics",
+    "email": "ricephilharmonics@gmail.com",
+    "summary": "Founded in 1994, The Rice Philharmonics is Rice's premier a cappella singing ensemble. The Phils entertain audiences on campus and beyond, and tour and compete nationally. Recently, the Phils released their third studio album, \"Still Phil.\"",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/thericephilharmonics"
+  },
+  {
+    "school": "rice",
+    "name": "Rice University National Professional Science Master's Association",
+    "slug": "runpsma",
+    "email": "cp101@rice.edu",
+    "summary": "The Rice University National Professional Science Master's Association is a student-led organization committed to fostering community within the PSM program.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/runpsma"
+  },
+  {
+    "school": "rice",
+    "name": "Black Student Association",
+    "slug": "bsa",
+    "email": "bsa@rice.edu",
+    "summary": "The Black Student Association fosters cultural awareness, community engagement for those interested in the experiences of Black students at Rice. Open to all who share this mission, BSA enriches campus life through programs, support, and cultural events.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/bsa"
+  },
+  {
+    "school": "rice",
+    "name": "Chi Epsilon",
+    "slug": "chiepsilon",
+    "email": "rs123@rice.edu",
+    "summary": "Civil engineering undergraduate honor society for professional development.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/chiepsilon"
+  },
+  {
+    "school": "rice",
+    "name": "CSters",
+    "slug": "csters",
+    "email": "csters.rice@gmail.com",
+    "summary": "CSters serves as a network and community for students in computing at Rice, with a special focus on supporting women. We empower our members by hosting social events, providing mentoring opportunities, and connecting with corporate partners.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/csters"
+  },
+  {
+    "school": "rice",
+    "name": "Earthquake Engineering Research Institute Rice University Student Chapter",
+    "slug": "eeri-ru",
+    "email": "andres.calvo@rice.edu",
+    "summary": "It is the objective of this student chapter to encourage, facilitate and promote learning and interest among students in the field of earthquake engineering through interaction with professionals and experts and through interdisciplinary involvement.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/eeri-ru"
+  },
+  {
+    "school": "rice",
+    "name": "KTRU Rice Radio",
+    "slug": "ktru",
+    "email": null,
+    "summary": "KTRU is Rice's student-run radio station bringing eclectic programming to the Houston area (96.1 FM) and streaming online at ktru.org. KTRU does concerts every semester including the largest campus music festival, Outdoor Show.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ktru"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Chinese Student Association",
+    "slug": "ricecsa",
+    "email": "ricecsaboard@gmail.com",
+    "summary": "CSA is a cultural, non-partisan, social organization devoted to promoting Chinese culture and awareness of Asian Pacific Islander American (APIA) issues on campus and within the Houston community.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricecsa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice PRIDE",
+    "slug": "rice-pride",
+    "email": "riceprideeboard@rice.edu",
+    "summary": "The undergraduate LGBTQ+ organization at Rice University provides students with social, educational, and advocacy resources, and welcomes allies and all members of the Rice community who support this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rice-pride"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Society for Industrial and Applied Mathematics",
+    "slug": "ricesiam",
+    "email": "as327@rice.edu",
+    "summary": "Rice SIAM is the Rice chapter of the Society for Industrial and Applied Mathematics. Rice SIAM serves as a professional and social organization for students in the CMOR department as well as students with interests in industrial and applied mathematics.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricesiam"
+  },
+  {
+    "school": "rice",
+    "name": "Physics and Astronomy Graduate Student Association",
+    "slug": "pagsa",
+    "email": "pagsa-officers@rice.edu",
+    "summary": "The mission of PAGSA is to provide support and community to graduate students in the Physics and Astronomy department at Rice University.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/pagsa"
+  },
+  {
+    "school": "rice",
+    "name": "Design for America-Rice University",
+    "slug": "dfa_rice",
+    "email": "rice@designforamerica.com",
+    "summary": "Design for America is a social innovation club that aims to create a local and social impact. We teach human-centered design to our members and collaborate with organization in Houston.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/dfa_rice"
+  },
+  {
+    "school": "rice",
+    "name": "Korean International Student Association",
+    "slug": "kisa",
+    "email": "mc203@rice.edu",
+    "summary": "The Korean International Student Association (KISA) fosters community and supports students interested in Korean culture. We promote well-being, career growth, and connections through social events that celebrate community and strengthen relationships.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/kisa"
+  },
+  {
+    "school": "rice",
+    "name": "TEDxRiceU",
+    "slug": "tedxriceu",
+    "email": "tedxriceu@gmail.com",
+    "summary": "TEDxRiceU is an independently organized TEDx club at Rice University that organizes TED-style events throughout the year with a large-scale event in the spring semester. We recruit speakers and performers from the Houston area to foster creativity.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/tedxriceu"
+  },
+  {
+    "school": "rice",
+    "name": "Rice African Student Association",
+    "slug": "rasa",
+    "email": "riceafricansapresident@gmail.com",
+    "summary": "Rice African Student Association's goal is to promote awareness of the African continent and culture, as well as provide a support network of alumni, faculty, and community leaders for RASA members.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rasa"
+  },
+  {
+    "school": "rice",
+    "name": "Basmati Beats",
+    "slug": "basmatibeats",
+    "email": "basmatibeats@gmail.com",
+    "summary": "Basmati Beats is Rice's premier South Asian fusion A Cappella group. We blend South Asian & Western music in creative mashups, performing on campus and at national competitions. Open to all students passionate about music & cross-cultural expression.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/basmatibeats"
+  },
+  {
+    "school": "rice",
+    "name": "Caribbean Student Society",
+    "slug": "caribbeanstudentsociety",
+    "email": "cssriceu@gmail.com ",
+    "summary": "The Caribbean Student Association builds community among students interested in Caribbean cultures. Through programs, celebrations, and events, we share the richness of the Caribbean with Rice and Houston. Open to all students who support this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/caribbeanstudentsociety"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Business Society",
+    "slug": "ricebusinesssociety",
+    "email": "ricebusinesssociety@gmail.com",
+    "summary": "Educate undergraduate students on business careers and opportunities \r\nConnect Rice undergraduates to internships and job opportunities\r\nUnite the undergraduate business community\r\nDevelop successful future business leaders",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricebusinesssociety"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Computer Science Club",
+    "slug": "ricecsclub",
+    "email": "riceucsclub@gmail.com",
+    "summary": "A club that serves to foster, build up, and be a resource for the computer science community at Rice.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricecsclub"
+  },
+  {
+    "school": "rice",
+    "name": "Owlchemy: Rice Undergraduate Chemistry Society",
+    "slug": "owlchemy",
+    "email": "owlchemy.rice@gmail.com",
+    "summary": "Owlchemy: RUCS is the undergraduate chemistry organization on campus. We seek to promote the study of chemistry in the community through outreach and foster student-student interaction and student-faculty interaction on campus.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/owlchemy"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Neuroscience Society",
+    "slug": "riceneurosciencesociety",
+    "email": "riceneurosciencesociety@gmail.com",
+    "summary": "Rice Neuroscience Society serves as the voice of the neuroscience major and helps increases awareness for neuroscience opportunities both at Rice and in the greater Houston area.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/riceneurosciencesociety"
+  },
+  {
+    "school": "rice",
+    "name": "Brazilian Student Association at Rice University",
+    "slug": "brasa",
+    "email": "brasa@rice.edu, Rice@brasalocal.org",
+    "summary": "The Brazilian Student Association - BRASA - is an organization created by the students of Rice University with the purpose of spreading Brazilian culture to the university\r\ncommunity and also providing academic and professional enhancement to its members",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/brasa"
+  },
+  {
+    "school": "rice",
+    "name": "American Association of Petroleum Geologists",
+    "slug": "eeps-rice-edu-aapg-rice-student-chapter",
+    "email": "Ad155@rice.edu",
+    "summary": "The primary role of the American Association of Petroleum Geologists student chapter at Rice University is to facilitate interactions between students and oil and gas professionals.This occurs through networking events, lectures and field trips.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/eeps-rice-edu-aapg-rice-student-chapter"
+  },
+  {
+    "school": "rice",
+    "name": "PERIOD@Rice",
+    "slug": "periodrice",
+    "email": "period.ricebcm@gmail.com",
+    "summary": "PERIOD@Rice is a menstrual equity club advocating for menstruators on campus and beyond. We host product drives, panels, letter-writing campaigns, and engaging activities to promote equity and awareness. Open to all who support this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/periodrice"
+  },
+  {
+    "school": "rice",
+    "name": "Society of Petroleum Engineers",
+    "slug": "spe_rice",
+    "email": null,
+    "summary": "SPE's mission is to collect, disseminate, and exchange technical knowledge concerning the exploration, development, and production of oil and gas resources and related technologies for the public benefit; and to provide opportunities for professionals.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/spe_rice"
+  },
+  {
+    "school": "rice",
+    "name": "Ecology and Evolutionary Biology GSA",
+    "slug": "eeb_gsa",
+    "email": "mb203@rice.edu",
+    "summary": "Departmental GSA for Ecology and Ecolutionary Biology.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/eeb_gsa"
+  },
+  {
+    "school": "rice",
+    "name": "American Society of Civil Engineers",
+    "slug": "asce",
+    "email": "riceuasce@gmail.com",
+    "summary": "The Rice University chapter of ASCE (American Society of Civil Engineers) provides students who are interested in civil engineering as a career with a multitude of opportunities to enrich themselves and learn about the industry.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/asce"
+  },
+  {
+    "school": "rice",
+    "name": "National Society of Black Engineers",
+    "slug": "nsbe",
+    "email": "ricensbepresident@gmail.com",
+    "summary": "To increase the number of culturally responsible black engineers who excel academically, succeed professionally, and positively impact the community.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/nsbe"
+  },
+  {
+    "school": "rice",
+    "name": "Out in Science, Technology, Engineering, and Mathematics",
+    "slug": "ostem",
+    "email": "rice@chapters.ostem.org",
+    "summary": "oSTEM is an undergraduate organization focusing on the professional development and community of LGBTQ students in STEM and STEM adjacent fields. All are welcome who support this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ostem"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Partnership for the Advancement and Immersion of Refugees",
+    "slug": "pair",
+    "email": "pair.rice@gmail.com",
+    "summary": "We aim to bring greater awareness to and serve the refugee population of the Houston community. If you are interested in learning about different cultures or teaching/leading in a classroom setting, we highly encourage you to join us as a volunteer!",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/pair"
+  },
+  {
+    "school": "rice",
+    "name": "Office of International Students and Scholars",
+    "slug": "oiss",
+    "email": "oiss@rice.edu",
+    "summary": "Rice University’s Office of International Students & Scholars' (OISS) mission is to enhance the experience of the international population (which includes all non-immigrant visa students, researchers and faculty).",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/oiss"
+  },
+  {
+    "school": "rice",
+    "name": "Professional Science Master's Programs",
+    "slug": "psm",
+    "email": "profms@rice.edu",
+    "summary": "4+1 MS degree in Bioscience & Health Policy, Environmental Analysis, Subsurface Geoscience, and Space Studies",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/psm"
+  },
+  {
+    "school": "rice",
+    "name": "Camp Kesem Rice",
+    "slug": "campkesemrice",
+    "email": "rice@kesem.org",
+    "summary": "Kesem at Rice is the Houston chapter of the leading national nonprofit that provides free summer camps and year-round support for children impacted by a parent's cancer.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/campkesemrice"
+  },
+  {
+    "school": "rice",
+    "name": "OwlNest Student Engagement Consultants",
+    "slug": "osec",
+    "email": "owlnest@rice.edu",
+    "summary": "OwlNest Student Engagement Consultants help students find clubs or events that match their interests and engage on campus, and serve as a resource for clubs, colleges and departments to enhance their OwlNest pages.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/osec"
+  },
+  {
+    "school": "rice",
+    "name": "The Rice University Transfer Student Association",
+    "slug": "tsa",
+    "email": "ac237@rice.edu",
+    "summary": "As new members of the Rice community, transfer students come in with unique perspectives and needs. Our goal is to foster integration into the community by hosting social events, addressing student needs, and representing special interests.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/tsa"
+  },
+  {
+    "school": "rice",
+    "name": "Office of Information Technology",
+    "slug": "oit",
+    "email": "helpdesk@rice.edu",
+    "summary": "The Office of Information Technology (OIT) provides computing services and resources to support the educational needs of students including purchasing advice or technical troubleshooting of personal computers.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/oit"
+  },
+  {
+    "school": "rice",
+    "name": "Rice D2K | Data to Knowledge Lab",
+    "slug": "d2k",
+    "email": "d2k@rice.edu",
+    "summary": "The D2K Lab provides students with immersive, experiential learning opportunities in data science while enhancing data-intensive research at Rice and building partnerships with companies, institutions, and community organizations.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/d2k"
+  },
+  {
+    "school": "rice",
+    "name": "Rice University Bands",
+    "slug": "bands",
+    "email": "bands@rice.edu",
+    "summary": "Performing ensembles for students of every major. Rice Symphonic Band, Rice Jazz Ensembles, and the home of The MOB.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/bands"
+  },
+  {
+    "school": "rice",
+    "name": "Student Activities/President’s Programming (SAPP) Fund",
+    "slug": "sapp",
+    "email": "SAPP@rice.edu",
+    "summary": "The Student Activities President’s Programming Fund (SAPP) supports registered student clubs in hosting engaging and impactful on-campus events, fostering community and enhancing the student experience.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/sapp"
+  },
+  {
+    "school": "rice",
+    "name": "Susanne M. Glasscock School of Continuing Studies",
+    "slug": "gscs",
+    "email": "gscs@rice.edu",
+    "summary": "The Susanne M. Glasscock School of Continuing Studies furthers Rice University’s commitment to educational outreach by providing lifelong personal and professional development opportunities to the greater Houston community and beyond.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/gscs"
+  },
+  {
+    "school": "rice",
+    "name": "Student Wellbeing Office",
+    "slug": "swo",
+    "email": "wellbeing@rice.edu",
+    "summary": "The Student Wellbeing Office supports student development and success by providing a good first point of contact for students who want to talk to someone about solutions to their wellbeing and mental health concerns.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/swo"
+  },
+  {
+    "school": "rice",
+    "name": "Center for Teaching Excellence",
+    "slug": "cte",
+    "email": "cte@rice.edu",
+    "summary": "The Center for Teaching Excellence at Rice University fosters outstanding teaching through evidence-based practices, strong community building, and research in pedagogical sciences.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/cte"
+  },
+  {
+    "school": "rice",
+    "name": "George R. Brown School of Engineering and Computing",
+    "slug": "georgerbrownschoolofengineering",
+    "email": "dhreserv@rice.edu",
+    "summary": "Rice Engineering's nine academic departments and more than 20 institutes and centers provide a vibrant environment for research and education to help develop the next generation of leaders in engineering and beyond.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/georgerbrownschoolofengineering"
+  },
+  {
+    "school": "rice",
+    "name": "Caregiving Program",
+    "slug": "caregiving",
+    "email": "wellbeing@rice.edu",
+    "summary": "The Caregiving program is a peer lead, volunteer organization whose goal is to promote safety and accountability at registered public parties. Caregivers volunteer to be sober and respond if someone at a party is in need.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/caregiving"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Business Events",
+    "slug": "ricebusinessevents",
+    "email": "oaa4@rice.edu",
+    "summary": "Events at Rice University's Jones Graduate School of Business",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricebusinessevents"
+  },
+  {
+    "school": "rice",
+    "name": "Center for the Study of Women, Gender, and Sexuality",
+    "slug": "cswgs",
+    "email": "cswgs@rice.edu",
+    "summary": "Our Center supports the study of women, gender, and sexuality through hosting public conversations, academic programs, and research opportunities.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/cswgs"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Design",
+    "slug": "ricedesign",
+    "email": "riceu.design@gmail.com",
+    "summary": "Rice Design is a student organization dedicated to connecting, educating, and celebrating digital designers.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricedesign"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Women in Entrepreneurship",
+    "slug": "ricewomeninentrepreneurship",
+    "email": "ricewomeninentrepreneurship@gmail.com",
+    "summary": "Rice Women in Entrepreneurship is a professional organization that aims to expand leadership, networking, and learning opportunities, focusing on undergraduate women. Open to all Rice undergraduates interested in entrepreneurship who share this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricewomeninentrepreneurship"
+  },
+  {
+    "school": "rice",
+    "name": "National Organization of Minority Architecture Students Rice Chapter",
+    "slug": "nomasrice",
+    "email": "nomas@rice.edu",
+    "summary": "The purpose of NOMAS is to connect Rice students to a larger network of representation in architecture; all those interested in this mission are welcome.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/nomasrice"
+  },
+  {
+    "school": "rice",
+    "name": "RAW.photography",
+    "slug": "rawphotography",
+    "email": "rice.raw.photography@gmail.com",
+    "summary": "RAW.photography is a community for photographers to connect, collaborate, learn, and have fun. We host many events, workshops, and photography trips throughout the semester. Photographers at all levels are welcomed. Visit: https://linktr.ee/Rice.RAW",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rawphotography"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Black Women's Association",
+    "slug": "rbwa",
+    "email": null,
+    "summary": "Formerly Black Girl Magic, the Rice Black Women’s Association empowers Black women. RBWA builds connections among current members, alumni, and friends through relationships that foster community and growth. All are welcome who support this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rbwa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Students for Sensible Drug Policy",
+    "slug": "ssdp",
+    "email": "mie1@rice.edu",
+    "summary": "Rice SSDP seeks to engage Rice University students in understanding the lasting negative impact of the war on drugs and advocates for sensible policy and programming to support people who use drugs (PWUD) and those suffering with substance use disorders.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ssdp"
+  },
+  {
+    "school": "rice",
+    "name": "Pre-Physician Assistant Student Association",
+    "slug": "pre-paclub",
+    "email": "jmd25@rice.edu",
+    "summary": "The purpose of the Pre-Physician Assistant Club will be to unite Physician Assistant students in order to foster professional, educational and social interests.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/pre-paclub"
+  },
+  {
+    "school": "rice",
+    "name": "Architecture Graduate Student Association",
+    "slug": "agsa",
+    "email": null,
+    "summary": "The mission of the Architecture Graduate Student Association is to represent the graduate students of Rice Architecture and advocate for their interests and wellbeing on both the schoolwide and University level.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/agsa"
+  },
+  {
+    "school": "rice",
+    "name": "Political Science Graduate Student Association",
+    "slug": "psgsa",
+    "email": null,
+    "summary": "The PS-GSA serves political science graduate students by fostering better professional and personal relationships between students and faculty members and providing a forum for concerns about graduate student life in the department.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/psgsa"
+  },
+  {
+    "school": "rice",
+    "name": "Psychological Sciences Graduate Student Association",
+    "slug": "psycgsa",
+    "email": null,
+    "summary": "The Psychological Sciences Graduate Student Association is dedicated to providing community and support for all graduate students of Rice University's Department of Psychological Sciences.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/psycgsa"
+  },
+  {
+    "school": "rice",
+    "name": "The SAFE Office: Interpersonal Misconduct Prevention and Support",
+    "slug": "safe",
+    "email": "Safesupport@rice.edu",
+    "summary": "The SAFE Office offers care management and navigation to students who are reporting an incident of interpersonal violence perpetrated against them and to students who have been accused of perpetrating interpersonal violence.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/safe"
+  },
+  {
+    "school": "rice",
+    "name": "OwlSpark",
+    "slug": "owlspark",
+    "email": "team@owlspark.com",
+    "summary": "OwlSpark is Rice University’s startup accelerator.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/owlspark"
+  },
+  {
+    "school": "rice",
+    "name": "Diversity Facilitators",
+    "slug": "dfs",
+    "email": "clack@rice.edu",
+    "summary": "Diversity Facilitators continue promoting campus unity and respect for diversity throughout the year, in part, via the “Dialogues on Diversity” series.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/dfs"
+  },
+  {
+    "school": "rice",
+    "name": "Digital Media Commons",
+    "slug": "dmc",
+    "email": "dmc-info@rice.edu",
+    "summary": "The Digital Media Commons supports the creation and use of multimedia in education, scholarship, and creative expression.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/dmc"
+  },
+  {
+    "school": "rice",
+    "name": "The Department of Naval Science",
+    "slug": "ricenrotc",
+    "email": "kml11@rice.edu",
+    "summary": "Rice Naval Reserve Officer Training Corp",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricenrotc"
+  },
+  {
+    "school": "rice",
+    "name": "Oshman Engineering Design Kitchen",
+    "slug": "oedk",
+    "email": "oedk@rice.edu",
+    "summary": "The Oshman Engineering Design Kitchen (OEDK) provides a world-class venue for undergraduate engineering design projects, with cross-discipline and cross-technology training for students at Rice University.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/oedk"
+  },
+  {
+    "school": "rice",
+    "name": "Earth, Environmental & Planetary Sciences",
+    "slug": "eeps",
+    "email": "rj33@rice.edu",
+    "summary": "The goal of Rice University’s Department of Earth, Environmental and Planetary Sciences is to bring together the creative power of Houston’s energy, environmental and space industries in the context of whole earth systems to make sustainable progress.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/eeps"
+  },
+  {
+    "school": "rice",
+    "name": "Weeks of Welcome",
+    "slug": "wow",
+    "email": null,
+    "summary": "Weeks of Welcome combines academic, educational, developmental, and social programming to provide a solid foundation for new and returning students as they transition to Rice University.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/wow"
+  },
+  {
+    "school": "rice",
+    "name": "The Women's Network - Rice",
+    "slug": "twnrice",
+    "email": "thewomensnetwork.rice@gmail.com",
+    "summary": "The Women’s Network (TWN), a nationwide collegiate organization at Rice.  TWN’s mission is to  build a community of ambitious women and provide tools for success in the professional world. Our chapter is open to all who share this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/twnrice"
+  },
+  {
+    "school": "rice",
+    "name": "Kids Are Scientists Too",
+    "slug": "kast",
+    "email": "oea6@rice.edu",
+    "summary": "Kids Are Scientists Too (KAST) is a small but growing organization dedicated to inspiring a love of science in underserved elementary students in HISD through fun and interactive lessons!",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/kast"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Middle Eastern and North African Student Association",
+    "slug": "mesa",
+    "email": "mq12@rice.edu",
+    "summary": "The Middle Eastern and North African Student Association (MENA SA) provides community for all students interested in Middle Eastern and North African cultures and issues, promotes cultural enrichment and hosts events for Rice and the Houston community.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/mesa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Stroke",
+    "slug": "ricestroke",
+    "email": "ricestroke@gmail.com",
+    "summary": "Rice Stroke is a student organization that works directly with stroke patients to improve their understanding of stroke, treatment options, and follow-up care. Members also shadow neurologists on rounds, gaining clinical experience while supporting patie",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricestroke"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Neuro Transmitter",
+    "slug": "riceneurotransmitter",
+    "email": "asj5@rice.edu",
+    "summary": "Welcome to Rice’s Undergraduate Neuroscience Journal, Rice Neuro Transmitter!  The mission of this journal is to promote interest in neuroscience research, events, careers, outreach, and the major within Rice University and the local Houston area.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/riceneurotransmitter"
+  },
+  {
+    "school": "rice",
+    "name": "Latinx Graduate Students at Rice",
+    "slug": "latinxgradsrice",
+    "email": "latingrads@rice.edu",
+    "summary": "We're a group of graduate students who meet monthly to build community and celebrate Latinx culture and traditions.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/latinxgradsrice"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Postdoctoral Association",
+    "slug": "postdocassoc",
+    "email": "PostdocAssoc@rice.edu",
+    "summary": "RPA is a nonprofit organization with the purpose of empowering postdoctoral associates and fellows (“postdocs”) at Rice.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/postdocassoc"
+  },
+  {
+    "school": "rice",
+    "name": "Rice INFORMS",
+    "slug": "informs",
+    "email": null,
+    "summary": "We will strive to encourage interest in the field of operations research (O.R.), data/management sciences (MS), and analytics, and provide a means of communication among interested peers. Follow us on Instagram @rice.informs to learn more!",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/informs"
+  },
+  {
+    "school": "rice",
+    "name": "American Institute of Aeronautics and Astronautics - Rice University Chapter",
+    "slug": "aiaa",
+    "email": "aiaaricechapter@gmail.com",
+    "summary": "The American Institute of Aeronautics and Astronautics has for many years promoted aerospace education, development, and competition. Rice’s chapter is looking to further promote this with chapter events and our RC aircraft competition team, Rice Flight",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/aiaa"
+  },
+  {
+    "school": "rice",
+    "name": "Texas Ecological Restoration and Rehabilitation Association",
+    "slug": "terra",
+    "email": "car11@rice.edu",
+    "summary": "As Rice students concerned about the sixth mass extinction and dedicated to ecological conservation, we aim to rehabilitate the natural environment through community education, research, networking and outreach, and hands-on restoration projects.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/terra"
+  },
+  {
+    "school": "rice",
+    "name": "Students for Justice in Palestine",
+    "slug": "sjp",
+    "email": "ricesjpalestine@gmail.com",
+    "summary": "Students for Justice in Palestine is a student advocacy group rooted in networking and organization towards Palestinian liberation. All are welcome who support this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/sjp"
+  },
+  {
+    "school": "rice",
+    "name": "Political Science",
+    "slug": "politicalscience",
+    "email": "poli@rice.edu",
+    "summary": "The Department of Political Science specializes in American politics (U.S. government, elections, and citizens’ behavior), comparative politics (governments in other countries), and international relations (conflict and cooperation in the world).",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/politicalscience"
+  },
+  {
+    "school": "rice",
+    "name": "Analytics, Consulting, and Technology at Rice",
+    "slug": "act-rice",
+    "email": "actriceuniversity@gmail.com",
+    "summary": "ACT Rice is an undergraduate consulting club with practice areas of Analytics, Consulting, and Tech Solutions. We aim to create opportunities for students from a diverse range of majors and backgrounds to engage in meaningful client advisory work.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/act-rice"
+  },
+  {
+    "school": "rice",
+    "name": "Society of Physics and Astronomy Students",
+    "slug": "spas",
+    "email": "spas@rice.edu",
+    "summary": "The purpose of SPAS will be the advancement and diffusion of knowledge of physics, the encouragement of interest in physics throughout the academic and local communities, and the introduction of students to the professional community.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/spas"
+  },
+  {
+    "school": "rice",
+    "name": "Planned Parenthood Generation Action Rice Chapter",
+    "slug": "ppgen",
+    "email": "plannedparenthood@rice.edu",
+    "summary": "This organization works to promote health, safety, and advocacy on Rice's campus.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ppgen"
+  },
+  {
+    "school": "rice",
+    "name": "Colombian Owls",
+    "slug": "colombianowls",
+    "email": "cc222@rice.edu",
+    "summary": "Colombian Owls is a club that aims to foster community and appreciation for Colombian culture and heritage within the Rice community.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/colombianowls"
+  },
+  {
+    "school": "rice",
+    "name": "Geounion",
+    "slug": "geounion",
+    "email": "sanskruti@rice.edu",
+    "summary": "Graduate student association for the Department of Earth, Environmental and Planetary Sciences",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/geounion"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Biokind Analytics",
+    "slug": "biokindanalytics",
+    "email": "rice@biokind.org",
+    "summary": "Today, even small businesses use data analysis and statistical modeling to boost profits and efficiency. Our mission is to provide the same opportunity for healthcare non-profit organizations to boost their impact.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/biokindanalytics"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Cinema Club",
+    "slug": "cinema",
+    "email": "ajs30@rice.edu",
+    "summary": "We are a film appreciation club, organizing film screenings and other movie-focused events throughout the year.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/cinema"
+  },
+  {
+    "school": "rice",
+    "name": "Neurotech@Rice",
+    "slug": "rice_neurotech",
+    "email": "neurotech.rice@gmail.com",
+    "summary": "Neurotech@Rice is an interdisciplinary student-run club dedicated to connecting students at Rice to neurotechnology and neuroengineering. We meet biweekly to discuss topics in neurotechnology and connect with people in the field.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rice_neurotech"
+  },
+  {
+    "school": "rice",
+    "name": "RemixCS",
+    "slug": "remixcs",
+    "email": "riceremixcs@gmail.com",
+    "summary": "Our mission is to provide a platform for CS outreach to the greater Houston K-12 community to inspire future computer scientists of all backgrounds, specifically underrepresented minorities in CS.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/remixcs"
+  },
+  {
+    "school": "rice",
+    "name": "Women in CyberSecurity - Rice University Student Chapter",
+    "slug": "wicysrice",
+    "email": "wicys.rice@gmail.com",
+    "summary": "WiCyS at Rice, part of the global Women in CyberSecurity nonprofit, dedicated to building a gender-diverse cybersecurity workforce by facilitating recruitment, retention, and advancement for women. Open to all who share this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/wicysrice"
+  },
+  {
+    "school": "rice",
+    "name": "Rice University Zen Buddhism Club",
+    "slug": "hru_zen",
+    "email": null,
+    "summary": "The Rice University Zen Buddhism Club aims to cultivate wisdom, encourage spiritual and intellectual growth and walk a path of non-dualism. We aim to create a warm and family style social environment that creates activities tailored for all students.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/hru_zen"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Rap Club",
+    "slug": "rapclub",
+    "email": "ricerapclub@gmail.com",
+    "summary": "Rice Rap Club is an undergraduate social organization that provides a community for rap fans and celebrates Houston's hip hop history. Expect album listening parties, events, guest speakers, and competitions. No application, no commitment, all vibes.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rapclub"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Alliance for Technology and Entrepreneurship",
+    "slug": "alliancericeedu",
+    "email": "alliance@rice.edu",
+    "summary": "The Rice Alliance for Technology and Entrepreneurship (Rice Alliance) is Rice University’s nationally-recognized initiative devoted to the support of technology commercialization, entrepreneurship education, and the launch of technology companies. Our mi",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/alliancericeedu"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Global Surgery Student Alliance",
+    "slug": "ricegssa",
+    "email": null,
+    "summary": "We are the Rice chapter of GSSA, the national student-run global surgery working group for the U.S., affiliated with InciSioN (the International Student Surgical Network). Our goal is to educate, inspire, and unite students through global surgery.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricegssa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Ethiopian and Eritrean Student Association",
+    "slug": "-",
+    "email": "REESA@gmail.com",
+    "summary": "Rice Ethiopian & Eritrean Student Association creates space for Ethiopian and Eritrean students to celebrate shared and unique traditions while sharing their rich culture with the Rice community. Open to all students interested in learning and engaging.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/-"
+  },
+  {
+    "school": "rice",
+    "name": "Link Nonprofit",
+    "slug": "linknonprofit",
+    "email": "ntq1@rice.edu",
+    "summary": "The Rice chapter of Link Nonprofit supports the national organization's mission by committing to promoting education and advocacy about preventative healthcare. We strive to do so by organizing campaigns targeting the Rice students and the Houston.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/linknonprofit"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Black Men's Association",
+    "slug": "rbma",
+    "email": "rbma.president@gmail.com",
+    "summary": "RBMA fosters community, empowerment, and leadership development for those interested in the experiences of Black men at Rice. We support growth and build connections through mentorship, dialogue, and programs. Open to all students who share this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rbma"
+  },
+  {
+    "school": "rice",
+    "name": "Office of Sustainability",
+    "slug": "sustainability",
+    "email": "sustainability@rice.edu",
+    "summary": "The Office of Sustainability leads and supports a broad range of sustainability initiatives spanning the entire university enterprise. The Office is guided by the UN’s Sustainable Development Goals, providing a holistic view of sustainability.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/sustainability"
+  },
+  {
+    "school": "rice",
+    "name": "Civil and Environmental Engineering",
+    "slug": "ceve",
+    "email": "erica.harris@rice.edu",
+    "summary": "Department of Civil and Environmental Engineering in the George R. Brown School of Engineering",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ceve"
+  },
+  {
+    "school": "rice",
+    "name": "Rice African Graduate Student Association",
+    "slug": "ragsa",
+    "email": "oci1@RICE.EDU",
+    "summary": "The Rice African Graduate Student Association is a group of graduate students & postdocs interested in the culture, history, & community of countries in the African continent. RAGSA supports members in their academic pursuits & social acclimation to Rice",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ragsa"
+  },
+  {
+    "school": "rice",
+    "name": "Augmented Reality/Virtual Reality Club",
+    "slug": "ricearvr",
+    "email": null,
+    "summary": "The Rice AR/VR club seeks to connect students with opportunities to collaborate and learn about immersive technologies.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricearvr"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Student Venture Fund",
+    "slug": "ricevf",
+    "email": "ap165@rice.edu",
+    "summary": "We hope to provide an outlet for students who are passionate about VC in the form of a student led venture fund. This fund will give students hands-on experience with the venture process, including sourcing deals, due diligence and investment decisions.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricevf"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Student Birding Club",
+    "slug": "birding",
+    "email": "ricebirding@gmail.com",
+    "summary": "The RSBC is an organization dedicated to exposing students to campus bird biodiversity and making birdwatching an accessible hobby.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/birding"
+  },
+  {
+    "school": "rice",
+    "name": "RISE LATAM",
+    "slug": "rise_latam",
+    "email": "riselatam.rice@gmail.com",
+    "summary": "RISE LATAM is a student organization focused on the experiences of international students from Latin America, providing networking, resources, and events for students who have lived a big portion of their life in Latin America.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rise_latam"
+  },
+  {
+    "school": "rice",
+    "name": "Filipino Student Association",
+    "slug": "fsa",
+    "email": null,
+    "summary": "Rice Filipino Student Association (Rice FSA) is open to all students interested in Filipino culture. We focus on community engagement, cultural enrichment, and cross-cultural appreciation to create a space to celebrate and learn from one another.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/fsa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice University Science Bowl",
+    "slug": "rusb",
+    "email": "avr10@rice.edu",
+    "summary": "Rice University Science Bowl (RUSB) is dedicated to promoting a passion for STEM education in high schoolers via 2 primary initiatives: (1) Hosting Rice's first Science Bowl invitational, and (2) Supporting STEM interest in underprivileged high schools.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rusb"
+  },
+  {
+    "school": "rice",
+    "name": "Humanities Research Center",
+    "slug": "hrc",
+    "email": "hrc@rice.edu",
+    "summary": "The Humanities Research Center (HRC) is an internationally recognized hub for fostering innovative intellectual inquiry in the humanities and the arts at Rice.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/hrc"
+  },
+  {
+    "school": "rice",
+    "name": "Electrical and Computer Engineering Graduate Student Association",
+    "slug": "ecegsa",
+    "email": "kvyas@rice.edu",
+    "summary": "The ECE GSA exists to augment the organizational, educational, professional, and social aspects of the ECE graduate student experience. It serves as a connection to Rice’s overall GSA to voice larger concerns and gain supplementary support.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ecegsa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice New Energy Fund",
+    "slug": "rnef",
+    "email": "rnef@rice.edu",
+    "summary": "The Rice New Energy Fund (RNEF) is the world's first student-managed investment fund focused on the energy transition.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rnef"
+  },
+  {
+    "school": "rice",
+    "name": "The Alexander Hamilton Society of Rice University",
+    "slug": "alexanderhamiltonsociety",
+    "email": "kgp2@rice.edu",
+    "summary": "The Rice University chapter a non-partisan, not-for-profit, national organization that seeks to identify, educate, and launch young men and women into foreign policy and national security careers.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/alexanderhamiltonsociety"
+  },
+  {
+    "school": "rice",
+    "name": "Biochemistry and Cell Biology Graduate Student Association",
+    "slug": "bcbgsa",
+    "email": "raa5@rice.edu",
+    "summary": "The Graduate Student Association for students in the Biochemistry and Cell Biology Graduate Program. The BCB GSA represents the interests of all BCB graduate students and organizes social events.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/bcbgsa"
+  },
+  {
+    "school": "rice",
+    "name": "Third World Students' Alliance",
+    "slug": "twsa",
+    "email": null,
+    "summary": "The Third World Students' Alliance is an organization dedicated to fostering a supportive network open to all Rice graduate students from or interested in Third World backgrounds and providing political education, social engagement, and mutual aid.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/twsa"
+  },
+  {
+    "school": "rice",
+    "name": "Out & Allied",
+    "slug": "outandallied",
+    "email": "husein.lokhandwala@rice.edu",
+    "summary": "We are a student lead organization at the Jones business school. We are the LGBTQ+ affinity group for business students. We believe in fostering community outreach, and professional networking for LGBTQ+ professionals in the workplace.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/outandallied"
+  },
+  {
+    "school": "rice",
+    "name": "Fulbright@Rice",
+    "slug": "fulbrightrice",
+    "email": "gradadmissions@rice.edu",
+    "summary": "Welcome to Fulbright@Rice! If you are a graduate student or a postdoc who currently holds a Fulbright, or has held in the past a graduate Fulbright, we welcome you to reach out!",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/fulbrightrice"
+  },
+  {
+    "school": "rice",
+    "name": "Theatre Program",
+    "slug": "thea",
+    "email": "theatre@rice.edu",
+    "summary": "The Rice Theatre Program is a minor with classes in stagecraft (costume construction or theatre technology), acting or design, history of theatre, and a required production practicum. Open to all students!",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/thea"
+  },
+  {
+    "school": "rice",
+    "name": "The Moody Experience",
+    "slug": "moodyexperience",
+    "email": "ao71@rice.edu",
+    "summary": "The Moody Experience = Rice Beyond the Classroom \r\nThanks to the Moody Foundation, current and future Owls have unprecedented support and opportunity for a wide variety of experiences including international travel, civic immersion, research, and more!",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/moodyexperience"
+  },
+  {
+    "school": "rice",
+    "name": "Phi Beta Kappa: Rice Chapter",
+    "slug": "phibetakappa",
+    "email": "jb112@rice.edu",
+    "summary": "As America’s most prestigious academic honor society, the purpose of Phi Beta Kappa is to honor outstanding achievement in the liberal arts and sciences, in courses that reflect a breadth of intellectual interest and a love of learning for its own sake.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/phibetakappa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Association For African Development",
+    "slug": "rice-association-for-african-development",
+    "email": "Raade@rice.edu",
+    "summary": "We are a student club that plans to host innovation labs where members of the Rice community can provide their unique backgrounds in solving some of the challenges faced by African Businesses and NGOs",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rice-association-for-african-development"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Hong Kong Student Association",
+    "slug": "ricehksa",
+    "email": "hksa@rice.edu",
+    "summary": "As members of the Rice community, we believe that HKSA provides students with a space and opportunity to promote awareness of Hong Kong culture and the Cantonese language.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricehksa"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Undergraduate Marketing Association",
+    "slug": "ruma",
+    "email": "ricemarketingassociation@gmail.com",
+    "summary": "RUMA connects students passionate about marketing through career exposure, education, and experiential opportunities.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ruma"
+  },
+  {
+    "school": "rice",
+    "name": "First-Generation, Limited-Income Legal Collective @ Rice",
+    "slug": "fglc",
+    "email": "jec21@rice.edu",
+    "summary": "The First-Generation, Limited-Income Legal Collective at Rice is intended to be a supportive space for pre-law students, with a special focus on first-generation, limited-income, and working-class students at Rice University.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/fglc"
+  },
+  {
+    "school": "rice",
+    "name": "Association for Women Geoscientists Rice University Student Chapter",
+    "slug": "awg",
+    "email": "riceawg@gmail.com",
+    "summary": "The AWG Rice University Student Chapter is an international organization devoted to enhancing the quality and level of participation of women (including cis-gender, transgender, gender fluid and non-binary persons) in geoscience!",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/awg"
+  },
+  {
+    "school": "rice",
+    "name": "Team ENOUGH Rice",
+    "slug": "teamenoughrice",
+    "email": null,
+    "summary": "Team ENOUGH, Brady's youth-led initiative, works to educate young people about gun violence and mobilize them to take meaningful action to prevent it. We are student- advocates, who are fighting to end gun violence at Rice, Houston, and beyond.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/teamenoughrice"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Coalition on Substance Use",
+    "slug": "rcsu",
+    "email": "et71@rice.edu",
+    "summary": "The Rice Coalition on Substance Use (RCSU) is dedicated to promoting awareness, education, and support regarding substance use on our campus to foster a sense of community more inclusive to the diverse student body at Rice.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rcsu"
+  },
+  {
+    "school": "rice",
+    "name": "Long Distance Squad",
+    "slug": "longdsquad",
+    "email": "chn6@rice.edu",
+    "summary": "We are an open-to-all run club that seeks to promote a fun and inclusive environment where anyone can engage in fitness. We aim to host fun events, collaborate with businesses outside of Rice, etc.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/longdsquad"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Undergraduate Real Estate Society",
+    "slug": "ricerealestatesociety",
+    "email": null,
+    "summary": "RURES is committed to immersing students in the dynamic real estate industry, offering a comprehensive environment for learning, networking, and professional growth.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricerealestatesociety"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Global",
+    "slug": "riceglobal",
+    "email": "globalowls@rice.edu",
+    "summary": "Fostering innovative international collaborations to amplify the impact of Rice research, accelerate solutions to global challenges, and extend the global reach and reputation of Rice University.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/riceglobal"
+  },
+  {
+    "school": "rice",
+    "name": "Rice SAAVETX EF",
+    "slug": "ricesaavetxef",
+    "email": null,
+    "summary": "We're an organization dedicated to promoting civic engagement and education related to the South Asian community in Texas through programs, resources, and outreach that boost voter turnout and empowerment. Open to all who support this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricesaavetxef"
+  },
+  {
+    "school": "rice",
+    "name": "Rice IGNITE",
+    "slug": "rice-ignite",
+    "email": "igniteatrice@gmail.com",
+    "summary": "A club dedicated to empowering women and nonbinary people in the political sphere, engaging them in on and off-campus opportunities to get involved.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rice-ignite"
+  },
+  {
+    "school": "rice",
+    "name": "Gulf Students Organization",
+    "slug": "gso",
+    "email": "GSO@rice.edu",
+    "summary": "GSO is dedicated to fostering a strong sense of community among students from the\r\nGulf region individuals from Kuwait, Saudi Arabia, Qatar, the UAE, Bahrain, and\r\nOman while promoting academic excellence, cultural exchange, and intellectual\r\ngrowth.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/gso"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Quantitative Fund",
+    "slug": "ricequantfund",
+    "email": "ricequantfund@gmail.com",
+    "summary": "Our club focuses on all aspects of quantitative finance. It is centered around its fund dedicated to testing research and optimizing trading strategies. We seek to include talents who are passionate about systematic research in quantitative finance.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricequantfund"
+  },
+  {
+    "school": "rice",
+    "name": "Program in Environmental Studies",
+    "slug": "enst",
+    "email": "judge@rice.edu",
+    "summary": "The Environmental Studies program offers an undergraduate minor in Environmental Studies and several interdisciplinary courses for students interested in broadening their understanding of environmental issues.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/enst"
+  },
+  {
+    "school": "rice",
+    "name": "Office of Research Security and Export Controls",
+    "slug": "rsec",
+    "email": "rsec@rice.edu",
+    "summary": "Office of Research Security and Export Controls serves as a trusted resource to Rice’s leadership, faculty, and community of scholars in dealing with Research Security and Export control regulations.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rsec"
+  },
+  {
+    "school": "rice",
+    "name": "Center for Engineering Excellence Through Equity",
+    "slug": "ce3",
+    "email": "chf1@rice.edu",
+    "summary": "The Center for Engineering Excellence Through Equity aims to leverage the strengths of the Rice Engineering and Computing community to build an inclusive school culture that welcomes people from diverse backgrounds.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ce3"
+  },
+  {
+    "school": "rice",
+    "name": "Office of Academic Support for Undergraduate Students",
+    "slug": "oasus",
+    "email": "oasus@rice.edu",
+    "summary": "Through Drop-In study, Peer Assisted Learning, the Peer Educator Training Program as well as Workshops and the Testing Center, we aim to ensure that every Rice undergraduate is able to pursue, progress through, and achieve their preferred academic path.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/oasus"
+  },
+  {
+    "school": "rice",
+    "name": "Electrical and Computer Engineering",
+    "slug": "ece",
+    "email": "ece@rice.edu",
+    "summary": "Electrical and Computer Engineering (ECE) is at the crossroads of hardware and software – to create better, faster, safer technologies and to innovate and design technologies in computing, communications, electronics, and automation.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ece"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Alternative Investments Club",
+    "slug": "raic",
+    "email": "ricealtinvestmentsclub@gmail.com",
+    "summary": "RAIC aims to expand knowledge and opportunities in the alternative investments sector for undergraduate students by increasing awareness of career paths and connecting club members with internships and networking opportunities.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/raic"
+  },
+  {
+    "school": "rice",
+    "name": "Visual Artists at Rice",
+    "slug": "vaar",
+    "email": "vh23@rice.edu",
+    "summary": "VAAR (Visual Artists at Rice) is a creative community open to all students, offering weekly studio hours in Sarofim Hall. VAAR fosters a relaxed, welcoming space for anyone interested in art. Paint, draw, hang out, and create in whatever way feels right.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/vaar"
+  },
+  {
+    "school": "rice",
+    "name": "Open Hearts",
+    "slug": "openhearts",
+    "email": "openhearts.rice@gmail.com",
+    "summary": "We work with local Houston schools to provide accessible arts and crafts activities for students of all ages with developmental delays! Come join us if you are passionate about the arts, service, teaching, or community service :)",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/openhearts"
+  },
+  {
+    "school": "rice",
+    "name": "Rice SYNergy",
+    "slug": "ricesynergy",
+    "email": "ricesynergyofficial@gmail.com",
+    "summary": "Rice SYNergy is a student-led organization that intends to build a supportive community for Rice undergraduate researchers and serve as a forum and foundation for undergraduate research opportunities, ideas, resources and competition teams at Rice.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricesynergy"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Critical Humanities Collective",
+    "slug": "ricecrithumacollective",
+    "email": "ms273@rice.edu",
+    "summary": "A space for Rice undergrads to come together and reflect on contemporary culture, power, and social life through a critical lens, challenging conventional understandings.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricecrithumacollective"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Women in Physics",
+    "slug": "ricewomeninphysics",
+    "email": "ricewomeninphysics@rice.edu",
+    "summary": "Rice Women in Physics hosts members at all levels in physics and related fields, from undergraduates to faculty at monthly social and networking events. Open to all who support its mission, fostering community and opportunities for women in physics.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricewomeninphysics"
+  },
+  {
+    "school": "rice",
+    "name": "Science and Technology Studies Minor",
+    "slug": "stsminor",
+    "email": null,
+    "summary": "Science and Technology Studies is a joint program between Rice’s School of Humanities and School of Social Sciences that examines science and technology within their social, political, cultural and historical contexts.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/stsminor"
+  },
+  {
+    "school": "rice",
+    "name": "Rice PsychOWLogy Club",
+    "slug": "ricepsy",
+    "email": null,
+    "summary": "Rice PsychOWLogy Club brings together Rice students to explore psychological science through academic, professional, and social support in an inclusive, student-led environment that connects members with faculty and local partners.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricepsy"
+  },
+  {
+    "school": "rice",
+    "name": "Neuroengineering Student Association",
+    "slug": "neuroengineering",
+    "email": null,
+    "summary": "The NESA is established to primarily represent and support the interests of the students from all Rice Neuroengineering Initiative affiliate Labs, and secondarily of all Rice University students of the Neuroengineering disciplines.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/neuroengineering"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Economic Forum",
+    "slug": "rice_economic_forum",
+    "email": null,
+    "summary": "An institution dedicated to the advancement of the study of Economics at Rice University.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/rice_economic_forum"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Formula SAE",
+    "slug": "riceformulasae",
+    "email": "riceformulasae@gmail.com",
+    "summary": "Rice Formula SAE is a student-run engineering team that designs, builds, and competes with a Formula-style race car in the international Formula SAE Series. The club fosters hands-on design, manufacturing, teamwork, and professional development.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/riceformulasae"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Undergraduate Archaeological Society",
+    "slug": "ruas",
+    "email": "riceundergradarchaeology@gmail.com",
+    "summary": "RUAS provides a space for archaeology majors and those interested in the field to learn, connect with similarly interested individuals, and engage with the Houston community through fun archaeology activities.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ruas"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Satellite Club",
+    "slug": "owlsat",
+    "email": null,
+    "summary": "A club focused on learning about and working with satellite-related technologies",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/owlsat"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Athletes in Finance",
+    "slug": "raif",
+    "email": "cpk3@rice.edu",
+    "summary": "Recruiting, educating, and empowering Rice student-athletes in pursuing careers within the finance industry. We aim to bridge the gap between members and careers in finance by aiding their journey with education, mentorship, and network facilitation.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/raif"
+  },
+  {
+    "school": "rice",
+    "name": "Rice Psychology Student Journal",
+    "slug": "ricepsychstudentjournal",
+    "email": null,
+    "summary": "RPSJ is an undergraduate publication dedicated to psychology.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/ricepsychstudentjournal"
+  },
+  {
+    "school": "rice",
+    "name": "Rice for Leukemia & Lymphoma Society",
+    "slug": "riceforlls",
+    "email": "lls@rice.edu",
+    "summary": "A club supporting the Leukemia & Lymphoma Society by raising funds, spreading awareness, and engaging our campus in the fight against blood cancers through events, outreach, and advocacy to improve the quality of life for patients and their families.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/riceforlls"
+  },
+  {
+    "school": "rice",
+    "name": "NAACP at Rice University",
+    "slug": "naacp",
+    "email": "naacp@rice.edu",
+    "summary": "The NAACP promotes political, educational, and equality rights for all citizens, with a focus on minority communities, the eradication of racial prejudice, access at Rice, and fostering inclusion on campus. Open to all who share this mission.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/naacp"
+  },
+  {
+    "school": "rice",
+    "name": "Pi Sigma Alpha - Alpha Epsilon Pi",
+    "slug": "pi-sigma-alpha",
+    "email": null,
+    "summary": "Alpha Epsilon Pi is Rice's chapter of Pi Sigma Alpha, the national political science honor society. Pi Sigma Alpha aims recognize academic excellence by, and provide leadership opportunities for, undergraduate and graduate students in political science.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/pi-sigma-alpha"
+  },
+  {
+    "school": "rice",
+    "name": "Gift of Life at Rice",
+    "slug": "giftoflife",
+    "email": null,
+    "summary": "Gift of Life Marrow Registry is a nonprofit that cures blood cancer and inherited immune disorders through bone marrow and stem cell transplants.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/giftoflife"
+  },
+  {
+    "school": "rice",
+    "name": "Global Shapers - Rice Chapter",
+    "slug": "riceshapers",
+    "email": null,
+    "summary": "A student-led chapter of the Global Shapers Houston Hub, empowering Rice students to lead community impact projects, foster leadership, and connect with a global network of changemakers.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/riceshapers"
+  },
+  {
+    "school": "rice",
+    "name": "Czech and Slovak Society",
+    "slug": "czsks",
+    "email": null,
+    "summary": "The Czech and Slovak Society aims to build a supportive, professional, and friendly network for Czech and Slovak undergraduate and graduate students.",
+    "categories": [],
+    "url": "https://rice.campuslabs.com/engage/organization/czsks"
+  }
+]

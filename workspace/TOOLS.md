@@ -1,20 +1,40 @@
-# TOOLS.md — Environment Notes
+# TOOLS.md - Local Notes
 
-## Supabase
+Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
-Credentials are injected as secrets (`SUPABASE_URL`, `SUPABASE_ANON_KEY`).
-Full API patterns: `lead-agent/skills/supabase-crm/SKILL.md`
+## What Goes Here
 
-## Telegram
+Things like:
 
-Bot token managed by the Pinata runtime.
-Group privacy must be **OFF** for the bot to read all group messages (not just mentions).
-BD steward must DM the bot once to enable outbound notifications.
+- Camera names and locations
+- SSH hosts and aliases
+- Preferred voices for TTS
+- Speaker/room names
+- Device nicknames
+- Anything environment-specific
 
-## BD Steward Telegram ID
+## Examples
 
-_(Set this after bootstrap)_
+```markdown
+### Cameras
 
+- living-room → Main area, 180° wide angle
+- front-door → Entrance, motion-triggered
+
+### SSH
+
+- home-server → 192.168.1.100, user: admin
+
+### TTS
+
+- Preferred voice: "Nova" (warm, slightly British)
+- Default speaker: Kitchen HomePod
 ```
-BD_STEWARD_TELEGRAM_ID=
-```
+
+## Why Separate?
+
+Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
+
+---
+
+Add whatever helps you do your job. This is your cheat sheet.

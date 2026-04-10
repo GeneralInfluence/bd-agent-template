@@ -1,0 +1,21 @@
+# Ignore everything except workspace and skills
+*
+!workspace/
+!workspace/**
+!skills/
+!skills/**
+!.gitignore
+
+# Sensitive files and OS junk
+.DS_Store
+.env
+**/*.key
+**/*.pem
+**/secrets*
+
+# Build artifacts and temp files
+**/*.log
+**/*.tmp
+**/*.bak
+**/*.bak.*
+**/.cache
