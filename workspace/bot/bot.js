@@ -21,7 +21,7 @@ const llm = require('./src/llm');
 const ditto = require('./src/ditto');
 const prism = require('./src/prism');
 const steward = require('./src/steward');
-const webhook = require('./src/webhook');
+const poller = require('./src/poller');
 const reminders = require('./src/reminders');
 
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
@@ -316,8 +316,8 @@ bot.command('reminders', async (ctx) => {
 
 bot.catch(err => console.error('Bot error:', err));
 
-// Start webhook server (Supabase → Ditto + steward notifications, no LLM)
-webhook.start(bot);
+// Start lead poller (polls Supabase every 60s → Ditto + steward notifications, no LLM)
+poller.start(bot);
 
 // Start cron scheduler (reminders, stale detection, weekly pipeline)
 reminders.start(bot);

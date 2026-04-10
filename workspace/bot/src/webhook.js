@@ -1,7 +1,18 @@
 'use strict';
 
 /**
- * Webhook Server — Supabase → bot side-channel
+ * Webhook Server — Supabase → bot side-channel (ADVANCED / OPTIONAL)
+ *
+ * NOTE: The default setup uses poller.js instead of this file.
+ * Polling requires zero configuration and works out of the box.
+ *
+ * Use this file only if you need instant (<1s) notifications and your
+ * server has a public IP with port 3001 open. Requires manual Supabase
+ * dashboard configuration (see SETUP-SUPABASE-WEBHOOK.md).
+ *
+ * To switch from polling to webhooks:
+ *   In bot.js, replace: poller.start(bot)
+ *             with:     webhook.start(bot)
  *
  * Receives Supabase Database Webhooks (POST /webhook/lead-event) and:
  *   1. Fires a structured Ditto contribution-ledger log
