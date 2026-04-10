@@ -54,16 +54,6 @@
       "required": false
     },
     {
-      "name": "WEBHOOK_SECRET",
-      "description": "(Optional) Shared secret for Supabase → bot webhooks. Set the same value in your Supabase webhook headers as x-webhook-secret. Strongly recommended in production.",
-      "required": false
-    },
-    {
-      "name": "WEBHOOK_PORT",
-      "description": "(Optional) Port for the webhook HTTP server that receives Supabase lead events. Defaults to 3001.",
-      "required": false
-    },
-    {
       "name": "STEWARD_TZ",
       "description": "(Optional) IANA timezone for the BD steward (e.g. America/Los_Angeles). Used for daily stale-lead checks and weekly pipeline summaries. Defaults to America/Los_Angeles.",
       "required": false
