@@ -59,7 +59,22 @@
     },
     {
       "name": "DITTO_API_KEY",
-      "description": "(Optional) Ditto knowledge graph API key. Enables relationship tracking and contribution attribution for rewards/kudos calculation. Get a key at heyditto.ai.",
+      "description": "(Optional) Ditto knowledge graph API key. Enables contribution attribution for rewards/kudos calculation when deals close. Get a key at heyditto.ai.",
+      "required": false
+    },
+    {
+      "name": "WEBHOOK_SECRET",
+      "description": "(Optional) Shared secret for Supabase → bot webhooks. Set the same value in your Supabase webhook headers as x-webhook-secret. Strongly recommended in production.",
+      "required": false
+    },
+    {
+      "name": "WEBHOOK_PORT",
+      "description": "(Optional) Port for the webhook HTTP server that receives Supabase lead events. Defaults to 3001.",
+      "required": false
+    },
+    {
+      "name": "STEWARD_TZ",
+      "description": "(Optional) IANA timezone for the BD steward (e.g. America/Los_Angeles). Used for daily stale-lead checks and weekly pipeline summaries. Defaults to America/Los_Angeles.",
       "required": false
     }
   ],
@@ -69,11 +84,5 @@
     "start": "cd workspace/bot && pm2 start bot.js --name lead-agent-bot --no-daemon || node bot.js"
   },
 
-  "tasks": [
-    {
-      "name": "pipeline-review",
-      "schedule": { "kind": "cron", "expr": "0 14 * * 1" },
-      "payload": { "kind": "agentTurn", "text": "Review all active leads in the pipeline. Check for any with no activity in 7+ days and flag them. Summarize the pipeline status and notify the BD steward if anything needs attention." }
-    }
-  ]
+  "tasks": []
 }

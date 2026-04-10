@@ -4,9 +4,11 @@
 Identify **theoretical leads** — people and organizations that may be interested in RaidGuild services but have not yet been contacted or introduced.
 
 ## Opportunity Types
-- **New Raids** — Development/design work for a client
-- **Recruiting** — Talent interested in joining RaidGuild
-- **New Ventures** — Partnership or co-creation opportunities
+- **Cohort Sponsorship** — An org sponsors a RaidGuild cohort (cash/equity/tokens)
+- **Raid / Contract** — Development or design work for a client
+- **Recruiting for a Sponsor** — Talent placement via cohorts for a sponsoring org
+- **Cohort Attendee Recruiting** — Sourcing people to join a cohort
+- **New Venture** — Partnership, co-creation, or spin-out opportunity
 
 ## What Is a Theoretical Lead?
 A person or org identified as a potential fit for RaidGuild services based on:
