@@ -197,3 +197,51 @@ curl -s "$SUPABASE_URL/rest/v1/telegram_users?order=last_seen_at.desc" \
 - The anon key can read/write via RLS policies. If writes fail, RLS may need to be configured in Supabase.
 - For table creation/migration, use the Supabase SQL Editor (Dashboard → SQL) or a service role key.
 - The `leads` table `updated_at` field should be manually set on updates (no auto-trigger yet).
+
+## Intelligence Update Workflow
+
+When the BD Steward shares chat logs, proposal docs, or on-chain data, use this workflow to update both Supabase and the Ditto knowledge graph.
+
+### Step 1 — Extract intel
+From the source material, identify:
+- **Lead patch fields:** status, description, notes, client_contact, assigned_member, priority
+- **Timeline events:** key milestones (funding confirmed, stakeholder changes, blockers, etc.)
+- **Contributors:** everyone involved and their specific roles (for Ditto)
+
+### Step 2 — Update Supabase lead
+PATCH the lead record with extracted fields. Always include `updated_at: "now()"`.
+
+### Step 3 — Log lead events
+Batch-insert events for each significant milestone. Event types:
+- `payment_confirmed` — on-chain funding received
+- `status_change` — pipeline stage change
+- `note` — internal intel (team discussions, blockers)
+- `follow_up` — pending action with a date
+
+### Step 4 — Save to Ditto
+Use the Ditto Log Format from MEMORY.md. Rules:
+- Subject = the WORK (Raid/Contract, etc.), never a person
+- Name ALL contributors with specific roles
+- Explicitly note anyone who should NOT receive contributor credit
+- Include current status + next step with date
+
+### Step 5 — Schedule follow-ups
+Use `cron` to set reminders for pending action items.
+
+### CLI (manual updates)
+```bash
+cd /home/node/clawd/workspace/bd-funnel
+node workspace/lead-agent/scripts/update-lead.js <lead-id> \
+  --status funded \
+  --notes "Waiting on Gnosis deployment call" \
+  --event "Pre-launch status confirmed. Audit done." \
+  --actor "Elco"
+```
+
+### People Profiling Workflow
+When given Telegram handles for a new channel/group:
+1. Run `web_search` for each handle (name, role, org, Twitter/GitHub)
+2. Update the lead's `client_contact` and `notes` with confirmed profiles
+3. Save a people profiles update to Ditto naming each person's role
+4. For client-side contacts: focus on decision-making authority (can they commit budget?)
+5. For RaidGuild members: capture specific contribution role for compensation ledger

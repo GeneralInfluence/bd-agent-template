@@ -1,5 +1,8 @@
 'use strict';
 
+const { execSync } = require('child_process');
+const path = require('path');
+
 /**
  * Ditto Knowledge Graph Integration (optional)
  * https://heyditto.ai/docs/mcp-server
@@ -11,36 +14,8 @@
  * Only active when DITTO_API_KEY is set. Falls back silently without it.
  */
 
-const DITTO_API = 'https://api.heyditto.ai/mcp';
-
 function isEnabled() {
   return !!process.env.DITTO_API_KEY;
-}
-
-async function callDitto(method, params) {
-  if (!isEnabled()) return null;
-
-  const res = await fetch(DITTO_API, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${process.env.DITTO_API_KEY}`,
-    },
-    body: JSON.stringify({
-      jsonrpc: '2.0',
-      id: Date.now(),
-      method: `tools/call`,
-      params: { name: method, arguments: params },
-    }),
-  });
-
-  if (!res.ok) {
-    console.error(`[ditto] ${method} failed: ${res.status}`);
-    return null;
-  }
-
-  const data = await res.json();
-  return data?.result;
 }
 
 /**
@@ -53,12 +28,14 @@ async function callDitto(method, params) {
 async function saveMemory(content, sourceContext = '') {
   if (!isEnabled()) return;
   try {
-    await callDitto('save_memory', {
-      content,
-      source: 'lead-agent-bot',
-      sourceContext,
-    });
-    console.log(`[ditto] saved: ${content.slice(0, 60)}...`);
+    const configPath = path.resolve(__dirname, '../../../config/mcporter.json');
+    const escaped = content.replace(/'/g, "'\\''");
+    const escapedCtx = sourceContext.replace(/'/g, "'\\''");
+    execSync(
+      `npx mcporter --config '${configPath}' call ditto.save_memory content='${escaped}' source='lead-agent-bot' sourceContext='${escapedCtx}'`,
+      { timeout: 30000, stdio: 'pipe' }
+    );
+    console.log('[ditto] saved:', content.slice(0, 60) + '...');
   } catch (e) {
     console.error('[ditto] saveMemory error:', e.message);
   }

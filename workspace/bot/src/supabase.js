@@ -82,4 +82,24 @@ async function isOptedOut(user_id) {
   return !!data;
 }
 
-module.exports = { init, upsertUser, createLead, logEvent, logMessage, isOptedOut };
+// Update a lead's fields
+async function updateLead(id, fields) {
+  const db = client();
+  const { data, error } = await db
+    .from('leads')
+    .update({ ...fields, updated_at: new Date().toISOString() })
+    .eq('id', id)
+    .select()
+    .single();
+  if (error) throw error;
+  return data;
+}
+
+// Log multiple events in one call
+async function logEvents(events) {
+  const db = client();
+  const { error } = await db.from('lead_events').insert(events);
+  if (error) throw error;
+}
+
+module.exports = { init, upsertUser, createLead, updateLead, logEvent, logEvents, logMessage, isOptedOut };
