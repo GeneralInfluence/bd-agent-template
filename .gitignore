@@ -6,6 +6,8 @@
 !skills/**
 !lead-agent/
 !lead-agent/**
+!evro/
+!evro/**
 !manifest.json
 !README.md
 !.gitignore
