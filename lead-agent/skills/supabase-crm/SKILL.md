@@ -59,6 +59,50 @@ Activity log for each lead.
 | metadata | jsonb | Structured data (links, tx hashes, etc.) |
 | created_at | timestamptz | Auto |
 
+### active_raids
+Ongoing RaidGuild engagements — distinct from pipeline leads. A Raid is confirmed, funded work where RaidGuild is already delivering.
+
+| Column | Type | Notes |
+|--------|------|-------|
+| id | UUID | Auto-generated |
+| name | text | Short name (e.g. "EVRO") |
+| full_name | text | Full description name |
+| raid_type | text | `audit`, `development`, `management`, `consulting`, `other` |
+| status | text | `active`, `paused`, `upsell`, `completed`, `archived` |
+| client_org | text | Org or protocol name |
+| website | text | |
+| app_url | text | |
+| github | text | |
+| assigned_members | text[] | RaidGuild members on this raid |
+| rg_governance_pct | text | e.g. "30% of RETVRN" |
+| safe_address | text | Multisig address if applicable |
+| revenue_to_date | numeric | USD earned so far |
+| upsell_description | text | Next revenue opportunity description |
+| upsell_value | numeric | Estimated USD value of upsell |
+| key_contacts | jsonb | `[{name, handle, email, role}]` — external contacts |
+| governance_token | text | e.g. "RETVRN" |
+| token_allocation | jsonb | `{raidguild: "30%", gnosis_dao: "15%", treasury: "55%"}` |
+| description | text | Free-form |
+| notes | text | Free-form |
+| created_at | timestamptz | Auto |
+| updated_at | timestamptz | Auto |
+
+### raid_events
+Activity log for each active raid.
+
+| Column | Type | Notes |
+|--------|------|-------|
+| id | UUID | Auto-generated |
+| raid_id | UUID | FK to active_raids |
+| event_type | text | `milestone`, `note`, `upsell`, `payment`, `status_change`, `team_change`, `technical`, `follow_up` |
+| actor | text | Who did it |
+| actor_id | bigint | Telegram user_id if known |
+| details | text | What happened |
+| metadata | jsonb | Links, tx hashes, amounts, etc. |
+| created_at | timestamptz | Auto |
+
+> **leads** also has a nullable `raid_id` FK to `active_raids` — for upsell opportunities that originate within an existing engagement.
+
 ### conversations (existing)
 Raw message history. Has optional `lead_id` column to link messages to a lead.
 
@@ -182,6 +226,45 @@ curl -s -X POST "$SUPABASE_URL/rest/v1/telegram_users" \
 curl -s "$SUPABASE_URL/rest/v1/telegram_users?order=last_seen_at.desc" \
   -H "apikey: $SUPABASE_ANON_KEY" \
   -H "Authorization: Bearer $SUPABASE_ANON_KEY"
+```
+
+### List active raids
+```bash
+curl -s "$SUPABASE_URL/rest/v1/active_raids?status=not.in.(completed,archived)&order=updated_at.desc" \
+  -H "apikey: $SUPABASE_ANON_KEY" \
+  -H "Authorization: Bearer $SUPABASE_ANON_KEY"
+```
+
+### Get raid with events
+```bash
+curl -s "$SUPABASE_URL/rest/v1/active_raids?id=eq.<raid-uuid>&select=*,raid_events(*)" \
+  -H "apikey: $SUPABASE_ANON_KEY" \
+  -H "Authorization: Bearer $SUPABASE_ANON_KEY"
+```
+
+### Log a raid event
+```bash
+curl -s -X POST "$SUPABASE_URL/rest/v1/raid_events" \
+  -H "apikey: $SUPABASE_ANON_KEY" \
+  -H "Authorization: Bearer $SUPABASE_ANON_KEY" \
+  -H "Content-Type: application/json" \
+  -H "Prefer: return=representation" \
+  -d '{
+    "raid_id": "<raid-uuid>",
+    "event_type": "milestone",
+    "actor": "Elco",
+    "details": "V5 deployment approved by Gnosis DAO — €5M deployed across 6 collateral branches"
+  }'
+```
+
+### Update raid status
+```bash
+curl -s -X PATCH "$SUPABASE_URL/rest/v1/active_raids?id=eq.<raid-uuid>" \
+  -H "apikey: $SUPABASE_ANON_KEY" \
+  -H "Authorization: Bearer $SUPABASE_ANON_KEY" \
+  -H "Content-Type: application/json" \
+  -H "Prefer: return=representation" \
+  -d '{"status": "active", "updated_at": "now()"}'
 ```
 
 ## Data Logging Rules
