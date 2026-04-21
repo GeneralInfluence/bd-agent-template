@@ -2,7 +2,7 @@
 
 **Prepared by:** RaidGuild BD  
 **Date:** 2026-04-17  
-**Status:** Draft v1  
+**Status:** Draft v1 (revised 2026-04-21)  
 **Governance contract:** `0xdd100e25ef57fb43fd17a14ae62b273e9cc0d890` (Moloch v3/Baal, Gnosis Chain)
 
 ---
@@ -11,7 +11,11 @@
 
 EVRO is a EUR-pegged CDP stablecoin on Gnosis Chain, built as a fork of Liquity v2. RaidGuild manages the EVRO DAO and holds 30% of the RETVRN governance token, with GnosisDAO holding 15% and 55% held in the DAO treasury.
 
-The immediate objective is to transition the EVRO Build Team into the **EVRO Management Team** — a permanent operating body responsible for the protocol's health, growth, and adoption. Securing €5M from Gnosis DAO as the protocol's initial liquidity pool is the first major milestone, projected to yield ~€124k/year for the EVRO DAO at current parameters.
+The immediate objective is to transition the EVRO Build Team into the **EVRO Management Team** — a permanent operating body responsible for the protocol's health, growth, and adoption. Securing €5M from Gnosis DAO as the protocol's initial liquidity pool is the first major milestone.
+
+**Yield mechanics:** The protocol routes 25% of borrower interest to the EVRO DAO; 75% goes to LPs (Stability Pool depositors). At a conservative risk-free rate baseline of ~4.2%, a €5M deployment yields ~€210k/year gross → ~€52.5k/year to the EVRO DAO.
+
+**RETVRN token note:** RETVRN represents governance voting power, not an automatic revenue share. RaidGuild's 30% stake gives meaningful governance influence. The 55% treasury (controlled by the multisig: Joe, Ian, Elco, EC) manages DAO funds and spending — RaidGuild compensation for ongoing management work is determined by DAO governance proposals.
 
 This document defines the three pillars of DAO management:
 1. **Yield** — balancing returns with protocol safety
@@ -87,10 +91,16 @@ Borrowers set their own interest rates within protocol constraints:
 | Bridge / Curve | 20% | ~€1,000,000 |
 | Reserve | 5% | ~€250,000 |
 
-**Projected yield at V5:**
-- ~8.1% annualized gross
-- ~€124k/year to EVRO DAO (25% of gross yield on €5M)
-- ~€373k/year net to Gnosis LP (after DAO fee)
+**Projected yield at V5 (conservative baseline):**
+
+| Scenario | Gross Rate | Gross Yield (€5M) | EVRO DAO (25%) | LPs (75%) |
+|---|---|---|---|---|
+| Risk-free floor | 4.2% | €210,000 | €52,500 | €157,500 |
+| Moderate | 6.0% | €300,000 | €75,000 | €225,000 |
+| Optimistic | 8.0% | €400,000 | €100,000 | €300,000 |
+| Upside | 10.0% | €500,000 | €125,000 | €375,000 |
+
+The actual gross rate depends on capital allocation and borrower demand across the 6 collateral branches. The risk-free rate (~4.2%) is the conservative floor.
 
 ### 2.3 Yield Optimization Framework
 
