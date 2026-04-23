@@ -22,7 +22,7 @@
  * Environment: SUPABASE_URL, SUPABASE_ANON_KEY, DITTO_API_KEY (optional)
  */
 
-require('dotenv').config({ path: require('path').resolve(__dirname, '../../../.env.raidguild') });
+require('dotenv').config({ path: require('path').resolve(__dirname, '../../.env.raidguild') });
 
 const { createClient } = require('@supabase/supabase-js');
 const { execSync } = require('child_process');

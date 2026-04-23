@@ -59,7 +59,18 @@ In your Supabase SQL Editor, run in order:
 
 Start a conversation with your agent. It'll ask about your org, your pipeline, and who should receive lead notifications. Follow the prompts in `workspace/BOOTSTRAP.md`.
 
-### 5. Unlock Notifications
+### 5. Install Script Dependencies
+
+The BD steward CLI scripts require Node.js dependencies. From your agent workspace:
+
+```bash
+cd workspace/lead-agent
+npm install
+```
+
+This installs `@supabase/supabase-js` and `dotenv` for the `scripts/update-lead.js` CLI.
+
+### 6. Unlock Notifications
 
 Have your BD steward DM the Telegram bot once (any message). This unlocks the bot's ability to send them lead notifications.
 

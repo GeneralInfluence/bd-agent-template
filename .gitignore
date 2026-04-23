@@ -25,3 +25,6 @@
 **/*.bak
 **/*.bak.*
 **/.cache
+
+# Node dependencies
+**/node_modules/

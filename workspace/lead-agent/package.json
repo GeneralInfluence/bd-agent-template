@@ -1,0 +1,13 @@
+{
+  "name": "lead-agent-scripts",
+  "version": "1.0.0",
+  "description": "CLI scripts for BD steward — manual lead updates, Supabase writes, Ditto graph updates.",
+  "private": true,
+  "scripts": {
+    "update-lead": "node scripts/update-lead.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "dotenv": "^16.4.7"
+  }
+}
