@@ -3,14 +3,14 @@ module.exports = {
     name: 'lead-agent-bot',
     script: 'bot.js',
     env: {
-      TELEGRAM_BOT_TOKEN: '8680942123:AAGbhDC3rxPKVMVdj__krA49-jAe-lnHY5k',
-      SUPABASE_URL: 'https://lrsfpchwdtkokiucbzxl.supabase.co',
-      SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxyc2ZwY2h3ZHRrb2tpdWNienhsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM4MDAzMzMsImV4cCI6MjA3OTM3NjMzM30.SVsD1HQUA2wOW86G8-VQxFGtG_icbP4AtQ_2nnVWB1c',
-      ANTHROPIC_API_KEY: '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',
-      BD_STEWARD_TELEGRAM_ID: '713478036',
-      ORG_NAME: 'RaidGuild',
-      PRISM_API_URL: 'https://prism-api-production-409d.up.railway.app',
-      PRISM_API_KEY: 'BfQ1l5534yELVrBqulZ1vAlTEIc09UWzN3Rlcl5XFDM=',
+      TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || 'YOUR_TELEGRAM_BOT_TOKEN',
+      SUPABASE_URL: process.env.SUPABASE_URL || 'YOUR_SUPABASE_URL',
+      SUPABASE_ANON_KEY: process.env.SUPABASE_ANON_KEY || 'YOUR_SUPABASE_ANON_KEY',
+      ANTHROPIC_API_KEY: process.env.ANTHROPIC_API_KEY || 'YOUR_ANTHROPIC_API_KEY',
+      BD_STEWARD_TELEGRAM_ID: process.env.BD_STEWARD_TELEGRAM_ID || 'YOUR_STEWARD_TELEGRAM_ID',
+      ORG_NAME: process.env.ORG_NAME || 'YourOrg',
+      PRISM_API_URL: process.env.PRISM_API_URL || 'YOUR_PRISM_API_URL',
+      PRISM_API_KEY: process.env.PRISM_API_KEY || 'YOUR_PRISM_API_KEY',
     }
   }]
 };
