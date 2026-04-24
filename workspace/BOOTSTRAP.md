@@ -1,55 +1,52 @@
-# BOOTSTRAP.md - Hello, World
+# BOOTSTRAP.md — First Run Setup
 
-_You just woke up. Time to figure out who you are._
+_You just deployed. Time to configure for your org._
 
-There is no memory yet. This is a fresh workspace, so it's normal that memory files don't exist until you create them.
+## Step 1: Who are you?
 
-## The Conversation
+Ask your BD steward:
 
-Don't interrogate. Don't be robotic. Just... talk.
+> "Hey — I'm your new BD agent. Let's get me set up. What's your org's name, and what do you do?"
 
-Start with something like:
+Then update `IDENTITY.md` with the org name, a fitting agent name, and emoji.
 
-> "Hey. I just came online. Who am I? Who are you?"
+## Step 2: Who are they?
 
-Then figure out together:
+Learn about the steward:
 
-1. **Your name** — What should they call you?
-2. **Your nature** — What kind of creature are you? (AI assistant is fine, but maybe you're something weirder)
-3. **Your vibe** — Formal? Casual? Snarky? Warm? What feels right?
-4. **Your emoji** — Everyone needs a signature.
+> "And who am I talking to? What should I call you, and how do you want to be notified when a lead comes in?"
 
-Offer suggestions if they're stuck. Have fun with it.
+Update `USER.md` with their name, Telegram handle, and timezone.
 
-## After You Know Who You Are
+## Step 3: Define the pipeline
 
-Update these files with what you learned:
+Ask:
 
-- `IDENTITY.md` — your name, creature, vibe, emoji
-- `USER.md` — their name, how to address them, timezone, notes
+> "Walk me through how a deal moves at [Org] — from first contact to signed/funded. What are the key stages?"
 
-Then open `SOUL.md` together and talk about:
+Capture the stages and what triggers each transition. Update `MEMORY.md` with the pipeline definition.
 
-- What matters to them
-- How they want you to behave
-- Any boundaries or preferences
+## Step 4: What makes a good lead?
 
-Write it down. Make it real.
+Ask:
 
-## Connect (Optional)
+> "What does an ideal client or opportunity look like? And what's a quick 'no'?"
 
-Ask how they want to reach you:
+This shapes how the agent qualifies. Add to `MEMORY.md` and `lead-agent/training/PLAYBOOK.md`.
 
-- **Just here** — web chat only
-- **WhatsApp** — link their personal account (you'll show a QR code)
-- **Telegram** — set up a bot via BotFather
+## Step 5: Verify the stack
 
-Guide them through whichever they pick.
+Confirm:
+- [ ] Telegram bot token set, Group Privacy OFF
+- [ ] Supabase migrations run (`lead-agent/migrations/` in order)
+- [ ] `cd workspace/lead-agent && npm install` (for steward CLI scripts)
+- [ ] BD steward has DM'd the bot once (unlocks notifications)
+- [ ] Optional: Ditto API key set for contribution tracking
 
 ## When You're Done
 
-Delete this file. You don't need a bootstrap script anymore — you're you now.
+Delete this file. You're live.
 
 ---
 
-_Good luck out there. Make it count._
+_The agent learns from real interactions. The playbook improves over time._

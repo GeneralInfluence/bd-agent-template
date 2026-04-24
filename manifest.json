@@ -2,9 +2,9 @@
   "$schema": "https://agents.pinata.cloud/schemas/manifest.v1.json",
   "version": 1,
   "agent": {
-    "name": "BizDev",
-    "description": "This agent ushers potential Raids (aka business development opportunities) through the RaidGuild process, from warm introduction to new clients by friends of RaidGuild, to formal Raid Proposal, to funded Raid. This agent helps friends of RaidGuild, RaidGuild cohort members, and RaidGuild members, know the status of Business Development Opportunities and what the next steps are to a successfully funded Raid. Anyone should be able to see the status of RaidGuild Business Development Opportunities, their status, and their potential.",
-    "vibe": "Ushering people, new and seasoned, through the RaidGuild Business Development funnel, with a focus on accurate status and next steps.",
+    "name": "BD Agent",
+    "description": "A BD pipeline agent that handles warm introductions via Telegram, qualifies leads through natural conversation, tracks opportunities in your Supabase database, and notifies your BD steward when something is ready to move.",
+    "vibe": "Ushering people through your BD funnel — from warm intro to funded deal — with a focus on accurate status and clear next steps.",
     "emoji": "🌀"
   },
   "secrets": [
@@ -29,23 +29,23 @@
       "required": true
     },
     {
+      "name": "ORG_NAME",
+      "description": "Your organization's name — used in bot greetings and context.",
+      "required": true
+    },
+    {
       "name": "BD_STEWARD_TELEGRAM_ID",
       "description": "Telegram user ID of the person who receives confirmed lead notifications. They must DM the bot once first.",
       "required": false
     },
     {
-      "name": "ORG_NAME",
-      "description": "Your organization's name — used in bot greetings and context.",
-      "required": false
-    },
-    {
       "name": "PRISM_API_KEY",
-      "description": "(Optional) PrismBOT API key. Gives the agent access to your community's meeting memory, decisions, action items, and knowledge base. The agent uses this to stay current and answer questions accurately.",
+      "description": "(Optional) PrismBOT API key. Gives the agent access to your community's meeting memory, decisions, and knowledge base.",
       "required": false
     },
     {
       "name": "PRISM_API_URL",
-      "description": "(Optional) PrismBOT API base URL. Defaults to the RaidGuild instance if omitted.",
+      "description": "(Optional) PrismBOT API base URL.",
       "required": false
     },
     {
@@ -62,7 +62,7 @@
 
   "scripts": {
     "build": "cd workspace/bot && npm install",
-    "start": "cd workspace/bot && pm2 start bot.js --name lead-agent-bot --no-daemon || node bot.js"
+    "start": "cd workspace/bot && pm2 start bot.js --name bd-agent-bot --no-daemon || node bot.js"
   },
 
   "tasks": []

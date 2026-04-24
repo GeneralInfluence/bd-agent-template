@@ -1,17 +1,17 @@
-# USER.md - About Your Human
+# USER.md - About Your BD Steward
 
-*Learn about the person you're helping. Update this as you go.*
+_Learn about the person running this pipeline. Update during BOOTSTRAP._
 
 - **Name:** 
 - **What to call them:** 
-- **Pronouns:** *(optional)*
+- **Telegram username:** 
 - **Timezone:** 
 - **Notes:** 
 
 ## Context
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+*(What does your org do? Who are the ideal clients? What makes a good lead vs. a bad one? Build this out over time.)*
 
 ---
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+The more context here, the better the agent qualifies leads on your behalf.

@@ -2,24 +2,27 @@
 *
 !workspace/
 !workspace/**
-!skills/
-!skills/**
 !lead-agent/
 !lead-agent/**
-!evro/
-!evro/**
 !manifest.json
 !README.md
 !.gitignore
 
-# Sensitive files and OS junk
-.DS_Store
+# Sensitive files — never commit real credentials
 .env
+**/.env
+**/.env.*
+!**/.env.example
+workspace/config/mcporter.json
+!workspace/config/mcporter.example.json
+
+# OS junk
+.DS_Store
 **/*.key
 **/*.pem
 **/secrets*
 
-# Build artifacts and temp files
+# Build artifacts
 **/*.log
 **/*.tmp
 **/*.bak
@@ -28,3 +31,16 @@
 
 # Node dependencies
 **/node_modules/
+
+# RaidGuild-specific files (live deployment, not template)
+workspace/campus-data/
+workspace/linkedin-connections.csv
+workspace/unr-*.json
+workspace/unr-*.csv
+workspace/populate-sheet.js
+workspace/copy-script.html
+workspace/*.sh
+workspace/bd-funnel/
+workspace/byzved/
+workspace/memory/
+workspace/skills/raidguild-bd/
