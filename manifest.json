@@ -7,6 +7,17 @@
     "vibe": "Ushering people through your BD funnel — from warm intro to funded deal — with a focus on accurate status and clear next steps.",
     "emoji": "🌀"
   },
+  "template": {
+    "slug": "bd-agent",
+    "category": "productivity",
+    "partnerName": "RaidGuild",
+    "tags": ["bd", "crm", "telegram", "pipeline", "leads", "web3"]
+  },
+  "channels": {
+    "telegram": {
+      "token_secret": "TELEGRAM_BOT_TOKEN"
+    }
+  },
   "secrets": [
     {
       "name": "TELEGRAM_BOT_TOKEN",
@@ -59,11 +70,9 @@
       "required": false
     }
   ],
-
   "scripts": {
     "build": "cd workspace/bot && npm install",
     "start": "cd workspace/bot && pm2 start bot.js --name bd-agent-bot --no-daemon || node bot.js"
   },
-
   "tasks": []
 }
