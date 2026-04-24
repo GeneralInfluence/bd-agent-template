@@ -10,6 +10,7 @@
   "template": {
     "slug": "bd-agent",
     "category": "productivity",
+    "authorName": "RaidGuild",
     "partnerName": "RaidGuild",
     "tags": ["bd", "crm", "telegram", "pipeline", "leads", "web3"]
   },
