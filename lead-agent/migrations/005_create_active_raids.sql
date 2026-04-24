@@ -91,49 +91,13 @@ ALTER TABLE leads
 CREATE INDEX IF NOT EXISTS idx_leads_raid ON leads(raid_id);
 
 -- ============================================================
--- Seed: EVRO active raid
--- ============================================================
-INSERT INTO active_raids (
-  name, full_name, raid_type, status,
-  client_org, website, app_url, github,
-  assigned_members, rg_governance_pct, safe_address,
-  revenue_to_date, revenue_currency,
-  upsell_description, upsell_value, upsell_currency,
-  key_contacts, governance_token, token_allocation,
-  description, notes
-) VALUES (
-  'EVRO',
-  'EVRO — EUR-pegged CDP stablecoin on Gnosis Chain',
-  'management',
-  'upsell',
-  'EVRO / Gnosis DAO',
-  'https://www.evro.finance',
-  'https://app.evro.finance',
-  'https://github.com/evro-finance',
-  ARRAY['Elco (0xNesk RG)'],
-  '30% of RETVRN governance token',
-  '0x3d0Ac27a6D40caA9Fcc49a00BfeF26705BF69C4C',
-  50000.00, 'USD',
-  'Reorganize EVRO Build Team → EVRO Management Team to help secure €5M from Gnosis DAO into the protocol. Projected ~$50k/year yield for EVRO DAO (managed by RaidGuild).',
-  50000.00, 'USD',
-  '[
-    {"name": "Julian Nesk", "handle": "@0xNesk", "email": "julian.nesk@gnosis.io", "role": "Gnosis BD Head"},
-    {"name": "Dave", "handle": "@marktomeme", "email": "dave@no.ca", "role": "NOCA treasury manager"},
-    {"name": "MrDeadce11", "handle": "@MrDeadce11", "email": null, "role": "EVRO Build Team / RaidGuild Member — technical contact"}
-  ]'::jsonb,
-  'RETVRN',
-  '{"raidguild": "30%", "gnosis_dao": "15%", "dao_treasury": "55%"}'::jsonb,
-  'RaidGuild manages the EVRO DAO. GIP-135 passed at 148% quorum — RaidGuild received $50k stipend for Liquity v2 fork audit on Gnosis Chain, in exchange for 15% of RETVRN governance token. Sherlock audit complete.',
-  'Funding txs: 0x8ae92a31f (test), 0x6ac23b829 (full). EVRO Telegram: https://t.me/+hofgAYWLewFmM2Zi. Elco site: elco.work. GIP-135: https://forum.gnosis.io/t/gip-135-should-gnosis-dao-grant-raidguild-a-50k-stipend-to-fund-the-audit-of-an-euro-pegged-cdp-stablecoin-on-gnosis-using-liquity-v2-liquidity-agreement-in-exchange-for-15-of-governance-token/11574. Deployed addresses: https://github.com/evro-finance/evro/blob/main/contracts/gnosis-deployment-v2.json. Status (2026-04-17): Waiting on Gnosis DAO call to green-light V5 deployment (€5M across 6 collateral branches: sDAI 35% / GNO 20% / wstETH 15% / wXDAI 15% / wBTC 10% / osGNO 5%).'
-)
-ON CONFLICT DO NOTHING;
 
 -- ============================================================
 -- Comments
 -- ============================================================
-COMMENT ON TABLE active_raids IS 'Ongoing RaidGuild engagements — distinct from the leads pipeline. A Raid is confirmed, funded work where RaidGuild is already delivering.';
+COMMENT ON TABLE active_raids IS 'Ongoing org engagements — distinct from the leads pipeline. An active raid is confirmed, funded work where your org is already delivering.';
 COMMENT ON TABLE raid_events IS 'Activity log for active raid lifecycle events, milestones, and upsells';
 COMMENT ON COLUMN active_raids.upsell_description IS 'Description of the next revenue opportunity within this ongoing raid';
-COMMENT ON COLUMN active_raids.key_contacts IS 'External contacts (non-RG members) — [{name, handle, email, role}]';
-COMMENT ON COLUMN active_raids.token_allocation IS 'Governance token split — {raidguild: %, gnosis_dao: %, treasury: %}';
+COMMENT ON COLUMN active_raids.key_contacts IS 'External contacts (non-org members) — [{name, handle, email, role}]';
+COMMENT ON COLUMN active_raids.token_allocation IS 'Governance token split — {org: %, partner: %, treasury: %}';
 COMMENT ON COLUMN leads.raid_id IS 'Optional link to an active raid — for upsell opportunities that originate within an existing engagement';
