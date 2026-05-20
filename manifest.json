@@ -51,6 +51,21 @@
       "required": false
     },
     {
+      "name": "BD_API_KEY",
+      "description": "Secret key for the BD REST API. The Cohort Portal uses this to authenticate requests. Generate a random 32+ char string.",
+      "required": false
+    },
+    {
+      "name": "CORS_ORIGIN",
+      "description": "(Optional) Allowed CORS origin for the BD API, e.g. https://cohort.raidguild.org. Defaults to * if unset.",
+      "required": false
+    },
+    {
+      "name": "API_PORT",
+      "description": "(Optional) Port for the BD REST API server. Defaults to 3000.",
+      "required": false
+    },
+    {
       "name": "PRISM_API_KEY",
       "description": "(Optional) PrismBOT API key. Gives the agent access to your community's meeting memory, decisions, and knowledge base.",
       "required": false
@@ -69,6 +84,14 @@
       "name": "STEWARD_TZ",
       "description": "(Optional) IANA timezone for the BD steward (e.g. America/Los_Angeles). Used for daily stale-lead checks and weekly pipeline summaries. Defaults to America/Los_Angeles.",
       "required": false
+    }
+  ],
+  "routes": [
+    {
+      "port": 3000,
+      "path": "/api",
+      "protected": false,
+      "description": "BD pipeline REST API for external integrations (e.g. Cohort Portal). Auth handled by BD_API_KEY bearer token."
     }
   ],
   "scripts": {

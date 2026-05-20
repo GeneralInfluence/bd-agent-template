@@ -23,6 +23,7 @@ const prism = require('./src/prism');
 const steward = require('./src/steward');
 const poller = require('./src/poller');
 const reminders = require('./src/reminders');
+const api = require('./src/api');
 
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const BD_STEWARD_ID = process.env.BD_STEWARD_TELEGRAM_ID;
@@ -321,6 +322,9 @@ poller.start(bot);
 
 // Start cron scheduler (reminders, stale detection, weekly pipeline)
 reminders.start(bot);
+
+// Start REST API server for external integrations (Cohort Portal, etc.)
+api.start();
 
 bot.start({
   allowed_updates: ['message', 'my_chat_member'],
