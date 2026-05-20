@@ -366,6 +366,30 @@ async function getRaids(req, res) {
 }
 
 /**
+ * GET /meetings
+ * Recent Discord voice meeting summaries from Prism.
+ * Powers a "what's been discussed" feed in the Cohort Portal.
+ *
+ * Query params:
+ *   limit  number  default 10, max 50
+ */
+async function getMeetings(req, res) {
+  if (!prism.isEnabled()) {
+    return res.status(503).json({ error: 'Prism not configured (PRISM_API_KEY not set)' });
+  }
+
+  try {
+    const limit = Math.min(parseInt(req.query.limit, 10) || 10, 50);
+    const data = await prism.getRecentMeetings(limit);
+    if (!data) return res.status(502).json({ error: 'Prism unavailable' });
+    res.json(data);
+  } catch (e) {
+    console.error('[api] getMeetings error:', e.message);
+    res.status(500).json({ error: e.message });
+  }
+}
+
+/**
  * GET /knowledge/search
  * Proxy to Prism knowledge search — lets the portal surface
  * relevant RaidGuild docs, SOPs, and capabilities to cohort members.
@@ -433,6 +457,7 @@ function start() {
 
   // Prism-backed endpoints
   app.get('/raids',             getRaids);
+  app.get('/meetings',          getMeetings);
   app.get('/knowledge/search',  searchKnowledge);
 
   // Catch-all 404

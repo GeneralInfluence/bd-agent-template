@@ -85,22 +85,52 @@ async function getProductSuggestions() {
 }
 
 /**
+ * Get recent meeting summaries from Discord voice recordings.
+ * @param {number} limit - number of summaries to fetch (default 3)
+ */
+async function getRecentMeetings(limit = 3) {
+  return prismGet(`/api/artifacts?source=discord-voice&type=meeting_summary&limit=${limit}`);
+}
+
+/**
  * BD-specific helpers
  */
 
-// Get a brief summary of recent RaidGuild activity for context
+// Get a brief summary of recent RaidGuild activity for LLM context.
+// Pulls the last 3 meeting summaries — far richer than /memory/latest alone.
 async function getBDContext() {
-  const memory = await getLatestMemory();
-  if (!memory) return null;
+  const [memory, meetings] = await Promise.all([
+    getLatestMemory().catch(() => null),
+    getRecentMeetings(3).catch(() => null),
+  ]);
 
-  const decisions = memory.sections?.key_decisions?.map(d => d.text).join('\n') || 'None';
-  const actions = memory.sections?.action_items?.map(a => a.text).join('\n') || 'None';
+  const parts = [];
+
+  // Recent meeting summaries
+  if (meetings?.artifacts?.length) {
+    const summaryBlocks = meetings.artifacts.map(a => {
+      const date = a.created_at?.slice(0, 10) || 'unknown date';
+      const participants = a.participants?.join(', ') || 'unknown';
+      // preview is the first ~500 chars of the full content
+      const content = a.content || a.preview || '';
+      return `### ${date} — ${a.id.split('-').slice(-1)}\nParticipants: ${participants}\n${content.slice(0, 600)}`;
+    }).join('\n\n---\n\n');
+    parts.push(`## Recent Meeting Summaries\n\n${summaryBlocks}`);
+  }
+
+  // Today's knowledge events (doc changes, decisions) if present
+  if (memory?.knowledge_events?.length) {
+    const events = memory.knowledge_events.slice(0, 5).map(e => `- ${e.title}: ${e.summary}`).join('\n');
+    parts.push(`## Today's Knowledge Updates\n${events}`);
+  }
+
+  if (!parts.length) return null;
+
+  const summary = `# RaidGuild Community Context\n\n${parts.join('\n\n')}`;
 
   return {
-    date: memory.date,
-    decisions,
-    actions,
-    summary: `RaidGuild community snapshot (${memory.date}):\nDecisions: ${decisions}\nAction items: ${actions}`,
+    date: memory?.date || new Date().toISOString().slice(0, 10),
+    summary,
   };
 }
 
@@ -130,6 +160,7 @@ module.exports = {
   getDigestForDate,
   getParticipants,
   getProjectState,
+  getRecentMeetings,
   searchKnowledge,
   getKnowledgeDoc,
   getProductSuggestions,
