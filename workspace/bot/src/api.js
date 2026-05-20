@@ -22,6 +22,7 @@
 
 const express = require('express');
 const db = require('./supabase');
+const prism = require('./prism');
 
 const API_KEY = process.env.BD_API_KEY;
 const API_PORT = parseInt(process.env.API_PORT || '3000', 10);
@@ -333,6 +334,72 @@ async function pipelineStats(req, res) {
   }
 }
 
+/**
+ * GET /raids
+ * Active raids and projects from Prism's state layer.
+ * Powers the "Contribute" feed in the Cohort Portal.
+ *
+ * Falls back gracefully if Prism is not configured.
+ */
+async function getRaids(req, res) {
+  if (!prism.isEnabled()) {
+    return res.status(503).json({ error: 'Prism not configured (PRISM_API_KEY not set)' });
+  }
+
+  try {
+    const [state, suggestions] = await Promise.all([
+      prism.getProjectState(),
+      prism.getProductSuggestions().catch(() => null),
+    ]);
+
+    if (!state) return res.status(502).json({ error: 'Prism state unavailable' });
+
+    res.json({
+      generated_at: state.generated_at,
+      projects: state.domains?.projects || {},
+      suggestions: suggestions || null,
+    });
+  } catch (e) {
+    console.error('[api] getRaids error:', e.message);
+    res.status(500).json({ error: e.message });
+  }
+}
+
+/**
+ * GET /knowledge/search
+ * Proxy to Prism knowledge search — lets the portal surface
+ * relevant RaidGuild docs, SOPs, and capabilities to cohort members.
+ *
+ * Query params:
+ *   q      string  required  search query
+ *   kind   string  optional  doc kind filter
+ *   tag    string  optional  tag filter
+ *   limit  number  optional  default 5, max 20
+ */
+async function searchKnowledge(req, res) {
+  if (!prism.isEnabled()) {
+    return res.status(503).json({ error: 'Prism not configured (PRISM_API_KEY not set)' });
+  }
+
+  const { q, kind, tag, limit = 5 } = req.query;
+  if (!q) return res.status(400).json({ error: 'q (search query) is required' });
+
+  try {
+    const results = await prism.searchKnowledge(q, {
+      kind,
+      tag,
+      limit: Math.min(parseInt(limit, 10) || 5, 20),
+    });
+
+    if (!results) return res.status(502).json({ error: 'Prism knowledge search unavailable' });
+
+    res.json(results);
+  } catch (e) {
+    console.error('[api] searchKnowledge error:', e.message);
+    res.status(500).json({ error: e.message });
+  }
+}
+
 // ─────────────────────────────────────────────
 // Server bootstrap
 // ─────────────────────────────────────────────
@@ -357,12 +424,16 @@ function start() {
   // Protected — all routes below require auth
   app.use(requireAuth);
 
-  app.get('/pipeline/stats',  pipelineStats);
-  app.get('/leads',           listLeads);
-  app.get('/leads/:id',       getLead);
-  app.post('/leads',          createLead);
-  app.patch('/leads/:id',     updateLead);
+  app.get('/pipeline/stats',    pipelineStats);
+  app.get('/leads',             listLeads);
+  app.get('/leads/:id',         getLead);
+  app.post('/leads',            createLead);
+  app.patch('/leads/:id',       updateLead);
   app.post('/leads/:id/events', logEvent);
+
+  // Prism-backed endpoints
+  app.get('/raids',             getRaids);
+  app.get('/knowledge/search',  searchKnowledge);
 
   // Catch-all 404
   app.use((req, res) => res.status(404).json({ error: 'Not found' }));

@@ -14,7 +14,7 @@
  * 4. Get product suggestions that might match a lead's needs
  */
 
-const BASE = process.env.PRISM_API_URL || 'https://prism-api-production-409d.up.railway.app';
+const BASE = process.env.PRISM_API_URL || 'https://prism-memory-production-002c.up.railway.app';
 
 function isEnabled() {
   return !!process.env.PRISM_API_KEY;
@@ -74,6 +74,11 @@ async function getKnowledgeDoc(slug) {
   return prismGet(`/knowledge/docs/${slug}`);
 }
 
+// Latest project/raid state — active raids, watching, archived
+async function getProjectState() {
+  return prismGet('/state/latest');
+}
+
 // Latest product suggestions — useful for matching leads to RaidGuild capabilities
 async function getProductSuggestions() {
   return prismGet('/products/suggestions/latest');
@@ -124,6 +129,7 @@ module.exports = {
   getMemoryForDate,
   getDigestForDate,
   getParticipants,
+  getProjectState,
   searchKnowledge,
   getKnowledgeDoc,
   getProductSuggestions,
