@@ -79,6 +79,11 @@ async function getProjectState() {
   return prismGet('/state/latest');
 }
 
+// Fetch a single artifact by ID (full content)
+async function getArtifact(artifactId) {
+  return prismGet(`/api/artifacts/${artifactId}`);
+}
+
 // Latest product suggestions — useful for matching leads to RaidGuild capabilities
 async function getProductSuggestions() {
   return prismGet('/products/suggestions/latest');
@@ -161,6 +166,7 @@ module.exports = {
   getParticipants,
   getProjectState,
   getRecentMeetings,
+  getArtifact,
   searchKnowledge,
   getKnowledgeDoc,
   getProductSuggestions,

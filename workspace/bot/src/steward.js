@@ -289,4 +289,16 @@ async function handleUpdate(ctx, args) {
   return ctx.reply(`✅ Updated ${field} to "${value}".`);
 }
 
-module.exports = { isSteward, handlePipeline, handleNote, handleConfirm, handleClose, handleQuery, handleAdd, handleUpdate, addSessions };
+// Check if a BD steward is configured
+function isStewardConfigured() {
+  return !!process.env.BD_STEWARD_TELEGRAM_ID;
+}
+
+// Send a message to the BD steward
+async function notify(bot, message) {
+  const stewardId = process.env.BD_STEWARD_TELEGRAM_ID;
+  if (!stewardId || !bot) return;
+  await bot.api.sendMessage(stewardId, message, { parse_mode: 'Markdown' });
+}
+
+module.exports = { isSteward, isStewardConfigured, notify, handlePipeline, handleNote, handleConfirm, handleClose, handleQuery, handleAdd, handleUpdate, addSessions };

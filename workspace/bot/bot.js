@@ -24,6 +24,7 @@ const steward = require('./src/steward');
 const poller = require('./src/poller');
 const reminders = require('./src/reminders');
 const api = require('./src/api');
+const ingestion = require('./src/meeting-ingestion');
 
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const BD_STEWARD_ID = process.env.BD_STEWARD_TELEGRAM_ID;
@@ -301,6 +302,17 @@ bot.command('remind', async (ctx) => {
   return ctx.reply(`⏰ Reminder set for ${fireAt.toDateString()}\n"${text}"\n\nID: \`${r.id}\``, { parse_mode: 'Markdown' });
 });
 
+bot.command('ingest', async (ctx) => {
+  if (!steward.isSteward(ctx.from?.id)) return ctx.reply('This command is for the BD steward only.');
+  await ctx.reply('🔄 Running meeting ingestion now...');
+  try {
+    await ingestion.runIngestion();
+    await ctx.reply('✅ Ingestion complete. Check pipeline with /pipeline.');
+  } catch (e) {
+    await ctx.reply('❌ Ingestion failed: ' + e.message);
+  }
+});
+
 bot.command('reminders', async (ctx) => {
   if (!steward.isSteward(ctx.from?.id)) return ctx.reply('This command is for the BD steward only.');
   const all = reminders.loadReminders();
@@ -325,6 +337,9 @@ reminders.start(bot);
 
 // Start REST API server for external integrations (Cohort Portal, etc.)
 api.start();
+
+// Start meeting ingestion pipeline (reads Prism → updates leads/Ditto)
+ingestion.start(bot);
 
 bot.start({
   allowed_updates: ['message', 'my_chat_member'],
